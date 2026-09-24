@@ -3,80 +3,105 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
 <title>Wynne Terms of Use</title>
-<meta name="description" content="Terms of use for the Wynne iOS app and the Wynne Plus subscription.">
+<meta name="description" content="Terms of use and subscription terms for the Wynne app on iPhone and Android.">
 <style>
-  :root { --bg:#F7F4EF; --surface:#FFFFFF; --ink:#1F1D1A; --ink2:#5C5751; --line:rgba(31,29,26,.08); --accent:#4F6B58; }
+  :root { --bg:#F7F4EF; --surface:#FFFFFF; --ink:#1F1D1A; --ink2:#5C5751; --line:rgba(31,29,26,.10); --accent:#4F6B58; }
   @media (prefers-color-scheme: dark) {
-    :root { --bg:#151412; --surface:#1E1C19; --ink:#F2EEE8; --ink2:#B8B0A6; --line:rgba(242,238,232,.10); --accent:#8FB09A; }
+    :root:not([data-theme="light"]) { --bg:#151412; --surface:#1E1C19; --ink:#F2EEE8; --ink2:#B8B0A6; --line:rgba(242,238,232,.12); --accent:#8FB09A; }
   }
+  :root[data-theme="dark"] { --bg:#151412; --surface:#1E1C19; --ink:#F2EEE8; --ink2:#B8B0A6; --line:rgba(242,238,232,.12); --accent:#8FB09A; }
   * { box-sizing: border-box; }
-  body { margin:0; background:var(--bg); color:var(--ink2); font:17px/1.6 -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", sans-serif; }
-  main { max-width:680px; margin:0 auto; padding:48px 16px 80px; }
-  h1, h2 { color:var(--ink); font-family: "Fraunces", Georgia, serif; font-weight:500; line-height:1.25; }
-  h1 { font-size:34px; margin:0 0 8px; }
-  h2 { font-size:22px; margin:40px 0 8px; }
-  a { color:var(--accent); }
+  html { -webkit-text-size-adjust:100%; }
+  body { margin:0; background:var(--bg); color:var(--ink2); font:17px/1.6 -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto, sans-serif; }
+  main { max-width:680px; margin:0 auto; padding:40px 16px 80px; }
+  h1, h2, h3 { color:var(--ink); font-family:"Fraunces", Georgia, serif; font-weight:500; line-height:1.25; }
+  h1 { font-size:32px; margin:0 0 8px; }
+  h2 { font-size:22px; margin:36px 0 8px; }
+  h3 { font-size:18px; margin:24px 0 6px; }
+  a { color:var(--accent); text-underline-offset:3px; }
+  a:focus-visible { outline:3px solid var(--accent); outline-offset:2px; }
   .meta { font-size:14px; }
-  .card { background:var(--surface); border:1px solid var(--line); border-radius:16px; padding:16px 20px; }
-  ul { padding-left:20px; }
+  .card { background:var(--surface); border:1px solid var(--line); border-radius:16px; padding:14px 18px; }
+  ul, ol { padding-left:22px; }
+  li { margin:4px 0; }
   hr { border:0; border-top:1px solid var(--line); margin:56px 0; }
-  nav { font-size:15px; margin-bottom:32px; }
+  nav { font-size:15px; margin-bottom:28px; display:flex; flex-wrap:wrap; gap:6px; }
+  nav a { padding:4px 12px; border:1px solid var(--line); border-radius:999px; text-decoration:none; background:var(--surface); }
+  nav a[aria-current=page] { font-weight:600; border-color:var(--accent); }
+  .lang { font-size:15px; margin:-12px 0 24px; }
+  footer { margin-top:48px; font-size:14px; border-top:1px solid var(--line); padding-top:14px; }
 </style>
 </head>
 <body>
 <main>
-<nav><a href="#en">English</a> · <a href="#de">Deutsch</a> · <a href="privacy.html">Privacy</a></nav>
-
+<nav aria-label="Pages"><a href="index.html">Start</a><a href="privacy.html">Privacy</a><a href="terms.html" aria-current=page>Terms</a><a href="support.html">Support</a><a href="delete-data.html">Delete data</a></nav>
+<p class="lang"><a href="#en">English</a> · <a href="#de">Deutsch</a></p>
 <section id="en" lang="en">
 <h1>Terms of Use</h1>
-<p class="meta">Wynne for iOS · Last updated: 19 September 2026</p>
+<p class="meta">Wynne for iPhone and Android · Last updated: 25 September 2026</p>
+<p>These terms apply to your use of the Wynne app, provided by Benneth Müller, Benneth Müller Digital Solutions &amp; Education, Borgfelder Str. 16, 20537 Hamburg, Germany. If you downloaded Wynne from the App Store, Apple's <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Licensed Application End User License Agreement (Standard EULA)</a> also applies. If you downloaded it from Google Play, the <a href="https://play.google.com/about/play-terms/">Google Play Terms of Service</a> also apply.</p>
 
-<div class="card">
-<p>Your use of Wynne is governed by Apple's <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Licensed Application End User License Agreement (Standard EULA)</a>. The points below summarise how the subscription works and add one health note.</p>
-</div>
-
-<h2>Wynne Plus subscription</h2>
+<h2>The free plan and Wynne Plus</h2>
 <ul>
-  <li>The 10-minute day is free forever. Wynne Plus unlocks the 20- and 30-minute days.</li>
-  <li>Wynne Plus is offered monthly or yearly. The price is shown in the app before you confirm.</li>
-  <li>Each plan can include a 7-day free trial for new subscribers. If you don't cancel at least 24 hours before the trial ends, the subscription starts and your Apple ID is charged.</li>
-  <li>Subscriptions renew automatically unless you turn off auto-renew at least 24 hours before the end of the current period. You can manage or cancel anytime in your iPhone Settings → Apple ID → Subscriptions.</li>
-  <li>Payment is charged to your Apple ID. Refunds are handled by Apple under its policies.</li>
+<li>Wynne is free to download and use. The free plan does not expire.</li>
+<li>Wynne Plus is an optional auto-renewing subscription. It removes the limit on how many exercises your day plan can hold. The current limit of the free plan and what Plus includes are shown in the app before you buy.</li>
+<li>Wynne Plus is offered monthly or yearly. The price for your country is shown in the app before you confirm.</li>
+<li>Where you are eligible, Plus may start with a free trial. Its length is shown before you confirm. If you do not cancel at least 24 hours before the trial ends, the paid subscription starts.</li>
+<li>Payment is charged to your Apple Account or Google Play account when you confirm the purchase (or when the trial ends). Subscriptions renew automatically unless auto-renew is turned off at least 24 hours before the end of the current period.</li>
+<li>Manage or cancel: on iPhone in <strong>Settings → your name → Subscriptions</strong>; on Android in <strong>Google Play → Profile → Payments &amp; subscriptions → Subscriptions</strong>, or at <a href="https://play.google.com/store/account/subscriptions">play.google.com/store/account/subscriptions</a>. Deleting the app does not cancel a subscription.</li>
+<li>Refunds are handled by Apple or Google under their policies. Statutory consumer rights are not affected.</li>
 </ul>
 
 <h2>Not medical advice</h2>
-<p>Wynne offers general movement and relaxation suggestions, not medical advice. Move within a range that feels comfortable, stop if anything hurts, and check with a healthcare professional before starting a new routine, especially if you are pregnant, postpartum, injured, or managing a health condition.</p>
+<p>Wynne offers general movement and relaxation suggestions, not medical advice, diagnosis or treatment. Move within a range that feels comfortable, stop if anything hurts, and check with a healthcare professional before starting a new routine, especially if you are pregnant, postpartum, injured, or managing a health condition. If you mark a new, sharp or worsening pain in the check-in, Wynne plans nothing for that day and suggests seeing a clinician.</p>
+
+<h2>Your use of the app</h2>
+<p>You may use Wynne for personal, non-commercial purposes. The sessions, texts, illustrations and sounds in Wynne are protected by copyright and may not be copied or redistributed.</p>
+
+<h2>Liability</h2>
+<p>We are liable without limitation for intent and gross negligence and for injury to life, body or health. For slight negligence we are liable only for the breach of essential contractual obligations, limited to the damage typical and foreseeable for this kind of contract. Liability under product liability law remains unaffected.</p>
+
+<h2>Changes and law</h2>
+<p>We may update these terms when the app changes; the date above shows the current version. German law applies, without prejudice to mandatory consumer protection rules of your country of residence.</p>
 
 <h2>Contact</h2>
-<p>Benneth Müller, Benneth Müller Digital Solutions &amp; Education · <a href="mailto:ben@creaiter.com">ben@creaiter.com</a></p>
+<p>Benneth Müller, Benneth Müller Digital Solutions &amp; Education · <a href="mailto:ben@creaiter.com">ben@creaiter.com</a> · <a href="support.html">Support</a></p>
 </section>
-
 <hr>
-
 <section id="de" lang="de">
 <h1>Nutzungsbedingungen</h1>
-<p class="meta">Wynne für iOS · Stand: 19. September 2026</p>
+<p class="meta">Wynne für iPhone und Android · Stand: 25. September 2026</p>
+<p>Diese Bedingungen gelten für die Nutzung der App Wynne, angeboten von Benneth Müller, Benneth Müller Digital Solutions &amp; Education, Borgfelder Str. 16, 20537 Hamburg, Germany. Hast du Wynne aus dem App Store geladen, gilt zusätzlich Apples <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Standard-Endbenutzer-Lizenzvertrag (Standard EULA)</a>. Hast du sie aus Google Play geladen, gelten zusätzlich die <a href="https://play.google.com/about/play-terms/">Nutzungsbedingungen von Google Play</a>.</p>
 
-<div class="card">
-<p>Für die Nutzung von Wynne gilt Apples <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Standard-Endbenutzer-Lizenzvertrag (Standard EULA)</a>. Die folgenden Punkte fassen zusammen, wie das Abo funktioniert, und ergänzen einen Gesundheitshinweis.</p>
-</div>
-
-<h2>Wynne-Plus-Abo</h2>
+<h2>Der kostenlose Plan und Wynne Plus</h2>
 <ul>
-  <li>Der 10-Minuten-Tag bleibt für immer kostenlos. Wynne Plus schaltet die 20- und 30-Minuten-Tage frei.</li>
-  <li>Wynne Plus gibt es monatlich oder jährlich. Der Preis wird dir in der App angezeigt, bevor du bestätigst.</li>
-  <li>Für neue Abonnentinnen kann jeder Plan eine 7-tägige kostenlose Testphase enthalten. Kündigst du nicht spätestens 24 Stunden vor ihrem Ende, beginnt das Abo und deine Apple-ID wird belastet.</li>
-  <li>Abos verlängern sich automatisch, wenn du die automatische Verlängerung nicht spätestens 24 Stunden vor Ende des laufenden Zeitraums ausschaltest. Verwalten oder kündigen kannst du jederzeit in den iPhone-Einstellungen → Apple-ID → Abonnements.</li>
-  <li>Die Zahlung erfolgt über deine Apple-ID. Erstattungen regelt Apple nach seinen Richtlinien.</li>
+<li>Wynne ist kostenlos herunterzuladen und zu nutzen. Der kostenlose Plan läuft nicht ab.</li>
+<li>Wynne Plus ist ein optionales, sich automatisch verlängerndes Abo. Es hebt die Grenze auf, wie viele Übungen dein Tagesplan fassen kann. Die aktuelle Grenze des kostenlosen Plans und der Umfang von Plus stehen in der App, bevor du kaufst.</li>
+<li>Wynne Plus gibt es monatlich oder jährlich. Der Preis für dein Land wird in der App angezeigt, bevor du bestätigst.</li>
+<li>Wo verfügbar, kann Plus mit einer kostenlosen Testphase beginnen. Ihre Länge wird angezeigt, bevor du bestätigst. Kündigst du nicht spätestens 24 Stunden vor ihrem Ende, beginnt das kostenpflichtige Abo.</li>
+<li>Die Zahlung wird bei Bestätigung des Kaufs (bzw. am Ende der Testphase) deinem Apple Account oder Google-Play-Konto belastet. Abos verlängern sich automatisch, wenn die automatische Verlängerung nicht spätestens 24 Stunden vor Ende des laufenden Zeitraums ausgeschaltet wird.</li>
+<li>Verwalten oder kündigen: auf dem iPhone unter <strong>Einstellungen → dein Name → Abonnements</strong>; auf Android unter <strong>Google Play → Profil → Zahlungen und Abos → Abos</strong> oder unter <a href="https://play.google.com/store/account/subscriptions">play.google.com/store/account/subscriptions</a>. Das Löschen der App kündigt kein Abo.</li>
+<li>Erstattungen regeln Apple bzw. Google nach ihren Richtlinien. Gesetzliche Verbraucherrechte bleiben unberührt.</li>
 </ul>
 
 <h2>Keine medizinische Beratung</h2>
-<p>Wynne bietet allgemeine Bewegungs- und Entspannungsvorschläge, keine medizinische Beratung. Beweg dich in einem Bereich, der sich angenehm anfühlt, hör auf, wenn etwas wehtut, und sprich mit medizinischem Fachpersonal, bevor du eine neue Routine beginnst, besonders wenn du schwanger bist, gerade entbunden hast, verletzt bist oder eine Erkrankung hast.</p>
+<p>Wynne bietet allgemeine Bewegungs- und Entspannungsvorschläge, keine medizinische Beratung, Diagnose oder Behandlung. Beweg dich in einem Bereich, der sich angenehm anfühlt, hör auf, wenn etwas wehtut, und sprich mit medizinischem Fachpersonal, bevor du eine neue Routine beginnst, besonders wenn du schwanger bist, gerade entbunden hast, verletzt bist oder eine Erkrankung hast. Markierst du im Check-in einen neuen, stechenden oder schlimmer werdenden Schmerz, plant Wynne für diesen Tag nichts und rät zu ärztlichem Rat.</p>
+
+<h2>Nutzung der App</h2>
+<p>Du darfst Wynne für persönliche, nicht-kommerzielle Zwecke nutzen. Einheiten, Texte, Illustrationen und Klänge in Wynne sind urheberrechtlich geschützt und dürfen nicht kopiert oder weiterverbreitet werden.</p>
+
+<h2>Haftung</h2>
+<p>Wir haften unbeschränkt bei Vorsatz und grober Fahrlässigkeit sowie bei Verletzung von Leben, Körper oder Gesundheit. Bei leichter Fahrlässigkeit haften wir nur für die Verletzung wesentlicher Vertragspflichten, begrenzt auf den vertragstypischen, vorhersehbaren Schaden. Die Haftung nach dem Produkthaftungsgesetz bleibt unberührt.</p>
+
+<h2>Änderungen und Recht</h2>
+<p>Wir können diese Bedingungen anpassen, wenn sich die App ändert; das Datum oben zeigt die aktuelle Fassung. Es gilt deutsches Recht, unbeschadet zwingender Verbraucherschutzvorschriften deines Wohnsitzlandes.</p>
 
 <h2>Kontakt</h2>
-<p>Benneth Müller, Benneth Müller Digital Solutions &amp; Education · <a href="mailto:ben@creaiter.com">ben@creaiter.com</a></p>
+<p>Benneth Müller, Benneth Müller Digital Solutions &amp; Education · <a href="mailto:ben@creaiter.com">ben@creaiter.com</a> · <a href="support.html">Support</a></p>
 </section>
+<footer>Wynne · Benneth Müller, Benneth Müller Digital Solutions &amp; Education · Borgfelder Str. 16, 20537 Hamburg, Germany · <a href="mailto:ben@creaiter.com">ben@creaiter.com</a></footer>
 </main>
 </body>
 </html>

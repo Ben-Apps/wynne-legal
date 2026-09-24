@@ -3,132 +3,141 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
 <title>Wynne Privacy Policy</title>
-<meta name="description" content="Privacy policy for the Wynne iOS app: your data stays on your phone. No account, no tracking, no ads.">
+<meta name="description" content="Privacy policy for the Wynne app on iPhone and Android: your data stays on your phone. No account, no tracking, no ads.">
 <style>
-  :root { --bg:#F7F4EF; --surface:#FFFFFF; --ink:#1F1D1A; --ink2:#5C5751; --line:rgba(31,29,26,.08); --accent:#4F6B58; }
+  :root { --bg:#F7F4EF; --surface:#FFFFFF; --ink:#1F1D1A; --ink2:#5C5751; --line:rgba(31,29,26,.10); --accent:#4F6B58; }
   @media (prefers-color-scheme: dark) {
-    :root { --bg:#151412; --surface:#1E1C19; --ink:#F2EEE8; --ink2:#B8B0A6; --line:rgba(242,238,232,.10); --accent:#8FB09A; }
+    :root:not([data-theme="light"]) { --bg:#151412; --surface:#1E1C19; --ink:#F2EEE8; --ink2:#B8B0A6; --line:rgba(242,238,232,.12); --accent:#8FB09A; }
   }
+  :root[data-theme="dark"] { --bg:#151412; --surface:#1E1C19; --ink:#F2EEE8; --ink2:#B8B0A6; --line:rgba(242,238,232,.12); --accent:#8FB09A; }
   * { box-sizing: border-box; }
-  body { margin:0; background:var(--bg); color:var(--ink2); font:17px/1.6 -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", sans-serif; }
-  main { max-width:680px; margin:0 auto; padding:48px 16px 80px; }
-  h1, h2 { color:var(--ink); font-family: "Fraunces", Georgia, serif; font-weight:500; line-height:1.25; }
-  h1 { font-size:34px; margin:0 0 8px; }
-  h2 { font-size:22px; margin:40px 0 8px; }
-  a { color:var(--accent); }
+  html { -webkit-text-size-adjust:100%; }
+  body { margin:0; background:var(--bg); color:var(--ink2); font:17px/1.6 -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto, sans-serif; }
+  main { max-width:680px; margin:0 auto; padding:40px 16px 80px; }
+  h1, h2, h3 { color:var(--ink); font-family:"Fraunces", Georgia, serif; font-weight:500; line-height:1.25; }
+  h1 { font-size:32px; margin:0 0 8px; }
+  h2 { font-size:22px; margin:36px 0 8px; }
+  h3 { font-size:18px; margin:24px 0 6px; }
+  a { color:var(--accent); text-underline-offset:3px; }
+  a:focus-visible { outline:3px solid var(--accent); outline-offset:2px; }
   .meta { font-size:14px; }
-  .card { background:var(--surface); border:1px solid var(--line); border-radius:16px; padding:16px 20px; }
-  ul { padding-left:20px; }
+  .card { background:var(--surface); border:1px solid var(--line); border-radius:16px; padding:14px 18px; }
+  ul, ol { padding-left:22px; }
+  li { margin:4px 0; }
   hr { border:0; border-top:1px solid var(--line); margin:56px 0; }
-  nav { font-size:15px; margin-bottom:32px; }
+  nav { font-size:15px; margin-bottom:28px; display:flex; flex-wrap:wrap; gap:6px; }
+  nav a { padding:4px 12px; border:1px solid var(--line); border-radius:999px; text-decoration:none; background:var(--surface); }
+  nav a[aria-current=page] { font-weight:600; border-color:var(--accent); }
+  .lang { font-size:15px; margin:-12px 0 24px; }
+  footer { margin-top:48px; font-size:14px; border-top:1px solid var(--line); padding-top:14px; }
 </style>
 </head>
 <body>
 <main>
-<nav><a href="#en">English</a> · <a href="#de">Deutsch</a> · <a href="terms.html">Terms</a></nav>
-
+<nav aria-label="Pages"><a href="index.html">Start</a><a href="privacy.html" aria-current=page>Privacy</a><a href="terms.html">Terms</a><a href="support.html">Support</a><a href="delete-data.html">Delete data</a></nav>
+<p class="lang"><a href="#en">English</a> · <a href="#de">Deutsch</a></p>
 <section id="en" lang="en">
 <h1>Privacy Policy</h1>
-<p class="meta">Wynne for iOS · Last updated: 19 September 2026</p>
-
-<div class="card">
-<p><strong>In short:</strong> Wynne keeps your check-ins, plan and history on your phone. There is no account, no tracking, no advertising and no analytics. Purchases of Wynne Plus are handled by Apple and by RevenueCat, our subscription service provider.</p>
-</div>
+<p class="meta">Wynne for iPhone and Android · Last updated: 25 September 2026</p>
+<div class="card"><p><strong>In short:</strong> Wynne keeps your check-ins, plans and history on your phone. There is no account, no tracking, no advertising and no analytics SDK. Data leaves your phone in three cases only: when you buy or restore Wynne Plus (Apple or Google, and RevenueCat), when you enter a reviewer access code (our server at Supabase), and when the app loads an optional text update from this website.</p></div>
 
 <h2>Who is responsible</h2>
 <p>Benneth Müller, Benneth Müller Digital Solutions &amp; Education, Borgfelder Str. 16, 20537 Hamburg, Germany. Contact: <a href="mailto:ben@creaiter.com">ben@creaiter.com</a>.</p>
 
 <h2>Data that stays on your device</h2>
-<p>Everything you enter in Wynne is stored only in the app's local storage on your iPhone and is never sent to us:</p>
+<p>Everything you enter in Wynne is stored only in the app's local storage on your phone and is never sent to us:</p>
 <ul>
-  <li>your setup answers (for example what shapes your day, your usual time window, areas to go easy on, optional cycle and midlife settings),</li>
-  <li>your daily check-ins (energy, time, body, optional period day),</li>
-  <li>your plans, finished or paused sessions and one-tap feedback,</li>
-  <li>your settings, such as language and reminder time.</li>
+<li>your setup answers (for example what shapes your day, your usual time window, your experience with Pilates, areas to go easy on, and the optional period-day and midlife settings),</li>
+<li>your daily check-ins (time, place, energy, body areas, optional period day),</li>
+<li>your day plans, finished or paused sessions and your one-tap feedback after a session,</li>
+<li>your settings, such as reminder time, voice and music.</li>
 </ul>
-<p>Reminders are local notifications scheduled on your phone. We have no server that receives them. Deleting the app deletes all of this data. You can also reset it in the app under You.</p>
+<p>Some of these answers relate to your health (for example tender body areas or period days). They are processed only on your phone, so we never receive them. Reminders are local notifications scheduled on your phone; Wynne asks for permission only after you turn a reminder on. You can delete all of this data in the app under <strong>Settings → Reset my data</strong>, or by uninstalling the app.</p>
 
-<h2>Purchases (RevenueCat and Apple)</h2>
-<p>If you start a trial or subscribe to Wynne Plus, the payment is processed by Apple under your Apple ID. We never see your payment details. To check whether Wynne Plus is active, the app uses RevenueCat (RevenueCat, Inc., USA). RevenueCat receives an anonymous, randomly generated app user ID, your purchase and subscription status (transaction data from the App Store), and technical data such as app version, device model, operating system, country/storefront and IP address. This data is not linked to your name or email, and it is used only to provide and restore your subscription. See <a href="https://www.revenuecat.com/privacy">RevenueCat's privacy policy</a> and <a href="https://www.apple.com/legal/privacy/">Apple's privacy policy</a>.</p>
+<h2>Purchases (Apple, Google and RevenueCat)</h2>
+<p>If you start a trial or subscribe to Wynne Plus, the payment is processed by Apple (App Store) or Google (Google Play) under your store account. We never see your payment details. To check whether Wynne Plus is active, the app uses RevenueCat (RevenueCat, Inc., USA) as our processor. RevenueCat receives an anonymous, randomly generated app user ID, your purchase and subscription status (transaction data from the store), and technical data such as app version, device model, operating system, country/storefront and IP address. This data is not linked to your name or email. It is used to provide and restore your subscription, and we see it in RevenueCat's dashboard as subscription and revenue figures. RevenueCat keeps it for as long as it is needed for these purposes; you can ask us to delete it (see <a href="delete-data.html">Delete data</a>). See <a href="https://www.revenuecat.com/privacy">RevenueCat's privacy policy</a>, <a href="https://www.apple.com/legal/privacy/">Apple's privacy policy</a> and <a href="https://policies.google.com/privacy">Google's privacy policy</a>.</p>
 <p>Legal basis (GDPR): performance of the contract you enter into when you subscribe (Art. 6(1)(b)). RevenueCat processes data in the USA; the transfer is based on the EU–US Data Privacy Framework and/or Standard Contractual Clauses.</p>
 
+<h2>Reviewer access codes (Supabase)</h2>
+<p>Under <strong>Settings → Reviewer access</strong>, app reviewers and competition judges can enter an access code that turns on Wynne Plus without a purchase. Only if you enter a code, the app signs in anonymously at our server provider Supabase (Supabase, Inc.; servers in Frankfurt, Germany) and sends the code for checking. The server stores an anonymous user ID, which codes were redeemed and when, and failed attempts (to limit guessing). No name, no email address and none of your wellness data are sent. Legal basis: Art. 6(1)(b) and (f) GDPR (providing the access and protecting the codes against guessing). If you never enter a code, the app does not contact Supabase with any data about you. See <a href="https://supabase.com/privacy">Supabase's privacy policy</a>.</p>
+
 <h2>Content updates</h2>
-<p>When the app starts, it may download one small text file with session text corrections from the same website that hosts this page (GitHub Pages). Like any web request, this reveals your IP address to the host for delivery; no identifier or personal data is sent. The app works fully without it.</p>
+<p>When the app starts, it may download one small text file with session text corrections from this website (GitHub Pages, operated by GitHub, Inc., USA). Like any web request, this reveals your IP address to the host for delivery; no identifier or personal data is sent. The app works fully without it. See <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub's privacy statement</a>.</p>
 
 <h2>What we do not do</h2>
 <ul>
-  <li>No account or login.</li>
-  <li>No tracking across apps or websites, no advertising identifiers, no ads.</li>
-  <li>No analytics or crash-reporting SDKs.</li>
-  <li>No selling or sharing of data.</li>
-  <li>No Apple Health access.</li>
+<li>No account, no login, no email address.</li>
+<li>No tracking across apps or websites, no advertising identifiers, no ads.</li>
+<li>No analytics or crash-reporting SDKs.</li>
+<li>No selling of data.</li>
+<li>No access to Apple Health, Health Connect, your location, camera, microphone or contacts.</li>
 </ul>
 
 <h2>Children</h2>
-<p>Wynne is not directed at children under 16 and does not knowingly collect data from them.</p>
+<p>Wynne is made for adults. It is not directed at children under 16 and does not knowingly collect data from them.</p>
 
 <h2>Your rights</h2>
-<p>You have the right to access, correct, delete and port your data, to restrict or object to processing, and to complain to a data protection authority. Because your wellness data never leaves your phone, you control it directly. For data held by RevenueCat, contact us with your purchase details and we will help.</p>
+<p>You have the right to access, correct, delete and port your data, to restrict or object to processing, and to complain to a data protection authority. Because your wellness data never leaves your phone, you control it directly. For data held by RevenueCat or Supabase, write to <a href="mailto:ben@creaiter.com">ben@creaiter.com</a> and include your <strong>RevenueCat user ID</strong> (shown in the app under Settings → Reviewer access, tap to copy) so we can find it. Details: <a href="delete-data.html">Delete data</a>.</p>
 
 <h2>Health note</h2>
-<p>Wynne offers general movement and relaxation suggestions, not medical advice.</p>
+<p>Wynne offers general movement and relaxation suggestions, not medical advice, diagnosis or treatment.</p>
 
 <h2>Changes</h2>
 <p>If this policy changes, we update this page and the date above.</p>
 </section>
-
 <hr>
-
 <section id="de" lang="de">
 <h1>Datenschutzerklärung</h1>
-<p class="meta">Wynne für iOS · Stand: 19. September 2026</p>
-
-<div class="card">
-<p><strong>Kurz gesagt:</strong> Wynne speichert deine Check-ins, Pläne und deinen Verlauf nur auf deinem iPhone. Es gibt kein Konto, kein Tracking, keine Werbung und keine Analyse-Tools. Käufe von Wynne Plus laufen über Apple und über RevenueCat, unseren Dienstleister für Abonnements.</p>
-</div>
+<p class="meta">Wynne für iPhone und Android · Stand: 25. September 2026</p>
+<div class="card"><p><strong>Kurz gesagt:</strong> Wynne speichert deine Check-ins, Pläne und deinen Verlauf nur auf deinem Telefon. Es gibt kein Konto, kein Tracking, keine Werbung und kein Analyse-SDK. Daten verlassen dein Telefon nur in drei Fällen: wenn du Wynne Plus kaufst oder wiederherstellst (Apple bzw. Google und RevenueCat), wenn du einen Prüf-Zugangscode eingibst (unser Server bei Supabase) und wenn die App ein optionales Text-Update von dieser Website lädt.</p></div>
 
 <h2>Verantwortlich</h2>
 <p>Benneth Müller, Benneth Müller Digital Solutions &amp; Education, Borgfelder Str. 16, 20537 Hamburg, Germany. Kontakt: <a href="mailto:ben@creaiter.com">ben@creaiter.com</a>.</p>
 
 <h2>Daten, die auf deinem Gerät bleiben</h2>
-<p>Alles, was du in Wynne eingibst, liegt ausschließlich im lokalen Speicher der App auf deinem iPhone und wird nie an uns übertragen:</p>
+<p>Alles, was du in Wynne eingibst, liegt ausschließlich im lokalen Speicher der App auf deinem Telefon und wird nie an uns übertragen:</p>
 <ul>
-  <li>deine Antworten aus der Einrichtung (zum Beispiel was deinen Tag prägt, dein übliches Zeitfenster, Bereiche, die geschont werden sollen, optionale Zyklus- und Lebensmitte-Einstellungen),</li>
-  <li>deine täglichen Check-ins (Energie, Zeit, Körper, optional Periodentag),</li>
-  <li>deine Pläne, abgeschlossene oder pausierte Sessions und dein Ein-Tipp-Feedback,</li>
-  <li>deine Einstellungen wie Sprache und Erinnerungszeit.</li>
+<li>deine Antworten aus der Einrichtung (zum Beispiel was deinen Tag prägt, dein übliches Zeitfenster, deine Pilates-Erfahrung, Bereiche, die geschont werden sollen, und die optionalen Einstellungen zu Periodentagen und Wechseljahren),</li>
+<li>deine täglichen Check-ins (Zeit, Ort, Energie, Körperbereiche, optional Periodentag),</li>
+<li>deine Tagespläne, abgeschlossene oder pausierte Einheiten und deine Ein-Tipp-Rückmeldung nach einer Einheit,</li>
+<li>deine Einstellungen wie Erinnerungszeit, Stimme und Musik.</li>
 </ul>
-<p>Erinnerungen sind lokale Mitteilungen, die auf deinem Telefon geplant werden. Wenn du die App löschst, sind alle diese Daten gelöscht. Du kannst sie auch in der App unter „Du" zurücksetzen.</p>
+<p>Einige dieser Angaben betreffen deine Gesundheit (zum Beispiel empfindliche Körperbereiche oder Periodentage). Sie werden nur auf deinem Telefon verarbeitet; wir erhalten sie nie. Erinnerungen sind lokale Mitteilungen, die auf deinem Telefon geplant werden; Wynne fragt erst nach der Erlaubnis, wenn du eine Erinnerung einschaltest. Du kannst all diese Daten in der App unter <strong>Einstellungen → Meine Daten zurücksetzen</strong> löschen oder indem du die App deinstallierst.</p>
 
-<h2>Käufe (RevenueCat und Apple)</h2>
-<p>Wenn du eine Testphase startest oder Wynne Plus abonnierst, wickelt Apple die Zahlung über deine Apple-ID ab. Zahlungsdaten sehen wir nie. Um zu prüfen, ob Wynne Plus aktiv ist, nutzt die App RevenueCat (RevenueCat, Inc., USA). RevenueCat erhält eine anonyme, zufällig erzeugte App-Nutzer-ID, deinen Kauf- und Abostatus (Transaktionsdaten aus dem App Store) sowie technische Daten wie App-Version, Gerätemodell, Betriebssystem, Land/Storefront und IP-Adresse. Diese Daten sind nicht mit deinem Namen oder deiner E-Mail verknüpft und dienen nur dazu, dein Abo bereitzustellen und wiederherzustellen. Siehe <a href="https://www.revenuecat.com/privacy">Datenschutzerklärung von RevenueCat</a> und <a href="https://www.apple.com/de/legal/privacy/">Datenschutzrichtlinie von Apple</a>.</p>
+<h2>Käufe (Apple, Google und RevenueCat)</h2>
+<p>Wenn du eine Testphase startest oder Wynne Plus abonnierst, wickelt Apple (App Store) bzw. Google (Google Play) die Zahlung über dein Store-Konto ab. Zahlungsdaten sehen wir nie. Um zu prüfen, ob Wynne Plus aktiv ist, nutzt die App RevenueCat (RevenueCat, Inc., USA) als Auftragsverarbeiter. RevenueCat erhält eine anonyme, zufällig erzeugte App-Nutzer-ID, deinen Kauf- und Abostatus (Transaktionsdaten aus dem Store) sowie technische Daten wie App-Version, Gerätemodell, Betriebssystem, Land/Storefront und IP-Adresse. Diese Daten sind nicht mit deinem Namen oder deiner E-Mail verknüpft. Sie dienen dazu, dein Abo bereitzustellen und wiederherzustellen; wir sehen sie im RevenueCat-Dashboard als Abo- und Umsatzzahlen. RevenueCat speichert sie, solange sie für diese Zwecke nötig sind; du kannst die Löschung bei uns verlangen (siehe <a href="delete-data.html">Daten löschen</a>). Siehe <a href="https://www.revenuecat.com/privacy">Datenschutzerklärung von RevenueCat</a>, <a href="https://www.apple.com/de/legal/privacy/">Datenschutzrichtlinie von Apple</a> und <a href="https://policies.google.com/privacy?hl=de">Datenschutzerklärung von Google</a>.</p>
 <p>Rechtsgrundlage (DSGVO): Erfüllung des Vertrags, den du mit dem Abo abschließt (Art. 6 Abs. 1 lit. b). RevenueCat verarbeitet Daten in den USA; die Übermittlung stützt sich auf das EU-US Data Privacy Framework und/oder Standardvertragsklauseln.</p>
 
+<h2>Prüf-Zugangscodes (Supabase)</h2>
+<p>Unter <strong>Einstellungen → Prüfzugang</strong> können App-Prüferinnen und Wettbewerbsjurys einen Zugangscode eingeben, der Wynne Plus ohne Kauf einschaltet. Nur wenn du einen Code eingibst, meldet sich die App anonym bei unserem Server-Anbieter Supabase an (Supabase, Inc.; Server in Frankfurt am Main) und sendet den Code zur Prüfung. Der Server speichert eine anonyme Nutzer-ID, welche Codes wann eingelöst wurden, und Fehlversuche (um Raten zu begrenzen). Kein Name, keine E-Mail-Adresse und keine deiner Wellness-Daten werden gesendet. Rechtsgrundlage: Art. 6 Abs. 1 lit. b und f DSGVO (Zugang bereitstellen, Codes vor Erraten schützen). Gibst du nie einen Code ein, übermittelt die App keine Daten über dich an Supabase. Siehe <a href="https://supabase.com/privacy">Datenschutzerklärung von Supabase</a>.</p>
+
 <h2>Inhalts-Updates</h2>
-<p>Beim Start kann die App eine kleine Textdatei mit Korrekturen für Session-Texte von derselben Website laden, auf der diese Seite liegt (GitHub Pages). Wie bei jedem Web-Abruf sieht der Host dabei deine IP-Adresse zur Auslieferung; es werden keine Kennungen oder persönlichen Daten gesendet. Die App funktioniert auch ohne diese Datei vollständig.</p>
+<p>Beim Start kann die App eine kleine Textdatei mit Korrekturen für Einheiten-Texte von dieser Website laden (GitHub Pages, betrieben von GitHub, Inc., USA). Wie bei jedem Web-Abruf sieht der Host dabei deine IP-Adresse zur Auslieferung; es werden keine Kennungen oder persönlichen Daten gesendet. Die App funktioniert auch ohne diese Datei vollständig. Siehe <a href="https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement">Datenschutzerklärung von GitHub</a>.</p>
 
 <h2>Was wir nicht tun</h2>
 <ul>
-  <li>Kein Konto, kein Login.</li>
-  <li>Kein Tracking über Apps oder Websites hinweg, keine Werbe-IDs, keine Werbung.</li>
-  <li>Keine Analyse- oder Absturzberichts-SDKs.</li>
-  <li>Kein Verkauf und keine Weitergabe von Daten.</li>
-  <li>Kein Zugriff auf Apple Health.</li>
+<li>Kein Konto, kein Login, keine E-Mail-Adresse.</li>
+<li>Kein Tracking über Apps oder Websites hinweg, keine Werbe-IDs, keine Werbung.</li>
+<li>Keine Analyse- oder Absturzberichts-SDKs.</li>
+<li>Kein Verkauf von Daten.</li>
+<li>Kein Zugriff auf Apple Health, Health Connect, Standort, Kamera, Mikrofon oder Kontakte.</li>
 </ul>
 
 <h2>Kinder</h2>
-<p>Wynne richtet sich nicht an Kinder unter 16 Jahren und erhebt wissentlich keine Daten von ihnen.</p>
+<p>Wynne ist für Erwachsene gemacht. Die App richtet sich nicht an Kinder unter 16 Jahren und erhebt wissentlich keine Daten von ihnen.</p>
 
 <h2>Deine Rechte</h2>
-<p>Du hast das Recht auf Auskunft, Berichtigung, Löschung und Datenübertragbarkeit, auf Einschränkung der Verarbeitung und Widerspruch sowie auf Beschwerde bei einer Datenschutzaufsichtsbehörde. Da deine Wellness-Daten dein Telefon nie verlassen, hast du sie selbst in der Hand. Für Daten bei RevenueCat melde dich mit deinen Kaufdaten bei uns, wir helfen dir.</p>
+<p>Du hast das Recht auf Auskunft, Berichtigung, Löschung und Datenübertragbarkeit, auf Einschränkung der Verarbeitung und Widerspruch sowie auf Beschwerde bei einer Datenschutzaufsichtsbehörde. Da deine Wellness-Daten dein Telefon nie verlassen, hast du sie selbst in der Hand. Für Daten bei RevenueCat oder Supabase schreib an <a href="mailto:ben@creaiter.com">ben@creaiter.com</a> und nenne deine <strong>RevenueCat-Nutzer-ID</strong> (in der App unter Einstellungen → Prüfzugang, antippen zum Kopieren), damit wir sie finden. Einzelheiten: <a href="delete-data.html">Daten löschen</a>.</p>
 
 <h2>Gesundheitshinweis</h2>
-<p>Wynne bietet allgemeine Bewegungs- und Entspannungsvorschläge, keine medizinische Beratung.</p>
+<p>Wynne bietet allgemeine Bewegungs- und Entspannungsvorschläge, keine medizinische Beratung, Diagnose oder Behandlung.</p>
 
 <h2>Änderungen</h2>
 <p>Wenn sich diese Erklärung ändert, aktualisieren wir diese Seite und das Datum oben.</p>
 </section>
+<footer>Wynne · Benneth Müller, Benneth Müller Digital Solutions &amp; Education · Borgfelder Str. 16, 20537 Hamburg, Germany · <a href="mailto:ben@creaiter.com">ben@creaiter.com</a></footer>
 </main>
 </body>
 </html>
