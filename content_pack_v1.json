@@ -1,0 +1,1763 @@
+{
+  "schema": 1,
+  "packVersion": 1,
+  "disabledSessionIds": [],
+  "text": {
+    "de": {
+      "sessions": {
+        "pil_wake_7": {
+          "title": "Aufwach-Flow",
+          "description": "Sieben langsame Minuten auf der Matte, um Wirbelsäule und Hüften zu wecken.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Leg dich auf den Rücken, Knie gebeugt, Füße flach. Durch die Nase ein, durch den Mund aus. Lass dich vom Boden tragen."
+            },
+            {
+              "name": "Beckenkippen",
+              "cue": "Ausatmen, den unteren Rücken sanft Richtung Matte drücken. Einatmen, zurück in die Mitte. Klein und langsam."
+            },
+            {
+              "name": "Knie pendeln",
+              "cue": "Füße zusammen, beide Knie zu einer Seite sinken lassen, dann zur anderen. Die Schultern bleiben schwer."
+            },
+            {
+              "name": "Knie umarmen",
+              "cue": "Zieh ein Knie zur Brust, halte einen Atemzug, wechsle. Der andere Fuß bleibt flach."
+            },
+            {
+              "name": "Brücke",
+              "cue": "Ausatmen, die Hüften Wirbel für Wirbel anheben. Oben einatmen, ausatmend abrollen. Sechs bis acht langsame Wiederholungen."
+            },
+            {
+              "name": "Fersen tippen",
+              "cue": "Knie über den Hüften, Schienbeine waagerecht. Ausatmen, eine Ferse zur Matte senken, einatmen, zurück. Im Wechsel, dein Rücken bleibt ruhig."
+            },
+            {
+              "name": "Katze-Kuh",
+              "cue": "Hände unter den Schultern, Knie unter den Hüften. Einatmen, Brust heben, ausatmen, Rücken runden. Fäuste oder Unterarme, wenn die Handgelenke sich melden."
+            },
+            {
+              "name": "Kindhaltung",
+              "cue": "Hüften Richtung Fersen, Arme lang oder neben dem Körper. Drei tiefe Atemzüge in den Rücken."
+            },
+            {
+              "name": "Zum Sitzen aufrollen",
+              "cue": "Komm langsam hoch. Spür, dass du ein bisschen wacher bist als vorher."
+            }
+          ]
+        },
+        "pil_standing_7": {
+          "title": "Reset im Stehen",
+          "description": "Keine Matte, kein Boden. Haltung und Balance zwischen zwei Terminen.",
+          "steps": [
+            {
+              "name": "Aufrecht stehen",
+              "cue": "Füße hüftbreit, Gewicht gleichmäßig auf beiden Füßen. Atme und lass die Schultern von den Ohren wegsinken."
+            },
+            {
+              "name": "Schulterkreisen",
+              "cue": "Schultern hoch, nach hinten und runter kreisen. Acht Mal, dann andersherum."
+            },
+            {
+              "name": "Abrollen im Stehen",
+              "cue": "Ausatmen, Kinn senken, Wirbel für Wirbel abrollen, Knie weich, hängen lassen. Einatmen, wieder aufrollen. Drei langsame Runden."
+            },
+            {
+              "name": "Fersenheben",
+              "cue": "Auf die Fußballen kommen, kontrolliert absenken. Halt dich gern an einer Wand oder einem Stuhl fest."
+            },
+            {
+              "name": "Knieheben",
+              "cue": "Ein Knie Richtung Hüfthöhe heben, kurz halten, absenken, wechseln. Wachse dabei über den Scheitel nach oben."
+            },
+            {
+              "name": "Seitneigung",
+              "cue": "Ein Arm über den Kopf, sanft zur anderen Seite neigen. Atme in die offenen Rippen, nach der Hälfte wechseln."
+            },
+            {
+              "name": "Brustöffner",
+              "cue": "Hände hinter dem Rücken verschränken oder die Ellbogen fassen. Brust heben, atmen."
+            },
+            {
+              "name": "Mini-Kniebeugen",
+              "cue": "Setz dich ein Stück nach hinten, als stünde da ein Stuhl, und richte dich auf. Kleiner Radius, zehn Wiederholungen."
+            },
+            {
+              "name": "Balance",
+              "cue": "Gewicht auf einen Fuß, die andere Ferse leicht anheben, wechseln. Wackeln gehört dazu."
+            }
+          ]
+        },
+        "pil_standing_12": {
+          "title": "Beine im Stehen",
+          "description": "Zwölf Minuten auf den Füßen. Hüften, Beine und Balance, ganz ohne Boden.",
+          "steps": [
+            {
+              "name": "Aufrecht stehen",
+              "cue": "Füße hüftbreit, Gewicht gleichmäßig auf beiden Füßen. Wachse nach oben durch den Scheitel."
+            },
+            {
+              "name": "Schulterkreisen",
+              "cue": "Schultern hoch, nach hinten und runter kreisen. Acht Mal, dann andersherum."
+            },
+            {
+              "name": "Marschieren im Stand",
+              "cue": "Marschiere auf der Stelle, Knie Richtung Hüfthöhe. Die Arme schwingen locker mit. Wärm die Hüften."
+            },
+            {
+              "name": "Knieheben",
+              "cue": "Heb ein Knie Richtung Hüfthöhe, halte kurz, senk es. Im Wechsel. Bleib lang in der Mitte."
+            },
+            {
+              "name": "Seitliche Dehnung",
+              "cue": "Ein Arm über den Kopf, lehn dich sanft zur anderen Seite. Atme in die offene Seite. Wechsle zur Hälfte."
+            },
+            {
+              "name": "Brust öffnen",
+              "cue": "Hände hinter dem Rücken verschränken oder die gegenüberliegenden Ellbogen fassen. Heb die Brust und atme weit."
+            },
+            {
+              "name": "Armkreise",
+              "cue": "Arme zur Seite, kleine langsame Kreise. Zehn vorwärts, zehn rückwärts."
+            },
+            {
+              "name": "Fersenheben",
+              "cue": "Komm auf die Fußballen, senk dich kontrolliert ab. Zwölf langsame Wiederholungen. Halt dich an Wand oder Stuhl fest, wenn du magst."
+            },
+            {
+              "name": "Kleine Kniebeugen",
+              "cue": "Setz dich ein Stück zurück wie Richtung Stuhl, dann wieder aufrecht. Kleiner Bereich, zwölf Wiederholungen."
+            },
+            {
+              "name": "Balance im Stand",
+              "cue": "Gewicht auf einen Fuß, das andere Knie angehoben. Dreißig Sekunden pro Seite. Das Wackeln ist die Übung."
+            },
+            {
+              "name": "Abrollen & Ausklang",
+              "cue": "Ausatmen, Kinn nicken, abrollen, Knie weich. Hängen lassen. Wirbel für Wirbel wieder hoch. Zwei Mal."
+            }
+          ]
+        },
+        "pil_posture_12": {
+          "title": "Schreibtisch rückgängig",
+          "description": "Den Laptop rückgängig machen: Nacken, oberer Rücken, Brust, Hüften.",
+          "steps": [
+            {
+              "name": "Atmen im Sitzen",
+              "cue": "Setz dich auf die Matte oder einen Stuhl, Hände seitlich an die Rippen. Atme breit in deine Hände."
+            },
+            {
+              "name": "Nacken lösen",
+              "cue": "Ohr Richtung Schulter, atmen, wechseln. Dann das Kinn sanft zur Brust, niemals ziehen."
+            },
+            {
+              "name": "Schulter- & Armkreisen",
+              "cue": "Langsam nach hinten kreisen. Dann die Arme weit öffnen und kreisen, von klein nach groß."
+            },
+            {
+              "name": "Drehung im Sitzen",
+              "cue": "Hände vor der Brust gekreuzt. Den Brustkorb nach rechts drehen, zur Mitte, nach links, die Hüften bleiben ruhig."
+            },
+            {
+              "name": "Katze-Kuh",
+              "cue": "Im Vierfüßlerstand oder auf den Unterarmen, wenn die Handgelenke das lieber mögen. Einatmend heben, ausatmend runden."
+            },
+            {
+              "name": "Nadelöhr",
+              "cue": "Aus dem Vierfüßlerstand einen Arm unter dem Körper durchschieben und die Schulter ablegen. Atmen, nach der Hälfte wechseln."
+            },
+            {
+              "name": "Brust heben in Bauchlage",
+              "cue": "Auf dem Bauch, Hände unter der Stirn. Einatmend Kopf und Brust einen Fingerbreit heben, ausatmend ablegen. Klein und ehrlich."
+            },
+            {
+              "name": "Arme heben",
+              "cue": "Weiter in Bauchlage, Arme nach vorn. Einen Arm ein wenig heben, ablegen, wechseln, die Beine ruhen."
+            },
+            {
+              "name": "Kindhaltung mit Seitdehnung",
+              "cue": "Hüften zu den Fersen, Hände nach rechts wandern lassen, in die linken Rippen atmen. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Brücke",
+              "cue": "Auf dem Rücken die Hüften sechs Mal heben und senken. Öffne die Vorderseite der Hüften."
+            },
+            {
+              "name": "Drehung in Rückenlage",
+              "cue": "Knie zu einer Seite, Arme weit. Atmen, nach der Hälfte wechseln."
+            },
+            {
+              "name": "Ruhe",
+              "cue": "Lieg lang. Spür die Weite über deiner Brust."
+            }
+          ]
+        },
+        "pil_core_12": {
+          "title": "Core-Grundlagen",
+          "description": "Die tiefe Körpermitte, langsam und ehrlich. Kopf darf unten bleiben.",
+          "steps": [
+            {
+              "name": "Atmung einrichten",
+              "cue": "Auf dem Rücken, Knie gebeugt. Ausatmend zieht sich der untere Bauch sanft nach innen, wie ein langsamer Reißverschluss; einatmend loslassen."
+            },
+            {
+              "name": "Becken-Uhr",
+              "cue": "Das Becken nach vorn und hinten kippen, dann langsam in beide Richtungen kreisen. Das wärmt die tiefe Mitte."
+            },
+            {
+              "name": "Zehen tippen",
+              "cue": "Knie über den Hüften. Ausatmend eine Zehenspitze zur Matte, einatmend zurück, im Wechsel. Der Rücken bleibt still."
+            },
+            {
+              "name": "Dead Bug",
+              "cue": "Ausatmend reichen Arm und gegenüberliegendes Bein weg, einatmend zurück. Klein ist hier genau richtig."
+            },
+            {
+              "name": "Oberkörper einrollen",
+              "cue": "Hände hinter dem Kopf, Ellbogen weit, ausatmend Kopf und Schultern einrollen, einatmend ablegen. Der Kopf darf unten bleiben: dann nur die Rippen in die Matte sinken lassen."
+            },
+            {
+              "name": "Einbeinstrecken",
+              "cue": "Ein Knie heran, das andere Bein lang, so hoch, dass dein Rücken ruhig bleibt. Mit dem Atem wechseln, der Kopf darf liegen."
+            },
+            {
+              "name": "Brücke mit Marschieren",
+              "cue": "Hüften oben, einen Fuß knapp anheben, abstellen, wechseln. Die Hüften bleiben waagerecht."
+            },
+            {
+              "name": "Seitliches Beinheben, rechts",
+              "cue": "Leg dich auf die Seite, Beine lang. Das obere Bein langsam auf Hüfthöhe heben und senken."
+            },
+            {
+              "name": "Seitliches Beinheben, links",
+              "cue": "Dasselbe auf der anderen Seite. Hüfte liegt über Hüfte."
+            },
+            {
+              "name": "Bird Dog",
+              "cue": "Im Vierfüßlerstand oder auf den Unterarmen Arm und gegenüberliegendes Bein strecken. Zwei Atemzüge halten, wechseln."
+            },
+            {
+              "name": "Ruhen & atmen",
+              "cue": "Auf dem Rücken, Knie gebeugt, Hände auf dem Bauch. Fünf lange Ausatmungen."
+            },
+            {
+              "name": "Zum Sitzen kommen",
+              "cue": "Roll dich auf die Seite und drück dich hoch ins Sitzen. Fertig."
+            }
+          ]
+        },
+        "pil_glutes_12": {
+          "title": "Po & Beine Basis",
+          "description": "Brücken, Clams und Beinheben. Starke Hüften ohne einen einzigen Ausfallschritt.",
+          "steps": [
+            {
+              "name": "Warm atmen",
+              "cue": "Auf dem Rücken, Knie gebeugt. Das Becken ein wenig schaukeln, tief unten atmen."
+            },
+            {
+              "name": "Brücken",
+              "cue": "Ausatmend hoch, einatmend halten, ausatmend runter. Acht langsame Wiederholungen, drück dich über den ganzen Fuß."
+            },
+            {
+              "name": "Einbeinige Brücke halten, rechts",
+              "cue": "Einen Fuß heben, die Hüften bleiben waagerecht. Stell ihn ab, wenn es zu sehr zittert."
+            },
+            {
+              "name": "Einbeinige Brücke halten, links",
+              "cue": "Dasselbe auf der anderen Seite. Atme hindurch."
+            },
+            {
+              "name": "Clams, rechts",
+              "cue": "In Seitlage, Knie gebeugt, Füße zusammen. Das obere Knie öffnen und schließen, die Hüften bleiben übereinander."
+            },
+            {
+              "name": "Clams, links",
+              "cue": "Andere Seite. Auch auf dem Rückweg langsam."
+            },
+            {
+              "name": "Beinheben & Kreise, rechts",
+              "cue": "Beine lang. Acht Mal heben, dann acht kleine Kreise in jede Richtung."
+            },
+            {
+              "name": "Beinheben & Kreise, links",
+              "cue": "Andere Seite. Die Taille bleibt leicht von der Matte gehoben."
+            },
+            {
+              "name": "Kickbacks, rechts",
+              "cue": "Im Vierfüßlerstand, auf den Unterarmen oder stehend mit einer Hand am Stuhl. Knie gebeugt, die Fußsohle in kleinen Impulsen Richtung Decke schieben."
+            },
+            {
+              "name": "Kickbacks, links",
+              "cue": "Andere Seite. Kleine Impulse, ruhiger Atem."
+            },
+            {
+              "name": "Vierer-Dehnung",
+              "cue": "Auf dem Rücken, Knöchel über das andere Knie, die Beine heranziehen. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Ruhe",
+              "cue": "Beine lang. Lass die Hüften schwer werden."
+            }
+          ]
+        },
+        "pil_full_15": {
+          "title": "Ruhiger Ganzkörper",
+          "description": "Ein kompletter Matten-Flow: Mitte, Seiten, Rücken, Stehen.",
+          "steps": [
+            {
+              "name": "Atem & Beckenkippen",
+              "cue": "Knie gebeugt, Füße flach. Ausatmend kippen, einatmend lösen. Finde deinen Rhythmus."
+            },
+            {
+              "name": "Wirbelsäule abrollen",
+              "cue": "Die Hüften Wirbel für Wirbel heben, kurz halten, abrollen. Sechs Wiederholungen."
+            },
+            {
+              "name": "Zehen tippen",
+              "cue": "Knie über den Hüften. Eine Zehenspitze zur Matte, zurück, im Wechsel. Der Rücken bleibt ruhig."
+            },
+            {
+              "name": "Einrollen mit Drehung",
+              "cue": "Einrollen, zu einem Knie drehen, Mitte, andere Seite. Kopf unten lassen, wenn der Nacken das sagt."
+            },
+            {
+              "name": "Einbeinstrecken",
+              "cue": "Ein Knie heran, ein Bein lang. Mit dem Atem wechseln."
+            },
+            {
+              "name": "Seitlage-Serie, rechts",
+              "cue": "Heben, dann kleine Kicks nach vorn, dann Kreise. Die Taille bleibt gehoben."
+            },
+            {
+              "name": "Seitlage-Serie, links",
+              "cue": "Andere Seite. Dieselben drei Bewegungen."
+            },
+            {
+              "name": "Plank auf den Knien",
+              "cue": "Knie am Boden, Hände oder Unterarme unter den Schultern, eine lange Linie vom Kopf bis zu den Knien. Zwanzig Sekunden halten, ausruhen, noch einmal."
+            },
+            {
+              "name": "Bird Dog",
+              "cue": "Arm und gegenüberliegendes Bein strecken. Zwei Atemzüge halten, wechseln."
+            },
+            {
+              "name": "Schwimmen vorbereiten",
+              "cue": "In Bauchlage abwechselnd Arm und gegenüberliegendes Bein knapp anheben. Klein und stetig."
+            },
+            {
+              "name": "Kindhaltung",
+              "cue": "Hüften nach hinten. Atme in die Rückseite der Rippen."
+            },
+            {
+              "name": "Abrollen im Stehen",
+              "cue": "Komm in den Stand. Abrollen, hängen, aufrollen, drei Mal."
+            },
+            {
+              "name": "Abschluss",
+              "cue": "Leg dich hin oder sitz. Atme und spür, was sich anders anfühlt als vor fünfzehn Minuten."
+            }
+          ]
+        },
+        "pil_core_15": {
+          "title": "Core & Balance",
+          "description": "Die Klassiker: Hundred, Roll-up, Criss-cross, dazu Balance.",
+          "steps": [
+            {
+              "name": "Einrichten",
+              "cue": "Auf dem Rücken, Knie gebeugt. Bei jeder Ausatmung den unteren Bauch sanft nach innen ziehen."
+            },
+            {
+              "name": "The Hundred",
+              "cue": "Beine im Tabletop, Kopf und Schultern gehoben oder unten, die Arme pumpen. Fünf Zählzeiten ein, fünf aus, zehn Runden."
+            },
+            {
+              "name": "Roll-up",
+              "cue": "Arme über dem Kopf, ausatmend Wirbel für Wirbel hochrollen, einatmend abrollen. Beug die Knie, wenn du magst, fünf Mal."
+            },
+            {
+              "name": "Einbeinstrecken",
+              "cue": "Ein Knie heran, ein Bein lang. Mit dem Atem wechseln."
+            },
+            {
+              "name": "Doppelbeinstrecken",
+              "cue": "Beide Knie heran. Einatmend Arme und Beine wegstrecken, ausatmend im Kreis zurückholen."
+            },
+            {
+              "name": "Criss-cross",
+              "cue": "Einen Ellbogen langsam zum gegenüberliegenden Knie drehen. Das Becken bleibt still."
+            },
+            {
+              "name": "Drehung im Sitzen",
+              "cue": "Aufrecht sitzen, Beine lang oder gekreuzt. Bei jeder Drehung ein Stück größer werden."
+            },
+            {
+              "name": "Seitstütz auf den Knien, rechts",
+              "cue": "Unterarm oder Hand unter der Schulter, Knie gebeugt. Hüften heben und atmen."
+            },
+            {
+              "name": "Seitstütz auf den Knien, links",
+              "cue": "Andere Seite. Eine lange Linie vom Kopf bis zu den Knien."
+            },
+            {
+              "name": "Bird Dog mit Halten",
+              "cue": "Arm und gegenüberliegendes Bein strecken, drei Atemzüge halten, wechseln. Zwei Runden."
+            },
+            {
+              "name": "Plank halten",
+              "cue": "Auf Knien oder Zehen, Hände oder Unterarme. Zwanzig Sekunden, Pause, zwanzig Sekunden."
+            },
+            {
+              "name": "Balance im Stehen",
+              "cue": "Auf einem Bein stehen, das andere Knie gehoben. Dreißig Sekunden pro Seite, der Blick bleibt weich."
+            },
+            {
+              "name": "Ruhe",
+              "cue": "Lieg lang. Lass alles schwer werden."
+            }
+          ]
+        },
+        "pil_glutes_15": {
+          "title": "Starke Hüften",
+          "description": "Kniebeugen, Ausfallschritte und Brücken für Hüften, die viel tragen.",
+          "steps": [
+            {
+              "name": "Marschieren im Stehen",
+              "cue": "Auf der Stelle marschieren, Knie hoch, Arme schwingen. So werden die Hüften warm."
+            },
+            {
+              "name": "Kniebeugen",
+              "cue": "Füße hüftbreit. Nach hinten setzen, aufrichten. Zwölf langsame Wiederholungen."
+            },
+            {
+              "name": "Ausfallschritte nach hinten",
+              "cue": "Einen Fuß nach hinten setzen, etwas absenken, zurück, im Wechsel. Halt dich gern an einer Wand fest."
+            },
+            {
+              "name": "Brücken-Serie",
+              "cue": "Zehn Brücken, dann oben halten und zehn Mal sanft nachfedern."
+            },
+            {
+              "name": "Einbeinige Brücke, rechts",
+              "cue": "Ein Fuß gehoben, die Hüften waagerecht. Langsam hoch, langsam runter."
+            },
+            {
+              "name": "Einbeinige Brücke, links",
+              "cue": "Andere Seite."
+            },
+            {
+              "name": "Seitlage-Serie, rechts",
+              "cue": "Heben, Kreise, dann das untere Bein heben für die Innenseite des Oberschenkels."
+            },
+            {
+              "name": "Seitlage-Serie, links",
+              "cue": "Andere Seite."
+            },
+            {
+              "name": "Kickbacks & Impulse, rechts",
+              "cue": "Im Vierfüßlerstand oder auf den Unterarmen. Fußsohle zur Decke, dann kleine Impulse."
+            },
+            {
+              "name": "Kickbacks & Impulse, links",
+              "cue": "Andere Seite."
+            },
+            {
+              "name": "Vierer-Dehnung",
+              "cue": "Auf dem Rücken, Knöchel über das Knie, heranziehen. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Hüftbeuger-Dehnung kniend",
+              "cue": "Ein Knie auf einer Unterlage, der andere Fuß vorn. Die Hüften sanft nach vorn schieben, nach der Hälfte wechseln."
+            },
+            {
+              "name": "Ruhe",
+              "cue": "Lieg lang. Fertig."
+            }
+          ]
+        },
+        "pil_standing_15": {
+          "title": "Wieder aufrecht",
+          "description": "Fünfzehn Minuten im Stehen: Nacken, Schultern, oberer Rücken. Nirgends eine Matte.",
+          "steps": [
+            {
+              "name": "Aufrecht stehen",
+              "cue": "Füße hüftbreit, Gewicht gleichmäßig auf beiden Füßen. Wachse nach oben durch den Scheitel. Drei langsame Atemzüge."
+            },
+            {
+              "name": "Kinn nicken",
+              "cue": "Nicke das Kinn ein Stück Richtung Kehle, dann löse wieder. Klein und langsam."
+            },
+            {
+              "name": "Nacken lösen",
+              "cue": "Ohr Richtung Schulter, atmen, zurück. Dann die andere Seite. Der Kiefer bleibt locker."
+            },
+            {
+              "name": "Schulterkreisen",
+              "cue": "Schultern hoch, nach hinten und runter kreisen. Acht Mal, dann andersherum."
+            },
+            {
+              "name": "Armkreise",
+              "cue": "Arme zur Seite, kleine langsame Kreise. Zehn vorwärts, zehn rückwärts."
+            },
+            {
+              "name": "Brust öffnen",
+              "cue": "Hände hinter dem Rücken verschränken oder die gegenüberliegenden Ellbogen fassen. Heb die Brust und atme weit."
+            },
+            {
+              "name": "Seitliche Dehnung rechts",
+              "cue": "Rechter Arm über den Kopf, lehn dich sanft nach links. Atme in die offene Seite."
+            },
+            {
+              "name": "Seitliche Dehnung links",
+              "cue": "Andere Seite. Gleich weit."
+            },
+            {
+              "name": "Abrollen",
+              "cue": "Ausatmen, Kinn nicken, Wirbel für Wirbel abrollen, Knie weich. Hängen lassen. Einatmend wieder hoch. Drei Wiederholungen."
+            },
+            {
+              "name": "Fersenheben",
+              "cue": "Komm auf die Fußballen, senk dich kontrolliert ab. Zehn langsame Wiederholungen. Halt dich an Wand oder Stuhl fest, wenn du magst."
+            },
+            {
+              "name": "Knieheben",
+              "cue": "Heb ein Knie Richtung Hüfthöhe, halte kurz, senk es. Im Wechsel. Bleib lang in der Mitte."
+            },
+            {
+              "name": "Balance im Stand",
+              "cue": "Gewicht auf einen Fuß, das andere Knie angehoben. Dreißig Sekunden pro Seite. Das Wackeln ist die Übung."
+            },
+            {
+              "name": "Ausklang",
+              "cue": "Steh still, die Arme schwer. Drei lange Atemzüge. Ein bisschen aufrechter als vor fünfzehn Minuten."
+            }
+          ]
+        },
+        "pil_full_20": {
+          "title": "Der lange Flow",
+          "description": "Die volle Mattensequenz, wenn Zeitfenster und Energie da sind.",
+          "steps": [
+            {
+              "name": "Atem & Einrichten",
+              "cue": "Knie gebeugt, Füße flach. Bei jeder Ausatmung den unteren Bauch sanft nach innen ziehen."
+            },
+            {
+              "name": "Wirbelsäule abrollen",
+              "cue": "Hochrollen, halten, abrollen. Sechs langsame Wiederholungen."
+            },
+            {
+              "name": "The Hundred",
+              "cue": "Beine im Tabletop, die Arme pumpen. Fünf ein, fünf aus, zehn Runden."
+            },
+            {
+              "name": "Roll-up",
+              "cue": "Arme über dem Kopf, ausatmend hochrollen, einatmend abrollen. Knie beugen, wenn nötig, fünf Mal."
+            },
+            {
+              "name": "Beinkreise",
+              "cue": "Ein Bein zur Decke, fünf kleine Kreise in jede Richtung, wechseln. Die Hüften bleiben still."
+            },
+            {
+              "name": "Einbeinstrecken",
+              "cue": "Ein Knie heran, ein Bein lang. Mit dem Atem wechseln."
+            },
+            {
+              "name": "Doppelbeinstrecken",
+              "cue": "Einatmend wegstrecken, ausatmend im Kreis heranholen."
+            },
+            {
+              "name": "Criss-cross",
+              "cue": "Ellbogen langsam zum gegenüberliegenden Knie."
+            },
+            {
+              "name": "Vorbeuge im Sitzen",
+              "cue": "Im Sitzen, Beine weit. Über den Scheitel nach vorn reichen, dann Wirbel für Wirbel wieder aufrichten."
+            },
+            {
+              "name": "Seitlage-Serie, rechts",
+              "cue": "Heben, Kicks nach vorn, Kreise."
+            },
+            {
+              "name": "Seitlage-Serie, links",
+              "cue": "Andere Seite."
+            },
+            {
+              "name": "Plank",
+              "cue": "Auf Knien oder Zehen, Hände oder Unterarme. Zwei Mal fünfundzwanzig Sekunden halten."
+            },
+            {
+              "name": "Schwimmen",
+              "cue": "In Bauchlage abwechselnd Arm und gegenüberliegendes Bein heben. Der Atem bleibt ruhig."
+            },
+            {
+              "name": "Kindhaltung",
+              "cue": "Hüften nach hinten, in den Rücken atmen."
+            },
+            {
+              "name": "Abrollen im Stehen",
+              "cue": "Aufstehen, abrollen, hängen, aufrollen. Drei Mal."
+            },
+            {
+              "name": "Ruhe",
+              "cue": "Lieg lang. Lass den Boden das Gewicht tragen."
+            }
+          ]
+        },
+        "pil_soft_20": {
+          "title": "Langsam & stetig",
+          "description": "Zwanzig sanfte Minuten für empfindliche Tage, Zyklustage, schwache Tage.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Leg dich hin, Knie gebeugt. Noch nichts zu tun, atme einfach länger aus als ein."
+            },
+            {
+              "name": "Beckenkippen",
+              "cue": "Ausatmend kippen, einatmend lösen. Winzige Bewegungen."
+            },
+            {
+              "name": "Knie pendeln",
+              "cue": "Knie zusammen, von Seite zu Seite pendeln. Schultern schwer."
+            },
+            {
+              "name": "Langsame Brücke",
+              "cue": "In vier Zählzeiten hochrollen, in vier Zählzeiten abrollen. Fünf Wiederholungen."
+            },
+            {
+              "name": "Kleines Zehentippen",
+              "cue": "Knie über den Hüften. Eine Zehenspitze runter, zurück. Klein."
+            },
+            {
+              "name": "Knie umarmen & kreisen",
+              "cue": "Ein Knie heran und langsam aus der Hüfte kreisen. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Seitliches Beinheben, rechts",
+              "cue": "Das obere Bein langsam heben und senken."
+            },
+            {
+              "name": "Seitliches Beinheben, links",
+              "cue": "Andere Seite."
+            },
+            {
+              "name": "Katze-Kuh",
+              "cue": "Im Vierfüßlerstand oder auf den Unterarmen. Mit dem Atem bewegen."
+            },
+            {
+              "name": "Nadelöhr",
+              "cue": "Einen Arm durchschieben, die Schulter ablegen, atmen. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Kindhaltung",
+              "cue": "Hüften nach hinten, die Arme dort, wo es sich gut anfühlt."
+            },
+            {
+              "name": "Drehung im Sitzen",
+              "cue": "Aufrecht sitzen, drehen und atmen. Beide Seiten."
+            },
+            {
+              "name": "Vorbeuge im Sitzen",
+              "cue": "Knie so weit gebeugt, wie du magst. Lass den Kopf hängen."
+            },
+            {
+              "name": "Drehung in Rückenlage",
+              "cue": "Knie zu einer Seite, Arme weit. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Beine hoch",
+              "cue": "Beine an eine Wand oder auf einen Stuhl legen. Hände auf dem Bauch."
+            },
+            {
+              "name": "Ruhe",
+              "cue": "Bleib, solange der Timer läuft. Das war eine echte Session."
+            }
+          ]
+        },
+        "pil_standing_22": {
+          "title": "Ruhig im Stehen",
+          "description": "Zweiundzwanzig Minuten auf den Füßen: Beine, Balance und eine lange Mitte. Nichts zum Hinlegen.",
+          "steps": [
+            {
+              "name": "Aufrecht stehen",
+              "cue": "Füße hüftbreit, Gewicht gleichmäßig auf beiden Füßen. Wachse nach oben durch den Scheitel."
+            },
+            {
+              "name": "Schulterkreisen",
+              "cue": "Schultern hoch, nach hinten und runter kreisen. Acht Mal, dann andersherum."
+            },
+            {
+              "name": "Armkreise",
+              "cue": "Arme zur Seite, kleine langsame Kreise. Zehn vorwärts, zehn rückwärts."
+            },
+            {
+              "name": "Brust öffnen",
+              "cue": "Hände hinter dem Rücken verschränken oder die gegenüberliegenden Ellbogen fassen. Heb die Brust und atme weit."
+            },
+            {
+              "name": "Seitliche Dehnung rechts",
+              "cue": "Rechter Arm über den Kopf, lehn dich sanft nach links. Atme in die offene Seite."
+            },
+            {
+              "name": "Seitliche Dehnung links",
+              "cue": "Andere Seite. Gleich weit."
+            },
+            {
+              "name": "Abrollen",
+              "cue": "Ausatmen, Kinn nicken, Wirbel für Wirbel abrollen, Knie weich. Hängen lassen. Einatmend wieder hoch. Drei Wiederholungen."
+            },
+            {
+              "name": "Marschieren im Stand",
+              "cue": "Marschiere auf der Stelle, Knie Richtung Hüfthöhe. Die Arme schwingen mit. Wärm die Hüften."
+            },
+            {
+              "name": "Knieheben",
+              "cue": "Heb ein Knie Richtung Hüfthöhe, halte kurz, senk es. Im Wechsel. Bleib lang in der Mitte und lehn dich nicht zurück."
+            },
+            {
+              "name": "Fersenheben",
+              "cue": "Komm auf die Fußballen, senk dich kontrolliert ab. Zwölf langsame Wiederholungen. Halt dich an Wand oder Stuhl fest, wenn du magst."
+            },
+            {
+              "name": "Kleine Kniebeugen",
+              "cue": "Setz dich ein Stück zurück wie Richtung Stuhl, dann wieder aufrecht. Kleiner Bereich, zwölf Wiederholungen."
+            },
+            {
+              "name": "Ausfallschritt zurück rechts",
+              "cue": "Setz den rechten Fuß nach hinten, senk dich ein wenig, komm zurück. Acht Wiederholungen. Nur so tief, wie es leicht geht."
+            },
+            {
+              "name": "Ausfallschritt zurück links",
+              "cue": "Andere Seite. Derselbe kleine Bereich."
+            },
+            {
+              "name": "Balance rechts",
+              "cue": "Gewicht auf dem rechten Fuß, linkes Knie angehoben. Weicher Blick. Das Wackeln ist die Übung."
+            },
+            {
+              "name": "Balance links",
+              "cue": "Andere Seite. Gleiche Zeit."
+            },
+            {
+              "name": "Ausklang",
+              "cue": "Steh still, die Arme schwer. Drei lange Atemzüge. Zweiundzwanzig Minuten, keine davon am Boden."
+            }
+          ]
+        },
+        "pil_full_25": {
+          "title": "Ganze Runde",
+          "description": "Die volle Mattensequenz, mit Luft zwischen den anstrengenden Teilen.",
+          "steps": [
+            {
+              "name": "Atem & Aufbau",
+              "cue": "Knie gebeugt, Füße flach. Zieh den unteren Bauch bei jeder Ausatmung sanft ein. Finde den Rhythmus, bevor sich etwas bewegt."
+            },
+            {
+              "name": "Wirbelsäulenrollen",
+              "cue": "Roll die Hüften Wirbel für Wirbel hoch, halte kurz, roll ab. Acht langsame Wiederholungen."
+            },
+            {
+              "name": "The Hundred",
+              "cue": "Beine im Tisch, Kopf und Schultern angehoben oder abgelegt. Pump mit den Armen. Fünf Zählzeiten ein, fünf aus. Zehn Runden."
+            },
+            {
+              "name": "Roll-up",
+              "cue": "Arme über den Kopf. Ausatmend Wirbel für Wirbel hochrollen, einatmend abrollen. Knie beugen, wenn du magst. Fünf Wiederholungen."
+            },
+            {
+              "name": "Beinkreise",
+              "cue": "Ein Bein Richtung Decke. Fünf kleine Kreise pro Richtung, dann wechseln. Die Hüften bleiben still."
+            },
+            {
+              "name": "Single Leg Stretch",
+              "cue": "Ein Knie heran, ein Bein lang. Wechsle mit dem Atem."
+            },
+            {
+              "name": "Double Leg Stretch",
+              "cue": "Beide Knie heran. Einatmend Arme und Beine wegstrecken, ausatmend zurückkreisen."
+            },
+            {
+              "name": "Criss-cross",
+              "cue": "Dreh einen Ellbogen Richtung gegenüberliegendes Knie. Langsam. Das Becken bleibt liegen."
+            },
+            {
+              "name": "Spine Stretch Forward",
+              "cue": "Im Sitzen, Beine weit. Streck dich aus dem Scheitel nach vorn, dann Wirbel für Wirbel zurück."
+            },
+            {
+              "name": "Seitenlage-Serie rechts",
+              "cue": "Heben, dann kleine Kicks nach vorn, dann Kreise. Die Taille bleibt lang."
+            },
+            {
+              "name": "Seitenlage-Serie links",
+              "cue": "Andere Seite. Dieselben drei Bewegungen."
+            },
+            {
+              "name": "Plank",
+              "cue": "Von den Knien oder Zehen, auf Händen oder Unterarmen. Zwei Mal fünfundzwanzig Sekunden, dazwischen ein Atemzug."
+            },
+            {
+              "name": "Seitstütz mit Knien",
+              "cue": "Unterarm unter der Schulter, Knie gebeugt, Hüften angehoben. Dreißig Sekunden pro Seite."
+            },
+            {
+              "name": "Swimming",
+              "cue": "In Bauchlage gegengleich Arm und Bein einen Fingerbreit heben. Der Atem bleibt ruhig."
+            },
+            {
+              "name": "Bird Dog",
+              "cue": "Gegengleich Arm und Bein strecken. Drei Atemzüge halten. Wechseln. Zwei Runden."
+            },
+            {
+              "name": "Kindhaltung",
+              "cue": "Hüften zurück. Atme in den hinteren Brustkorb."
+            },
+            {
+              "name": "Abrollen im Stand",
+              "cue": "Komm zum Stehen. Abrollen, hängen, hochrollen. Drei Mal."
+            },
+            {
+              "name": "Ruhe",
+              "cue": "Leg dich lang hin. Fünfundzwanzig Minuten. Spür, was jetzt anders ist als am Anfang."
+            }
+          ]
+        },
+        "pil_soft_25": {
+          "title": "Langsam und lang",
+          "description": "Fünfundzwanzig sanfte Minuten für empfindliche Tage, Zyklustage, schwache Tage.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Leg dich hin, Knie gebeugt. Noch ist nichts zu tun. Atme einfach länger aus als ein."
+            },
+            {
+              "name": "Beckenkippen",
+              "cue": "Ausatmen, kippen; einatmen, lösen. Winzige Bewegungen."
+            },
+            {
+              "name": "Knie pendeln",
+              "cue": "Knie zusammen, zur Seite pendeln. Die Schultern bleiben schwer."
+            },
+            {
+              "name": "Langsame Brücke",
+              "cue": "Über vier Zählzeiten hochrollen, über vier wieder ab. Sechs Wiederholungen."
+            },
+            {
+              "name": "Kleine Zehentipper",
+              "cue": "Knie über den Hüften. Eine Fußspitze nach unten, zurück. Klein."
+            },
+            {
+              "name": "Knie umarmen & kreisen",
+              "cue": "Ein Knie heran. Kreise es langsam aus der Hüfte. Wechsle zur Hälfte."
+            },
+            {
+              "name": "Beinheben in Seitenlage rechts",
+              "cue": "Das obere Bein hebt und senkt sich, langsam."
+            },
+            {
+              "name": "Beinheben in Seitenlage links",
+              "cue": "Andere Seite."
+            },
+            {
+              "name": "Katze-Kuh",
+              "cue": "Im Vierfüßler oder auf den Unterarmen. Beweg dich mit dem Atem."
+            },
+            {
+              "name": "Nadelöhr",
+              "cue": "Schieb einen Arm unter dem Körper durch, die Schulter liegt ab. Atme. Wechsle zur Hälfte."
+            },
+            {
+              "name": "Kindhaltung",
+              "cue": "Hüften zurück, die Arme dorthin, wo es bequem ist."
+            },
+            {
+              "name": "Drehsitz",
+              "cue": "Sitz aufrecht. Dreh dich und atme. Beide Seiten."
+            },
+            {
+              "name": "Seitneigen im Sitzen",
+              "cue": "Eine Hand am Boden, der andere Arm darüber. Beide Seiten."
+            },
+            {
+              "name": "Vorbeuge im Sitzen",
+              "cue": "Knie so weit gebeugt, wie du magst. Lass den Kopf hängen."
+            },
+            {
+              "name": "Vierer-Dehnung",
+              "cue": "Auf dem Rücken, Knöchel über das Knie, sanft heranziehen. Wechsle zur Hälfte."
+            },
+            {
+              "name": "Drehung in Rückenlage",
+              "cue": "Knie zu einer Seite, Arme weit. Wechsle zur Hälfte."
+            },
+            {
+              "name": "Beine hoch",
+              "cue": "Beine an der Wand hoch oder auf einem Stuhl. Hände auf dem Bauch."
+            },
+            {
+              "name": "Ruhe",
+              "cue": "Bleib, solange die Zeit läuft. Das war eine richtige Session."
+            }
+          ]
+        },
+        "pil_standing_25": {
+          "title": "Langer Flow im Stehen",
+          "description": "Fünfundzwanzig Minuten ohne Matte und ohne Boden. Eine ganze Session auf den Füßen.",
+          "steps": [
+            {
+              "name": "Aufrecht stehen",
+              "cue": "Füße hüftbreit, Gewicht gleichmäßig auf beiden Füßen. Wachse nach oben. Drei ruhige Atemzüge, bevor sich etwas bewegt."
+            },
+            {
+              "name": "Kinn nicken",
+              "cue": "Nicke das Kinn ein Stück Richtung Kehle, dann löse wieder. Klein und langsam. Die Schultern bleiben, wo sie sind."
+            },
+            {
+              "name": "Nacken lösen",
+              "cue": "Ohr Richtung Schulter, atmen, zurück. Dann die andere Seite. Der Kiefer bleibt locker."
+            },
+            {
+              "name": "Schulterkreisen",
+              "cue": "Schultern hoch, nach hinten und runter kreisen. Acht Mal, dann andersherum."
+            },
+            {
+              "name": "Armkreise",
+              "cue": "Arme zur Seite, kleine langsame Kreise. Zehn vorwärts, zehn rückwärts."
+            },
+            {
+              "name": "Brust öffnen",
+              "cue": "Hände hinter dem Rücken verschränken oder die gegenüberliegenden Ellbogen fassen. Heb die Brust und atme weit."
+            },
+            {
+              "name": "Seitliche Dehnung rechts",
+              "cue": "Rechter Arm über den Kopf, lehn dich sanft nach links. Atme in die offene Seite."
+            },
+            {
+              "name": "Seitliche Dehnung links",
+              "cue": "Andere Seite. Gleich weit."
+            },
+            {
+              "name": "Abrollen",
+              "cue": "Ausatmen, Kinn nicken, Wirbel für Wirbel abrollen, Knie weich. Hängen lassen. Einatmend wieder hoch. Drei Wiederholungen."
+            },
+            {
+              "name": "Marschieren im Stand",
+              "cue": "Marschiere auf der Stelle, Knie Richtung Hüfthöhe. Die Arme schwingen mit. Wärm die Hüften."
+            },
+            {
+              "name": "Fersenheben",
+              "cue": "Komm auf die Fußballen, senk dich kontrolliert ab. Zwölf langsame Wiederholungen. Halt dich an Wand oder Stuhl fest, wenn du magst."
+            },
+            {
+              "name": "Kleine Kniebeugen",
+              "cue": "Setz dich ein Stück zurück wie Richtung Stuhl, dann wieder aufrecht. Kleiner Bereich, zwölf Wiederholungen."
+            },
+            {
+              "name": "Ausfallschritt zurück rechts",
+              "cue": "Setz den rechten Fuß nach hinten, senk dich ein wenig, komm zurück. Zehn Wiederholungen. Nur so tief, wie es leicht geht."
+            },
+            {
+              "name": "Ausfallschritt zurück links",
+              "cue": "Andere Seite. Derselbe kleine Bereich."
+            },
+            {
+              "name": "Knieheben",
+              "cue": "Heb ein Knie Richtung Hüfthöhe, halte kurz, senk es. Im Wechsel. Bleib lang in der Mitte."
+            },
+            {
+              "name": "Balance rechts",
+              "cue": "Gewicht auf dem rechten Fuß, linkes Knie angehoben. Weicher Blick. Das Wackeln ist die Übung."
+            },
+            {
+              "name": "Balance links",
+              "cue": "Andere Seite. Gleiche Zeit."
+            },
+            {
+              "name": "Vorbeuge im Stand",
+              "cue": "Knie weich, beug dich nach vorn, lass Kopf und Arme hängen. Nicke ja und nein, dann roll langsam wieder hoch."
+            },
+            {
+              "name": "Ausklang",
+              "cue": "Steh still, die Arme schwer. Drei lange Atemzüge. Fünfundzwanzig Minuten, alle auf deinen Füßen."
+            }
+          ]
+        },
+        "rec_soft_reset_7": {
+          "title": "Sanfter Reset",
+          "description": "Hinlegen, schaukeln, drehen, atmen. Die kleinste vollständige Session.",
+          "steps": [
+            {
+              "name": "Hinlegen & atmen",
+              "cue": "Auf dem Rücken, Knie gebeugt oder Beine lang. Die Ausatmung länger als die Einatmung."
+            },
+            {
+              "name": "Knie pendeln",
+              "cue": "Knie zusammen, von Seite zu Seite pendeln."
+            },
+            {
+              "name": "Knie umarmen",
+              "cue": "Ein Knie heran, dann das andere, dann beide."
+            },
+            {
+              "name": "Drehung in Rückenlage",
+              "cue": "Knie zu einer Seite, Arme weit. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Wirbelsäulen-Wellen",
+              "cue": "Im Vierfüßlerstand, auf den Unterarmen oder im Sitzen: die Wirbelsäule mit dem Atem runden und lang machen."
+            },
+            {
+              "name": "Nacken lösen",
+              "cue": "Ohr Richtung Schulter, atmen, wechseln."
+            },
+            {
+              "name": "Ruhe",
+              "cue": "Nichts zu tun. Das hat gezählt."
+            }
+          ]
+        },
+        "rec_hips_10": {
+          "title": "Offene Hüften",
+          "description": "Langsame Halteübungen für Hüften, die den ganzen Tag sitzen.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Leg dich hin, Knie gebeugt. Atme tief in den Bauch."
+            },
+            {
+              "name": "Knie pendeln",
+              "cue": "Knie zusammen, von Seite zu Seite pendeln."
+            },
+            {
+              "name": "Vierer-Dehnung, rechts",
+              "cue": "Rechter Knöchel über das linke Knie. Zieh die Beine nur so weit heran, wie es sich gut anfühlt."
+            },
+            {
+              "name": "Vierer-Dehnung, links",
+              "cue": "Andere Seite."
+            },
+            {
+              "name": "Knie weit halten",
+              "cue": "Hinter den Oberschenkeln oder Schienbeinen fassen, Knie weit Richtung Achseln. Sanft schaukeln."
+            },
+            {
+              "name": "Tiefer Ausfallschritt, rechts",
+              "cue": "Knie auf einer Unterlage, rechter Fuß vorn, Hände auf dem Oberschenkel. Lass die Hüften sanft nach vorn sinken."
+            },
+            {
+              "name": "Tiefer Ausfallschritt, links",
+              "cue": "Andere Seite."
+            },
+            {
+              "name": "Schmetterling im Sitzen",
+              "cue": "Fußsohlen zusammen, Knie weit. Aufrecht sitzen oder ein wenig nach vorn sinken."
+            },
+            {
+              "name": "Drehung in Rückenlage",
+              "cue": "Auf dem Rücken, Knie zu einer Seite. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Ruhe",
+              "cue": "Beine lang oder Knie gebeugt. Lass die Hüften schwer werden."
+            }
+          ]
+        },
+        "rec_spine_10": {
+          "title": "Wirbelsäule lösen",
+          "description": "Sanfte Rotation und Länge für den ganzen Rücken.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Auf dem Rücken, Knie gebeugt. Atme in die Rückseite der Rippen."
+            },
+            {
+              "name": "Beckenkippen",
+              "cue": "Ausatmend kippen, einatmend lösen."
+            },
+            {
+              "name": "Knie pendeln",
+              "cue": "Knie zusammen, langsam pendeln."
+            },
+            {
+              "name": "Katze-Kuh",
+              "cue": "Vierfüßlerstand oder Unterarme. Einatmend heben, ausatmend runden."
+            },
+            {
+              "name": "Nadelöhr",
+              "cue": "Einen Arm durchschieben, Schulter ablegen, atmen. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Kindhaltung",
+              "cue": "Hüften nach hinten, in den Rücken atmen."
+            },
+            {
+              "name": "Seitneigung im Sitzen",
+              "cue": "Aufrecht sitzen, eine Hand am Boden, der andere Arm darüber. Beide Seiten."
+            },
+            {
+              "name": "Drehung im Sitzen",
+              "cue": "Dreh aus den Rippen, nicht aus dem Nacken. Beide Seiten."
+            },
+            {
+              "name": "Drehung in Rückenlage",
+              "cue": "Knie zu einer Seite, Arme weit. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Ruhe",
+              "cue": "Lieg lang. Spür deinen Rücken auf dem Boden."
+            }
+          ]
+        },
+        "rec_evening_12": {
+          "title": "Abend-Loslassen",
+          "description": "Lange Halteübungen, lange Ausatmung. Endet mit Beinen nach oben.",
+          "steps": [
+            {
+              "name": "Hinlegen, lang ausatmen",
+              "cue": "Knie gebeugt. Vier Zählzeiten durch die Nase ein, sechs durch den Mund aus."
+            },
+            {
+              "name": "Knie umarmen",
+              "cue": "Ein Knie, dann das andere, dann beide."
+            },
+            {
+              "name": "Knie pendeln",
+              "cue": "Langsam. Lass den Tag abfließen."
+            },
+            {
+              "name": "Vierer-Dehnung",
+              "cue": "Knöchel über das Knie, sanft heranziehen. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Dehnung der Beinrückseite",
+              "cue": "Ein Bein Richtung Decke, Hände hinter dem Oberschenkel oder ein Handtuch um den Fuß, Knie weich. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Drehung in Rückenlage",
+              "cue": "Knie zu einer Seite, Blick zur anderen. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Beine hoch",
+              "cue": "Beine an der Wand oder auf einem Stuhl, Arme weit. Atmen."
+            },
+            {
+              "name": "Body-Scan",
+              "cue": "Füße, Beine, Hüften, Rücken, Hände, Schultern, Kiefer. Lass jede Stelle weich werden, sobald du sie benennst."
+            }
+          ]
+        },
+        "rec_unwind_15": {
+          "title": "Langsam lösen",
+          "description": "Fünfzehn Minuten auf der Matte, bei denen nichts richtig sein muss. Schaukeln, drehen, atmen.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Leg dich auf den Rücken, Knie gebeugt, Füße flach. Lass die Ausatmung länger werden als die Einatmung."
+            },
+            {
+              "name": "Beckenkippen",
+              "cue": "Ausatmen, den unteren Rücken sanft Richtung Matte drücken. Einatmen, lösen. Klein."
+            },
+            {
+              "name": "Knie pendeln",
+              "cue": "Füße zusammen, beide Knie zu einer Seite sinken lassen, dann zur anderen. Die Schultern bleiben schwer."
+            },
+            {
+              "name": "Knie umarmen & kreisen",
+              "cue": "Ein Knie zur Brust. Kreise es langsam aus der Hüfte, in beide Richtungen. Wechsle zur Hälfte."
+            },
+            {
+              "name": "Vierer-Dehnung rechts",
+              "cue": "Rechter Knöchel über das linke Knie. Zieh die Beine nur so weit heran, wie es sich gut anfühlt."
+            },
+            {
+              "name": "Vierer-Dehnung links",
+              "cue": "Andere Seite. Gleich weit, nicht weiter."
+            },
+            {
+              "name": "Katze-Kuh",
+              "cue": "Im Vierfüßler oder auf den Unterarmen. Einatmen, Brust heben, ausatmen, Rücken runden. Fäuste oder Unterarme, wenn die Handgelenke sich melden."
+            },
+            {
+              "name": "Nadelöhr",
+              "cue": "Schieb einen Arm unter dem Körper durch und lass die Schulter auf der Matte ruhen. Atme. Wechsle zur Hälfte."
+            },
+            {
+              "name": "Kindhaltung",
+              "cue": "Hüften Richtung Fersen, Arme lang oder neben dem Körper. Atme in den hinteren Brustkorb."
+            },
+            {
+              "name": "Seitneigen im Sitzen",
+              "cue": "Sitz aufrecht, eine Hand am Boden, der andere Arm darüber. Beide Seiten."
+            },
+            {
+              "name": "Drehung in Rückenlage",
+              "cue": "Auf dem Rücken, Knie zu einer Seite, Arme weit, Blick zur anderen Seite. Wechsle zur Hälfte."
+            },
+            {
+              "name": "Ruhe",
+              "cue": "Leg dich lang hin. Nichts zu tun. Das hat gezählt."
+            }
+          ]
+        },
+        "rec_evening_18": {
+          "title": "Langes Loslassen",
+          "description": "Achtzehn Minuten lange Haltungen und noch längere Ausatmung. Endet mit Beinen nach oben.",
+          "steps": [
+            {
+              "name": "Hinlegen, lange Ausatmung",
+              "cue": "Knie gebeugt. Durch die Nase vier ein, durch den Mund sechs aus. Zehn Runden, ohne Eile."
+            },
+            {
+              "name": "Knie umarmen",
+              "cue": "Ein Knie, dann das andere, dann beide. Schaukle ein wenig, wenn das guttut."
+            },
+            {
+              "name": "Knie pendeln",
+              "cue": "Knie zusammen, zur Seite pendeln. Langsam. Lass den Tag abfließen."
+            },
+            {
+              "name": "Vierer-Dehnung",
+              "cue": "Knöchel über das Knie, sanft heranziehen. Wechsle zur Hälfte."
+            },
+            {
+              "name": "Beinrückseite dehnen",
+              "cue": "Ein Bein Richtung Decke, Hände hinter dem Oberschenkel oder ein Handtuch um den Fuß. Knie weich. Wechsle zur Hälfte."
+            },
+            {
+              "name": "Gestützter Schmetterling",
+              "cue": "Fußsohlen zusammen, Knie weit und abgelegt. Hände auf dem Bauch. Lass die Schwerkraft arbeiten."
+            },
+            {
+              "name": "Seitenlage rechts",
+              "cue": "Roll dich auf die rechte Seite, Knie gebeugt, Kopf auf dem Arm. Drei lange Atemzüge."
+            },
+            {
+              "name": "Seitenlage links",
+              "cue": "Andere Seite. Dieselben drei Atemzüge."
+            },
+            {
+              "name": "Drehung in Rückenlage",
+              "cue": "Knie zu einer Seite, Arme weit, Blick zur anderen Seite. Wechsle zur Hälfte."
+            },
+            {
+              "name": "Beine hoch",
+              "cue": "Beine an der Wand hoch oder auf einem Stuhl abgelegt. Arme weit. Bleib und atme."
+            },
+            {
+              "name": "Körperreise",
+              "cue": "Füße, Beine, Hüften, Rücken, Hände, Schultern, Kiefer. Lass jede Stelle weich werden, während sie genannt wird."
+            }
+          ]
+        },
+        "rec_standing_20": {
+          "title": "Lösen im Stehen",
+          "description": "Zwanzig sanfte Minuten ohne Matte und ohne Boden. Nichts davon braucht den Boden.",
+          "steps": [
+            {
+              "name": "Stehen und atmen",
+              "cue": "Füße hüftbreit, Knie weich. Lass die Ausatmung länger werden als die Einatmung. Zehn ruhige Runden."
+            },
+            {
+              "name": "Kinn nicken",
+              "cue": "Nicke das Kinn ein Stück Richtung Kehle, dann löse wieder. Klein und langsam."
+            },
+            {
+              "name": "Nacken lösen",
+              "cue": "Ohr Richtung Schulter, atmen, zurück. Dann die andere Seite. Der Kiefer bleibt locker."
+            },
+            {
+              "name": "Schulterkreisen",
+              "cue": "Langsam nach hinten kreisen. Die Arme bleiben schwer, während die Schultern wandern."
+            },
+            {
+              "name": "Armkreise",
+              "cue": "Arme zur Seite, kleine langsame Kreise. Zehn vorwärts, zehn rückwärts."
+            },
+            {
+              "name": "Brust öffnen",
+              "cue": "Hände hinter dem Rücken oder die gegenüberliegenden Ellbogen fassen. Heb die Brust und atme in die Vorderseite der Schultern."
+            },
+            {
+              "name": "Seitliche Dehnung rechts",
+              "cue": "Rechter Arm über den Kopf, lehn dich sanft nach links. Atme in die offene Seite."
+            },
+            {
+              "name": "Seitliche Dehnung links",
+              "cue": "Andere Seite. Gleich weit."
+            },
+            {
+              "name": "Vorbeuge im Stand",
+              "cue": "Knie weich, beug dich nach vorn, lass Kopf und Arme hängen. Nicke ja und nein. Roll langsam wieder hoch."
+            },
+            {
+              "name": "Knie umarmen im Stand rechts",
+              "cue": "Heb das rechte Knie zur Brust und halte es mit beiden Händen. Steh aufrecht. Nimm eine Wand dazu, wenn du wackelst."
+            },
+            {
+              "name": "Knie umarmen im Stand links",
+              "cue": "Andere Seite. Derselbe ruhige Halt."
+            },
+            {
+              "name": "Fersenheben",
+              "cue": "Komm auf die Fußballen und senk dich langsam ab. Zehn ruhige Wiederholungen, nur damit etwas in Bewegung kommt."
+            },
+            {
+              "name": "Ruhiges Marschieren",
+              "cue": "Marschiere auf der Stelle, die Knie tief, die Arme locker. Nichts daran ist zügig."
+            },
+            {
+              "name": "Ausklang",
+              "cue": "Steh still, die Arme schwer, der Blick weich. Drei lange Atemzüge. Zwanzig Minuten, keine davon am Boden."
+            }
+          ]
+        },
+        "rec_restore_22": {
+          "title": "Tiefe Ruhe",
+          "description": "Zweiundzwanzig langsame Minuten für den ganzen Rücken und beide Hüften. Nirgends Anstrengung.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Leg dich auf den Rücken, Knie gebeugt. Lass den Boden das Gewicht nehmen. Ausatmung länger als Einatmung."
+            },
+            {
+              "name": "Beckenkippen",
+              "cue": "Ausatmen, kippen; einatmen, lösen. Winzige Bewegungen, mehr nicht."
+            },
+            {
+              "name": "Knie pendeln",
+              "cue": "Knie zusammen, zur Seite pendeln. Die Schultern bleiben schwer."
+            },
+            {
+              "name": "Knie umarmen & kreisen",
+              "cue": "Ein Knie heran, kreise es langsam aus der Hüfte. Beide Richtungen. Wechsle zur Hälfte."
+            },
+            {
+              "name": "Vierer-Dehnung rechts",
+              "cue": "Rechter Knöchel über das linke Knie, zieh die Beine so weit heran, wie es sich gut anfühlt. Atme dort."
+            },
+            {
+              "name": "Vierer-Dehnung links",
+              "cue": "Andere Seite. Nicht weiter als die erste."
+            },
+            {
+              "name": "Beinrückseite rechts",
+              "cue": "Rechtes Bein Richtung Decke, Hände hinter dem Oberschenkel oder ein Handtuch um den Fuß. Knie weich."
+            },
+            {
+              "name": "Beinrückseite links",
+              "cue": "Andere Seite."
+            },
+            {
+              "name": "Katze-Kuh",
+              "cue": "Im Vierfüßler oder auf den Unterarmen. Beweg dich mit dem Atem. Fäuste oder Unterarme, wenn die Handgelenke sich melden."
+            },
+            {
+              "name": "Nadelöhr",
+              "cue": "Schieb einen Arm unter dem Körper durch, die Schulter liegt ab. Atme in den oberen Rücken. Wechsle zur Hälfte."
+            },
+            {
+              "name": "Kindhaltung",
+              "cue": "Hüften Richtung Fersen, Knie so weit, wie sie mögen. Atme in den hinteren Brustkorb."
+            },
+            {
+              "name": "Seitneigen im Sitzen",
+              "cue": "Sitz aufrecht, eine Hand am Boden, der andere Arm darüber. Beide Seiten, langsam."
+            },
+            {
+              "name": "Drehung in Rückenlage",
+              "cue": "Wieder auf den Rücken, Knie zu einer Seite, Arme weit. Blick zur anderen Seite. Wechsle zur Hälfte."
+            },
+            {
+              "name": "Beine hoch",
+              "cue": "Beine an der Wand hoch oder auf einem Stuhl — oder Knie gebeugt und Füße flach, wenn beides fehlt."
+            },
+            {
+              "name": "Ruhe",
+              "cue": "Leg dich lang hin. Zweiundzwanzig Minuten, in denen nichts richtig sein musste. Das war die Session."
+            }
+          ]
+        },
+        "br_box_3": {
+          "title": "Box-Atmung",
+          "description": "Vier ein, halten, vier aus, halten. Folge dem Ring.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Setz oder leg dich. Ein normaler Atemzug."
+            },
+            {
+              "name": "Box-Atmung",
+              "cue": "Folge dem vierteiligen Rhythmus, wenn er sich angenehm anfühlt, oder wähle freies Atmen. Dein eigener Atem gibt das Tempo vor."
+            },
+            {
+              "name": "Abschluss",
+              "cue": "Lass den Atem wieder normal werden. Spür die Pause."
+            }
+          ]
+        },
+        "br_long_exhale_5": {
+          "title": "Lange Ausatmung",
+          "description": "Länger aus- als einatmen. Der Körper liest das als sicher.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Eine Hand auf den Bauch. Ein normaler Atemzug."
+            },
+            {
+              "name": "Vier ein, sechs aus",
+              "cue": "Atme sanft ein und lass das Ausatmen etwas länger werden. Folge deinem gewählten Tempo."
+            },
+            {
+              "name": "Vier ein, acht aus",
+              "cue": "Lass das Ausatmen weich und länger werden. Folge deinem gewählten Tempo, ohne den Atem zu erzwingen."
+            },
+            {
+              "name": "Abschluss",
+              "cue": "Atme normal. Das war genug."
+            }
+          ]
+        },
+        "br_ground_3": {
+          "title": "Ankommen in drei",
+          "description": "Drei Dinge, die du fühlst, drei, die du hörst, drei langsame Atemzüge.",
+          "steps": [
+            {
+              "name": "Drei Dinge, die du fühlst",
+              "cue": "Der Stuhl unter dir, deine Füße auf dem Boden, die Luft an deinen Händen. Benenne sie still."
+            },
+            {
+              "name": "Drei Dinge, die du hörst",
+              "cue": "Weit weg, dann näher, dann das nächste Geräusch. Einfach wahrnehmen."
+            },
+            {
+              "name": "Drei langsame Atemzüge",
+              "cue": "Länger aus als ein. Dann bist du fertig."
+            }
+          ]
+        },
+        "med_breathing_space_3": {
+          "title": "Drei Atemzüge, dann weiter",
+          "description": "Wahrnehmen, beim Atem sammeln, weiten. Eine Brücke zwischen zwei Dingen.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Sitz oder steh, wie du gerade bist. Augen offen oder zu. Nichts zu richten."
+            },
+            {
+              "name": "Was gerade da ist",
+              "cue": "Gedanken, Gefühle, der Körper. Benenne nur, was da ist, ohne es zu ändern."
+            },
+            {
+              "name": "Der Atem",
+              "cue": "Verenge auf den Atem. Ein, und länger aus. Wenn die Gedanken wandern, ist das normal."
+            },
+            {
+              "name": "Weiten",
+              "cue": "Lass den Atem den ganzen Körper füllen. Geräusche auch. Es muss nichts passieren."
+            },
+            {
+              "name": "Weiter im Tag",
+              "cue": "Das waren drei Minuten. Mach weiter."
+            }
+          ]
+        },
+        "med_back_in_room_3": {
+          "title": "Zurück im Raum",
+          "description": "Augen offen. Füße, Hände, drei Dinge, die du siehst. Für Momente, in denen du weit weg bist.",
+          "steps": [
+            {
+              "name": "Augen offen",
+              "cue": "Die Augen bleiben offen. Schau dich langsam um. Nichts zu finden."
+            },
+            {
+              "name": "Füße und Sitz",
+              "cue": "Füße auf dem Boden. Drück ein wenig. Der Stuhl hält dich."
+            },
+            {
+              "name": "Hände",
+              "cue": "Warm, kühl, abgelegt. Spür, was deine Hände berühren."
+            },
+            {
+              "name": "Drei Dinge, die du siehst",
+              "cue": "Drei Dinge, die du sehen kannst. Benenne sie still. Gewöhnlich ist gut."
+            },
+            {
+              "name": "Ein Atemzug",
+              "cue": "Ein Atemzug, länger aus als ein. Du bist hier."
+            }
+          ]
+        },
+        "st_cooldown_5": {
+          "title": "Ausklang",
+          "description": "Fünf Minuten, um eine Matten-Session zu beenden.",
+          "steps": [
+            {
+              "name": "Kindhaltung",
+              "cue": "Hüften nach hinten, in den Rücken atmen."
+            },
+            {
+              "name": "Hüftbeuger-Dehnung",
+              "cue": "Knie auf einer Unterlage, ein Fuß vorn, die Hüften sanft nach vorn schieben. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Dehnung der Beinrückseite",
+              "cue": "Im Sitzen oder Liegen ein Bein lang, sanft vorbeugen oder anheben. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Drehung in Rückenlage",
+              "cue": "Knie zu einer Seite, Arme weit. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Ruhe",
+              "cue": "Lieg lang. Fertig."
+            }
+          ]
+        },
+        "st_neck_3": {
+          "title": "Nacken & Schultern",
+          "description": "Drei Minuten für den Bildschirm-Nacken. Geht auch am Stuhl.",
+          "steps": [
+            {
+              "name": "Schulterkreisen",
+              "cue": "Hoch, nach hinten, runter, ganz langsam. Dann andersherum."
+            },
+            {
+              "name": "Ohr zur Schulter",
+              "cue": "Lass den Kopf zur Seite sinken, atme, nach der Hälfte wechseln. Nicht ziehen."
+            },
+            {
+              "name": "Kinn nicken",
+              "cue": "Das Kinn sanft zur Brust nicken, den Nacken hinten lang machen, zurück."
+            },
+            {
+              "name": "Brustöffner",
+              "cue": "Hände hinter dem Rücken oder die Ellbogen fassen. Brust heben und atmen."
+            }
+          ]
+        },
+        "walk_7": {
+          "title": "Einmal um den Block",
+          "description": "Raus, um den Block, zurück. Das ist die ganze Session.",
+          "steps": [
+            {
+              "name": "Raus aus der Tür",
+              "cue": "Schuhe an, Handy in die Tasche. Du bist schon dabei."
+            },
+            {
+              "name": "Dein Tempo finden",
+              "cue": "Jedes Tempo, bei dem du durch die Nase atmen kannst. Arme locker."
+            },
+            {
+              "name": "In die Ferne schauen",
+              "cue": "Such dir das Weiteste, das du sehen kannst, und behalte es eine Weile im Blick."
+            },
+            {
+              "name": "Ausklingen",
+              "cue": "Die letzte Minute langsamer. Spür die Luft."
+            }
+          ]
+        },
+        "walk_15": {
+          "title": "Fünfzehn Minuten Luft",
+          "description": "Eine zügige Runde mit etwas Weitem zum Hinschauen.",
+          "steps": [
+            {
+              "name": "Locker anfangen",
+              "cue": "Fang leicht an. Lass die Hüften locker werden."
+            },
+            {
+              "name": "Zügig",
+              "cue": "Ein Tempo, bei dem Reden geht, Singen aber nicht."
+            },
+            {
+              "name": "Gleichmäßig, Blick in die Ferne",
+              "cue": "Halte das Tempo, der Blick ruht weich auf dem Horizont."
+            },
+            {
+              "name": "Ausklingen",
+              "cue": "Langsamer werden. Einmal die Schultern kreisen."
+            }
+          ]
+        },
+        "walk_20": {
+          "title": "Reset-Spaziergang",
+          "description": "Zwanzig Minuten, Nasenatmung, kein Podcast.",
+          "steps": [
+            {
+              "name": "Locker anfangen",
+              "cue": "Leichtes Tempo, heute kein Podcast. Nur das Gehen."
+            },
+            {
+              "name": "Zügig",
+              "cue": "Durch die Nase atmen, Arme schwingen."
+            },
+            {
+              "name": "Gleichmäßig",
+              "cue": "Bleib dabei. Entdecke drei Dinge, an denen du hundertmal vorbeigegangen bist, ohne hinzusehen."
+            },
+            {
+              "name": "Ausklingen",
+              "cue": "Die letzten zwei Minuten langsamer. Fertig."
+            }
+          ]
+        },
+        "face_jaw_3": {
+          "title": "Kiefer loslassen",
+          "description": "Drei Minuten für einen Kiefer, der den ganzen Tag zu war.",
+          "steps": [
+            {
+              "name": "Merken",
+              "cue": "Berühren sich deine Zähne? Lass sie ein Stück auseinander."
+            },
+            {
+              "name": "Kiefer wärmen",
+              "cue": "Fingerspitzen auf das Gelenk unter den Ohren. Kleine, langsame Kreise."
+            },
+            {
+              "name": "Öffnen und schließen",
+              "cue": "Lass den Mund aufgehen, dann schließen, ohne zu pressen. Viermal."
+            },
+            {
+              "name": "Zunge an den Gaumen",
+              "cue": "Die Zunge liegt am Gaumen. Der Kiefer wird still."
+            },
+            {
+              "name": "Ausatmen",
+              "cue": "Ein langer Atem durch den Mund hinaus."
+            }
+          ]
+        },
+        "face_eyes_3": {
+          "title": "Um die Augen herum",
+          "description": "Gegen die Enge, die vom Bildschirm kommt.",
+          "steps": [
+            {
+              "name": "Handflächen",
+              "cue": "Reib die Hände warm und leg sie über die geschlossenen Augen."
+            },
+            {
+              "name": "In die Ferne",
+              "cue": "Augen auf. Such das Weiteste, was du sehen kannst."
+            },
+            {
+              "name": "Braue lösen",
+              "cue": "Fingerspitzen am Brauenknochen, sanft drücken, nach außen streichen."
+            },
+            {
+              "name": "Schläfen",
+              "cue": "Langsame Kreise an den Schläfen. Die Stirn wird weich."
+            },
+            {
+              "name": "Wieder zu",
+              "cue": "Augen zu. Ein Atemzug. Dann zurück."
+            }
+          ]
+        },
+        "face_lift_5": {
+          "title": "Gesicht & Hals",
+          "description": "Fünf Minuten über Gesicht, Kiefer und Halsvorderseite.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Sitz aufrecht. Schultern tief. Kiefer locker."
+            },
+            {
+              "name": "Wangenkreise",
+              "cue": "Knöchel auf die Wangen, langsame Kreise nach außen Richtung Ohren."
+            },
+            {
+              "name": "Am Kieferrand entlang",
+              "cue": "Daumen unter dem Kiefer, vom Kinn zum Ohr gleiten. Leichter Druck."
+            },
+            {
+              "name": "Halsvorderseite",
+              "cue": "Flache Hände, vom Kiefer zum Schlüsselbein streichen. Nie fest drücken."
+            },
+            {
+              "name": "Stirn glätten",
+              "cue": "Fingerspitzen von der Mitte nach außen. Vier Durchgänge."
+            },
+            {
+              "name": "Ruhen",
+              "cue": "Hände in den Schoß. Spür das warme Gesicht."
+            }
+          ]
+        },
+        "mas_neck_3": {
+          "title": "Nackenknoten",
+          "description": "Deine eigenen Hände auf den Stellen, die den Tag festhalten.",
+          "steps": [
+            {
+              "name": "Die Kante finden",
+              "cue": "Finger an den unteren Schädelrand. Kleine Kreise an der Kante entlang."
+            },
+            {
+              "name": "Die Seite hinunter",
+              "cue": "Drück den Muskel zwischen Nacken und Schulter zusammen. Halten, loslassen."
+            },
+            {
+              "name": "Andere Seite",
+              "cue": "Dasselbe auf der anderen Seite. Atme dort hinein aus."
+            },
+            {
+              "name": "Schulteroberseite",
+              "cue": "Die gegenüberliegende Hand auf die Schulter. Drücken, die Schulter einmal rollen."
+            }
+          ]
+        },
+        "mas_hands_3": {
+          "title": "Hände & Handgelenke",
+          "description": "Drei Minuten für Hände, die tippen, tragen und halten.",
+          "steps": [
+            {
+              "name": "Handfläche",
+              "cue": "Daumen in die andere Handfläche. Langsam, die ganze Fläche."
+            },
+            {
+              "name": "Jeder Finger",
+              "cue": "Streich jeden Finger von unten bis zur Spitze aus."
+            },
+            {
+              "name": "Andere Hand",
+              "cue": "Dasselbe an der anderen Hand."
+            },
+            {
+              "name": "Handgelenkkreise",
+              "cue": "Beide Handgelenke, vier Kreise in jede Richtung."
+            }
+          ]
+        },
+        "mas_feet_5": {
+          "title": "Füße am Boden",
+          "description": "Fünf Minuten am anderen Ende eines langen Tages.",
+          "steps": [
+            {
+              "name": "Sitzen",
+              "cue": "Ein Knöchel über das andere Knie. Schuhe aus."
+            },
+            {
+              "name": "Fußsohle",
+              "cue": "Daumen die Sohle entlang, Ferse zu Zehen. Such die wunde Stelle und warte dort."
+            },
+            {
+              "name": "Zehen",
+              "cue": "Spreiz die Zehen mit den Fingern. Halten, loslassen."
+            },
+            {
+              "name": "Gewölbe",
+              "cue": "Knöchel ins Fußgewölbe, langsame Kreise."
+            },
+            {
+              "name": "Anderer Fuß",
+              "cue": "Dasselbe am anderen Fuß."
+            },
+            {
+              "name": "Aufstehen",
+              "cue": "Steh auf. Merk den Unterschied zwischen den beiden."
+            }
+          ]
+        }
+      }
+    }
+  }
+}
