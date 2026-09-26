@@ -43,7 +43,7 @@
             },
             {
               "name": "Zum Sitzen aufrollen",
-              "cue": "Komm langsam hoch. Spür, dass du ein bisschen wacher bist als vorher."
+              "cue": "Komm langsam hoch. Nimm wahr, wie du dich jetzt fühlst."
             }
           ]
         },
@@ -140,8 +140,8 @@
           ]
         },
         "pil_posture_12": {
-          "title": "Schreibtisch rückgängig",
-          "description": "Den Laptop rückgängig machen: Nacken, oberer Rücken, Brust, Hüften.",
+          "title": "Schreibtischpause",
+          "description": "Zwölf Minuten Bewegung für Nacken, oberen Rücken, Brust und Hüften.",
           "steps": [
             {
               "name": "Atmen im Sitzen",
@@ -249,7 +249,7 @@
         },
         "pil_glutes_12": {
           "title": "Po & Beine Basis",
-          "description": "Brücken, Clams und Beinheben. Starke Hüften ohne einen einzigen Ausfallschritt.",
+          "description": "Brücken, Clams und Beinheben. Eine Einheit mit Fokus auf die Hüften, ohne Ausfallschritte.",
           "steps": [
             {
               "name": "Warm atmen",
@@ -418,7 +418,7 @@
           ]
         },
         "pil_glutes_15": {
-          "title": "Starke Hüften",
+          "title": "Hüften & Beine",
           "description": "Kniebeugen, Ausfallschritte und Brücken für Hüften, die viel tragen.",
           "steps": [
             {
@@ -529,7 +529,7 @@
             },
             {
               "name": "Ausklang",
-              "cue": "Steh still, die Arme schwer. Drei lange Atemzüge. Ein bisschen aufrechter als vor fünfzehn Minuten."
+              "cue": "Steh still, die Arme schwer. Drei lange Atemzüge. Nimm wahr, wie du jetzt stehst."
             }
           ]
         },
@@ -1397,7 +1397,7 @@
         },
         "br_long_exhale_5": {
           "title": "Lange Ausatmung",
-          "description": "Länger aus- als einatmen. Der Körper liest das als sicher.",
+          "description": "Länger aus- als einatmen. Finde ein Tempo, das dir passt.",
           "steps": [
             {
               "name": "Ankommen",
@@ -1629,7 +1629,7 @@
         },
         "face_eyes_3": {
           "title": "Um die Augen herum",
-          "description": "Gegen die Enge, die vom Bildschirm kommt.",
+          "description": "Eine kurze Bildschirmpause mit sanften Bewegungen rund um die Augen.",
           "steps": [
             {
               "name": "Handflächen",
@@ -1754,6 +1754,2186 @@
             {
               "name": "Aufstehen",
               "cue": "Steh auf. Merk den Unterschied zwischen den beiden."
+            }
+          ]
+        },
+        "rec_chill_5": {
+          "title": "Fünf Minuten Pause",
+          "description": "Hinlegen, nichts tun, wieder aufstehen. Das ist die ganze Einheit.",
+          "steps": [
+            {
+              "name": "Hinlegen",
+              "cue": "Auf den Rücken, Knie gebeugt oder Beine lang. Lass den Boden das Gewicht nehmen."
+            },
+            {
+              "name": "Längere Ausatmung",
+              "cue": "Durch die Nase ein, durch den Mund aus. Die Ausatmung ein wenig länger als die Einatmung."
+            },
+            {
+              "name": "Nichts zu tun",
+              "cue": "Nicht zählen, nicht nachsehen. Einfach liegen."
+            },
+            {
+              "name": "Hochrollen",
+              "cue": "Auf eine Seite, dann hoch. Langsam."
+            }
+          ]
+        },
+        "rec_chill_10": {
+          "title": "Zehn stille Minuten",
+          "description": "Beine hoch, Augen zu, nichts wird von dir verlangt. Wenn du dabei eine Gesichtsmaske tragen willst, leg sie vorher auf.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Auf dem Rücken. Schultern breit, Kiefer locker, Zunge vom Gaumen lösen."
+            },
+            {
+              "name": "Beine hoch",
+              "cue": "Beine an die Wand oder auf einen Stuhl, was gerade da ist. Arme, wo sie bequem liegen."
+            },
+            {
+              "name": "Langsamer Atem",
+              "cue": "Vier ein, sechs aus. Wenn das Zählen anstrengend wird, lass das Zählen weg."
+            },
+            {
+              "name": "Gesicht loslassen",
+              "cue": "Stirn, Augen, Kiefer. Nichts festhalten."
+            },
+            {
+              "name": "Zurückkommen",
+              "cue": "Beine runter, Knie gebeugt, auf eine Seite rollen, aufsetzen."
+            }
+          ]
+        },
+        "rec_chill_20": {
+          "title": "Zwanzig Minuten Ruhe",
+          "description": "Ein langes Liegen mit ein wenig Bewegung darin, für einen Abend, an dem nichts mehr geht. Maske vorher auflegen, wenn du magst.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Leg dich hin. Das Telefon woanders, wenn das gerade möglich ist."
+            },
+            {
+              "name": "Knie pendeln",
+              "cue": "Knie zusammen, zu einer Seite fallen lassen, dann zur anderen. Klein und langsam."
+            },
+            {
+              "name": "Knie umarmen",
+              "cue": "Ein Knie heran, dann das andere, dann beide."
+            },
+            {
+              "name": "Beine hoch",
+              "cue": "An die Wand oder auf einen Stuhl. Bleib, solange es bequem bleibt."
+            },
+            {
+              "name": "Langer Atem",
+              "cue": "Ausatmung länger als Einatmung. Nichts muss richtig sein."
+            },
+            {
+              "name": "Ruhe",
+              "cue": "Beine runter, wie sie landen. Das hat gezählt."
+            },
+            {
+              "name": "Aufrollen",
+              "cue": "Auf eine Seite, dann hoch."
+            }
+          ]
+        },
+        "pil_quick_5": {
+          "title": "Fünf Minuten Matte",
+          "description": "Eine ganze Matten-Einheit in fünf Minuten, für einen Tag ohne Platz darin.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Leg dich auf den Rücken, Knie gebeugt, Füße flach. Zwei langsame Atemzüge."
+            },
+            {
+              "name": "Beckenkippen",
+              "cue": "Ausatmen, den unteren Rücken Richtung Matte drücken. Einatmen, zurück in die Mitte."
+            },
+            {
+              "name": "Fersen tippen",
+              "cue": "Knie über den Hüften, Schienbeine waagerecht. Eine Ferse zur Matte tippen, dann die andere. Der Rücken bleibt ruhig."
+            },
+            {
+              "name": "Käfer",
+              "cue": "Gegenüberliegender Arm und Fuß strecken sich weg, dann zurück. Nur so weit, wie der Rücken still bleibt."
+            },
+            {
+              "name": "Brücke",
+              "cue": "Ausatmen, die Hüften Wirbel für Wirbel heben. Oben einatmen, ausatmend abrollen."
+            },
+            {
+              "name": "Knie umarmen",
+              "cue": "Beide Knie heran. Ein Atemzug. Das waren fünf Minuten."
+            }
+          ]
+        },
+        "pil_standing_5": {
+          "title": "Fünf am Schreibtisch",
+          "description": "Fünf Minuten im Stehen neben dem Stuhl. Keine Matte, kein Boden, kein Umziehen.",
+          "steps": [
+            {
+              "name": "Aufrecht stehen",
+              "cue": "Füße hüftbreit, Gewicht gleichmäßig auf beiden Füßen. Lass die Schultern von den Ohren wegsinken."
+            },
+            {
+              "name": "Schulterkreisen",
+              "cue": "Hoch, zurück und runter. Acht Kreise, dann andersherum."
+            },
+            {
+              "name": "Vorderseite öffnen",
+              "cue": "Hände hinter dem Rücken, Finger verschränkt. Mach die Schlüsselbeine breit. Blick nach vorn, nicht nach oben."
+            },
+            {
+              "name": "Seitlich strecken",
+              "cue": "Ein Arm über den Kopf, lehn dich davon weg. Dann die andere Seite."
+            },
+            {
+              "name": "Fersen heben",
+              "cue": "Auf die Fußballen heben, kontrolliert absenken. Halt dich am Schreibtisch fest, wenn du magst."
+            },
+            {
+              "name": "Knie heben",
+              "cue": "Ein Knie Richtung Hüfthöhe heben, halten, senken. Im Wechsel. Werd lang bis zum Scheitel."
+            }
+          ]
+        },
+        "rec_yoga_12": {
+          "title": "Sanfter Yoga-Flow",
+          "description": "Zwölf Minuten langsame Yoga-Formen, lange genug gehalten, um darin anzukommen.",
+          "steps": [
+            {
+              "name": "Sitzen und atmen",
+              "cue": "Im Schneidersitz oder auf den Fersen. Drei Atemzüge, bevor sich etwas bewegt."
+            },
+            {
+              "name": "Seitneigen",
+              "cue": "Eine Hand auf der Matte, der andere Arm darüber. Lehn dich weg. Dann die andere Seite."
+            },
+            {
+              "name": "Drehsitz",
+              "cue": "Eine Hand hinter dir, dreh aus der Mitte, nicht aus der Schulter. Beide Seiten."
+            },
+            {
+              "name": "Katze–Kuh",
+              "cue": "Hände unter den Schultern, Knie unter den Hüften. Einatmend die Brust heben, ausatmend den Rücken runden. Unterarme, wenn die Handgelenke mucken."
+            },
+            {
+              "name": "Nadel einfädeln",
+              "cue": "Ein Arm gleitet unter dem anderen durch, Schulter und Schläfe zur Matte. Dann wechseln."
+            },
+            {
+              "name": "Herabschauender Hund",
+              "cue": "Hüften hoch und zurück, Knie so gebeugt, wie sie es brauchen. Tritt die Fersen abwechselnd tiefer."
+            },
+            {
+              "name": "Tiefer Ausfallschritt",
+              "cue": "Ein Fuß nach vorn zwischen die Hände, hinteres Knie ab. Sink, bis du die Vorderseite der hinteren Hüfte spürst. Beide Seiten."
+            },
+            {
+              "name": "Stellung des Kindes",
+              "cue": "Hüften zurück Richtung Fersen, Arme lang oder neben dir. Drei große Atemzüge in den Rücken."
+            },
+            {
+              "name": "Vorbeuge im Sitzen",
+              "cue": "Im Sitzen, Beine lang oder Knie weich. Beug dich aus den Hüften. Nichts muss irgendwo hinkommen."
+            },
+            {
+              "name": "Schmetterling",
+              "cue": "Fußsohlen aneinander, Knie weit und schwer. Lass sie da, wo sie sind."
+            },
+            {
+              "name": "Drehung im Liegen",
+              "cue": "Auf dem Rücken, Knie fallen zu einer Seite, Blick zur anderen. Dann wechseln."
+            },
+            {
+              "name": "Nachruhen",
+              "cue": "Flach auf dem Rücken, Arme weg vom Körper. Bleib, bis es fertig wirkt."
+            }
+          ]
+        },
+        "rec_yoga_sleep_15": {
+          "title": "Dehnen vor dem Schlafen",
+          "description": "Fünfzehn Minuten lange, stille Haltungen, die du in dem machen kannst, was du schon anhast.",
+          "steps": [
+            {
+              "name": "Hinlegen",
+              "cue": "Auf den Rücken, wo es flach ist. Das Bett ist erlaubt."
+            },
+            {
+              "name": "Knie umarmen",
+              "cue": "Ein Knie zur Brust, ein paar Atemzüge halten, wechseln. Dann beide."
+            },
+            {
+              "name": "Knie pendeln",
+              "cue": "Füße zusammen, beide Knie zu einer Seite fallen lassen, dann zur anderen. Die Schultern bleiben schwer."
+            },
+            {
+              "name": "Vierer",
+              "cue": "Ein Knöchel über das andere Knie, den hinteren Oberschenkel heranziehen. Beide Seiten."
+            },
+            {
+              "name": "Beinrückseite",
+              "cue": "Ein Bein hoch, Hände hinter dem Oberschenkel. Das Knie bleibt weich. Beide Seiten."
+            },
+            {
+              "name": "Drehung im Liegen",
+              "cue": "Knie fallen zu einer Seite, Blick zur anderen. Bleib sechs Atemzüge. Dann wechseln."
+            },
+            {
+              "name": "Weite Knie",
+              "cue": "Knie weit, Fußsohlen aneinander oder Füße auf der Matte. Hände, wo sie bequem liegen."
+            },
+            {
+              "name": "Beine hoch",
+              "cue": "Beine an die Wand oder auf die Bettkante. Arme zur Seite. Bleib, solange es bequem bleibt."
+            },
+            {
+              "name": "Lange Ausatmung",
+              "cue": "Beine runter. Durch die Nase ein, durch den Mund aus, die Ausatmung länger."
+            },
+            {
+              "name": "Bleiben",
+              "cue": "Heute Abend ist nichts mehr zu tun. Bleib hier oder schlaf hier ein."
+            }
+          ]
+        },
+        "rec_warm_cool_6": {
+          "title": "Kühl und warm",
+          "description": "Sechs Minuten am Waschbecken: kühles Wasser an den Handgelenken, warme Hände im Gesicht.",
+          "steps": [
+            {
+              "name": "Ans Waschbecken",
+              "cue": "Ärmel hoch. Sonst nichts vorzubereiten."
+            },
+            {
+              "name": "Kühles Wasser, Handgelenke",
+              "cue": "Kühles Wasser über die Innenseite des einen Handgelenks, dann des anderen. So lange es angenehm ist, nicht länger."
+            },
+            {
+              "name": "Trocknen und warm reiben",
+              "cue": "Hände abtrocknen. Reib die Handflächen aneinander, bis sie warm sind."
+            },
+            {
+              "name": "Warme Hände auf die Augen",
+              "cue": "Leg die warmen Hände über die geschlossenen Augen. Drei langsame Atemzüge im Dunkeln."
+            },
+            {
+              "name": "Kühle Handflächen an den Wangen",
+              "cue": "Kühl die Handflächen noch einmal. Halt sie flach an die Wangen und in den Nacken."
+            },
+            {
+              "name": "Einmal ausatmen",
+              "cue": "Ein langer Atemzug durch den Mund hinaus. Dann weiter zu dem, was ansteht."
+            }
+          ]
+        },
+        "face_daily_8": {
+          "title": "Acht Minuten fürs Gesicht",
+          "description": "Hände, Wärme und langsame Kreise über das ganze Gesicht. Im Sitzen, überall.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Sitz aufrecht. Schultern runter. Lass die Zähne auseinander."
+            },
+            {
+              "name": "Hände warm reiben",
+              "cue": "Reib die Handflächen aneinander, bis sie warm sind."
+            },
+            {
+              "name": "Hände auf die Augen",
+              "cue": "Leg die warmen Hände über die geschlossenen Augen. Drei Atemzüge im Dunkeln."
+            },
+            {
+              "name": "Stirn glätten",
+              "cue": "Fingerspitzen zwischen die Brauen, nach außen zu den Schläfen streichen. Vier Züge."
+            },
+            {
+              "name": "Schläfen",
+              "cue": "Langsame Kreise an den Schläfen. Lass die Stirn weich werden."
+            },
+            {
+              "name": "Wangen",
+              "cue": "Knöchel auf die Wangen, langsame Kreise nach außen zu den Ohren."
+            },
+            {
+              "name": "Am Kieferrand entlang",
+              "cue": "Daumen unter den Kiefer, vom Kinn zum Ohr gleiten. Leichter Druck."
+            },
+            {
+              "name": "Kopfhaut",
+              "cue": "Fingerspitzen ins Haar. Kleine Kreise über die ganze Kopfhaut."
+            },
+            {
+              "name": "Nachruhen",
+              "cue": "Hände in den Schoß. Lass das Gesicht still werden."
+            }
+          ]
+        },
+        "face_eyes_10": {
+          "title": "Weg vom Bildschirm",
+          "description": "Zehn Minuten für Augen, die den ganzen Tag dicht vor etwas Hellem waren.",
+          "steps": [
+            {
+              "name": "Zurücklehnen",
+              "cue": "Schieb den Stuhl zurück. Hände weg von der Tastatur, Füße auf den Boden."
+            },
+            {
+              "name": "Handflächen",
+              "cue": "Reib die Hände warm, leg sie über die geschlossenen Augen. Bleib, bis das Dunkel gewöhnlich wird."
+            },
+            {
+              "name": "In die Ferne schauen",
+              "cue": "Augen auf. Such das Weiteste, was du sehen kannst. Halt es, dann zurück zur eigenen Hand."
+            },
+            {
+              "name": "Langsam blinzeln",
+              "cue": "Zehn langsame Lidschläge. Jedes Mal ganz schließen."
+            },
+            {
+              "name": "Unter den Augen",
+              "cue": "Ringfinger tippen leicht unter den Augen, von der Nase nach außen. Kaum Druck."
+            },
+            {
+              "name": "Stirn glätten",
+              "cue": "Fingerspitzen zwischen die Brauen, nach außen streichen. Sechs langsame Züge."
+            },
+            {
+              "name": "Schläfen",
+              "cue": "Langsame Kreise an den Schläfen. Der Kiefer kommt mit."
+            },
+            {
+              "name": "Hinterkopf unten",
+              "cue": "Finger an die Kante, wo Schädel und Nacken sich treffen. Kleine Kreise daran entlang."
+            },
+            {
+              "name": "Noch einmal Handflächen",
+              "cue": "Wärm die Hände noch einmal, auf die Augen."
+            },
+            {
+              "name": "Zurück",
+              "cue": "Augen auf. Der Bildschirm wird weiter weg wirken als vorher."
+            }
+          ]
+        },
+        "face_mask_15": {
+          "title": "Gesicht und Kopfhaut",
+          "description": "Ein langer, langsamer Durchgang über das ganze Gesicht und die Kopfhaut. Wenn du dabei eine Gesichtsmaske tragen willst, leg sie vorher auf.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Sitz oder leg dich hin, was du gerade hast. Schultern schwer, Kiefer locker."
+            },
+            {
+              "name": "Hände warm reiben",
+              "cue": "Reib die Handflächen aneinander, bis sie warm sind."
+            },
+            {
+              "name": "Hände auf die Augen",
+              "cue": "Leg die warmen Hände über die geschlossenen Augen. Bleib, bis das Dunkel gewöhnlich wird."
+            },
+            {
+              "name": "Stirn glätten",
+              "cue": "Fingerspitzen zwischen die Brauen, nach außen zu den Schläfen streichen. Sechs langsame Züge."
+            },
+            {
+              "name": "Unter den Augen",
+              "cue": "Ringfinger tippen leicht unter den Augen, von der Nase nach außen. Kaum Druck."
+            },
+            {
+              "name": "Schläfen",
+              "cue": "Langsame Kreise an den Schläfen."
+            },
+            {
+              "name": "Wangen",
+              "cue": "Knöchel auf die Wangen, Kreise nach außen zu den Ohren."
+            },
+            {
+              "name": "Am Kieferrand entlang",
+              "cue": "Daumen unter den Kiefer, vom Kinn zum Ohr gleiten. Leichter Druck."
+            },
+            {
+              "name": "Ohren",
+              "cue": "Reib den Rand jedes Ohrs zwischen Daumen und Finger, von oben bis zum Ohrläppchen."
+            },
+            {
+              "name": "Kopfhaut",
+              "cue": "Fingerspitzen ins Haar. Kleine Kreise über die ganze Kopfhaut, von vorn nach hinten."
+            },
+            {
+              "name": "Halsvorderseite",
+              "cue": "Flache Hände, vom Kiefer zum Schlüsselbein abwärts streichen. Nie fest drücken."
+            },
+            {
+              "name": "Nachruhen",
+              "cue": "Hände runter. Augen zu oder auf. Nichts mehr zu tun."
+            }
+          ]
+        },
+        "mas_brush_5": {
+          "title": "Bürsten und wärmen",
+          "description": "Fünf Minuten lange Striche an Armen und Beinen. Eine trockene Bürste, wenn du eine hast, sonst die eigene Handfläche.",
+          "steps": [
+            {
+              "name": "Stehen oder sitzen",
+              "cue": "Haut frei, wo du hinkommst. Eine trockene Bürste, ein Waschlappen oder die eigene Handfläche — alles recht."
+            },
+            {
+              "name": "Ein Bein hinauf",
+              "cue": "Lange Striche vom Knöchel über Schienbein und Oberschenkel. Nie hin und her, immer in eine Richtung."
+            },
+            {
+              "name": "Das andere Bein",
+              "cue": "Dasselbe am anderen Bein. Hinter dem Knie leichter."
+            },
+            {
+              "name": "Ein Arm hinauf",
+              "cue": "Vom Handrücken über den Unterarm bis zur Schulter. Lange, unaufgeregte Striche."
+            },
+            {
+              "name": "Der andere Arm",
+              "cue": "Dasselbe am anderen Arm."
+            },
+            {
+              "name": "Hände warm reiben",
+              "cue": "Leg die Bürste weg. Reib die Handflächen aneinander, bis sie warm sind."
+            },
+            {
+              "name": "Stillstehen",
+              "cue": "Hände neben dem Körper. Nimm die Haut wahr."
+            }
+          ]
+        },
+        "mas_feet_8": {
+          "title": "Füße und Knöchel",
+          "description": "Acht Minuten für die Füße, im Sitzen. Ein Tennisball, wenn einer da ist, sonst die Daumen.",
+          "steps": [
+            {
+              "name": "Schuhe aus",
+              "cue": "Setz dich so, dass du an deine Füße kommst. Erst beide Sohlen auf den Boden."
+            },
+            {
+              "name": "Sohle abrollen",
+              "cue": "Ein Fuß auf einem Ball, wenn du einen hast, und von der Ferse zu den Zehen rollen. Sonst mit den Daumen die Sohle entlang."
+            },
+            {
+              "name": "Die wunde Stelle",
+              "cue": "Wo es mault, bleib dort und atme aus. Geh über nichts Stechendes hinweg."
+            },
+            {
+              "name": "Zehen",
+              "cue": "Spreiz die Zehen mit den Fingern, eine Lücke nach der anderen. Halten, loslassen."
+            },
+            {
+              "name": "Fußgewölbe",
+              "cue": "Knöchel ins Fußgewölbe, langsame Kreise."
+            },
+            {
+              "name": "Knöchelkreise",
+              "cue": "Knöchel über das andere Knie. Vier Kreise in jede Richtung."
+            },
+            {
+              "name": "Der andere Fuß",
+              "cue": "Das Ganze noch einmal am anderen Fuß."
+            },
+            {
+              "name": "Aufstehen",
+              "cue": "Steh langsam auf. Geh zwei Schritte. Merk den Unterschied."
+            },
+            {
+              "name": "Wieder hinsetzen",
+              "cue": "Das waren acht Minuten am anderen Ende von dir."
+            }
+          ]
+        },
+        "mas_upper_10": {
+          "title": "Nacken, Schultern, Arme",
+          "description": "Zehn Minuten mit den eigenen Händen an allem, was ein Tastatur-Tag festhält.",
+          "steps": [
+            {
+              "name": "Aufrecht sitzen",
+              "cue": "Füße auf dem Boden, Schultern runter. Einmal ausatmen, bevor du anfängst."
+            },
+            {
+              "name": "Hinterkopf unten",
+              "cue": "Finger an die Kante, wo Schädel und Nacken sich treffen. Kleine Kreise daran entlang."
+            },
+            {
+              "name": "Nackenseite",
+              "cue": "Drück den Muskel zwischen Nacken und Schulter. Einen Atemzug halten, loslassen."
+            },
+            {
+              "name": "Die andere Seite",
+              "cue": "Dasselbe auf der anderen Seite. Atme dort hinein aus."
+            },
+            {
+              "name": "Schulteroberseite",
+              "cue": "Die andere Hand auf die Schulteroberseite. Drücken, dann die Schulter einmal kreisen."
+            },
+            {
+              "name": "Den Arm hinunter",
+              "cue": "Streich den anderen Unterarm ab, vom Ellenbogen zum Handgelenk. Fest und langsam."
+            },
+            {
+              "name": "Der andere Arm",
+              "cue": "Dasselbe am anderen Arm."
+            },
+            {
+              "name": "Handflächen und Finger",
+              "cue": "Daumen in die andere Handfläche, dann jeden Finger ausstreichen. Beide Hände."
+            },
+            {
+              "name": "Stillsitzen",
+              "cue": "Hände in den Schoß. Ein langer Atemzug hinaus."
+            }
+          ]
+        },
+        "mas_full_20": {
+          "title": "Vom Kopf bis zu den Füßen",
+          "description": "Zwanzig Minuten mit den eigenen Händen, von der Kopfhaut bis ganz nach unten.",
+          "steps": [
+            {
+              "name": "Sitzen",
+              "cue": "Setz dich so, dass du an deine Füße kommst. Schuhe aus."
+            },
+            {
+              "name": "Kopfhaut",
+              "cue": "Fingerspitzen ins Haar. Kleine Kreise über die ganze Kopfhaut."
+            },
+            {
+              "name": "Schläfen und Kiefer",
+              "cue": "Kreise an den Schläfen, dann am Gelenk unter den Ohren."
+            },
+            {
+              "name": "Hinterkopf unten",
+              "cue": "Finger an die Kante, wo Schädel und Nacken sich treffen. Kreise daran entlang."
+            },
+            {
+              "name": "Nacken und Schulter",
+              "cue": "Drück zwischen Nacken und Schulter. Halten, loslassen. Dann die andere Seite."
+            },
+            {
+              "name": "Die Arme hinunter",
+              "cue": "Streich einen Unterarm ab, vom Ellenbogen zum Handgelenk. Dann den anderen."
+            },
+            {
+              "name": "Hände",
+              "cue": "Daumen in die andere Handfläche, dann jeden Finger ausstreichen. Beide Hände."
+            },
+            {
+              "name": "Oberschenkel",
+              "cue": "Knöchel in die Vorderseite des Oberschenkels, langsam und schwer. Beide Beine."
+            },
+            {
+              "name": "Waden",
+              "cue": "Ein Knöchel über das andere Knie. Drück die Wade von Knöchel zu Knie."
+            },
+            {
+              "name": "Fußsohlen",
+              "cue": "Daumen die Sohle entlang, Ferse zu Zehen. Such die wunde Stelle und warte dort."
+            },
+            {
+              "name": "Zehen und Gewölbe",
+              "cue": "Spreiz die Zehen, dann Knöchel ins Fußgewölbe."
+            },
+            {
+              "name": "Der andere Fuß",
+              "cue": "Dasselbe am anderen Fuß."
+            },
+            {
+              "name": "Aufstehen",
+              "cue": "Steh langsam auf. Merk, was anders ist."
+            }
+          ]
+        },
+        "br_evening_8": {
+          "title": "Acht langsame Minuten",
+          "description": "Acht Minuten, in denen die Ausatmung länger wird, im Sitzen oder Liegen.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Sitz oder leg dich hin. Hände, wo sie bequem liegen."
+            },
+            {
+              "name": "Den Rhythmus finden",
+              "cue": "Durch die Nase ein, durch den Mund aus. Ändere noch nichts."
+            },
+            {
+              "name": "Ausatmung verlängern",
+              "cue": "Vier ein, sechs aus. Wenn das Zählen anstrengend wird, lass das Zählen weg."
+            },
+            {
+              "name": "Noch länger",
+              "cue": "Vier ein, acht aus. Nur so lange, wie das bequem bleibt."
+            },
+            {
+              "name": "Loslassen",
+              "cue": "Hör auf zu zählen. Lass den Atem machen, was er will."
+            },
+            {
+              "name": "Kurz sitzen bleiben",
+              "cue": "Noch nichts mit dem Rest des Abends anfangen."
+            }
+          ]
+        },
+        "med_scan_10": {
+          "title": "Zehn Minuten, Kopf bis Fuß",
+          "description": "Ein langsamer Durchgang durch den Körper: wahrnehmen, was da ist, und es lassen.",
+          "steps": [
+            {
+              "name": "Liegen oder sitzen",
+              "cue": "Wie du gerade bist. Augen zu, wenn das angenehm ist."
+            },
+            {
+              "name": "Der Atem",
+              "cue": "Drei langsame Atemzüge. Nichts zu richten."
+            },
+            {
+              "name": "Kopf und Gesicht",
+              "cue": "Stirn, Augen, Kiefer. Nimm einfach wahr, was da ist."
+            },
+            {
+              "name": "Schultern und Arme",
+              "cue": "Bis in die Hände. Warm, kühl, schwer, nichts — alles davon ist recht."
+            },
+            {
+              "name": "Rücken und Mitte",
+              "cue": "Da, wo der Körper den Boden oder den Stuhl berührt."
+            },
+            {
+              "name": "Hüften und Beine",
+              "cue": "Bis in die Füße. Lass dir Zeit."
+            },
+            {
+              "name": "Das Ganze",
+              "cue": "Der ganze Körper auf einmal. Ein Atemzug um alles herum."
+            },
+            {
+              "name": "Zurückkommen",
+              "cue": "Augen auf. Beweg eine Hand. Du bist hier."
+            }
+          ]
+        },
+        "med_rest_15": {
+          "title": "Eine lange Ruhe",
+          "description": "Fünfzehn Minuten liegen, ohne dass etwas von dir verlangt wird. Einschlafen ist erlaubt.",
+          "steps": [
+            {
+              "name": "Hinlegen",
+              "cue": "Auf den Rücken, wenn es geht, irgendwo flach. Beine lang, Arme weg vom Körper."
+            },
+            {
+              "name": "Ankommen",
+              "cue": "Fünfzehn Minuten lang nichts zu tun. Lass das gelten."
+            },
+            {
+              "name": "Der Atem",
+              "cue": "Ein, und länger aus. Dann hör auf zu steuern."
+            },
+            {
+              "name": "Die rechte Seite",
+              "cue": "Rechte Hand, rechter Arm, rechtes Bein. Wahrnehmen, dann lassen."
+            },
+            {
+              "name": "Die linke Seite",
+              "cue": "Dasselbe links."
+            },
+            {
+              "name": "Die Mitte",
+              "cue": "Rücken, Brust, Bauch. Heben und senken."
+            },
+            {
+              "name": "Weit",
+              "cue": "Der ganze Körper auf einmal. Wenn du wegdriftest, ist das erlaubt."
+            },
+            {
+              "name": "Zurückkommen",
+              "cue": "Beweg die Finger. Dreh dich auf eine Seite. Komm hoch, wenn du so weit bist."
+            }
+          ]
+        },
+        "walk_5": {
+          "title": "Fünf Minuten draußen",
+          "description": "Zur Tür raus, um den Block, wieder rein. Die erste Minute ist die ganze Entscheidung.",
+          "steps": [
+            {
+              "name": "Zur Tür hinaus",
+              "cue": "Schuhe an, Tür auf. Mehr ist nicht zu entscheiden."
+            },
+            {
+              "name": "Gemütliches Tempo",
+              "cue": "Geh in dem Tempo, in dem du zum Bus gehen würdest. Nichts Zügiges daran."
+            },
+            {
+              "name": "Aufschauen",
+              "cue": "Heb den Blick vom Boden. Such das Weiteste, was du sehen kannst."
+            },
+            {
+              "name": "Umdrehen",
+              "cue": "Dreh um oder geh weiter. Beides zählt."
+            }
+          ]
+        },
+        "walk_12": {
+          "title": "Zwölf Minuten draußen",
+          "description": "Zwölf Minuten mit einer Sache, auf die du achtest, damit der Kopf mitkommt.",
+          "steps": [
+            {
+              "name": "Gemütlich starten",
+              "cue": "Die ersten zwei Minuten in bequemem Tempo. Lass den Körper von allein warm werden."
+            },
+            {
+              "name": "Etwas zulegen",
+              "cue": "Ein bisschen zügiger. Reden geht noch, singen würdest du nicht."
+            },
+            {
+              "name": "Eine Sache zählen",
+              "cue": "Zähl Türen oder Bäume oder rote Dinge. Wenn du dich verzählst, fang neu an."
+            },
+            {
+              "name": "Auslaufen",
+              "cue": "Zurück ins gemütliche Tempo für das letzte Stück. Schultern breit."
+            }
+          ]
+        },
+        "rec_yoga_5": {
+          "title": "Fünf Minuten Yoga",
+          "description": "Fünf Minuten Yoga auf der Matte: atmen, den Rücken runden, vorn hängen.",
+          "steps": [
+            {
+              "name": "Sitzen und atmen",
+              "cue": "Im Schneidersitz auf der Matte. Drei langsame Atemzüge, bevor sich etwas bewegt."
+            },
+            {
+              "name": "Katze und Kuh",
+              "cue": "Hände unter den Schultern, Knie unter den Hüften. Einatmen, die Brust heben. Ausatmen, den Rücken runden. Unterarme sind in Ordnung, wenn sich die Handgelenke melden."
+            },
+            {
+              "name": "Kindhaltung",
+              "cue": "Hüften zurück Richtung Fersen, die Arme lang. Atme in den Rücken."
+            },
+            {
+              "name": "Herabschauender Hund",
+              "cue": "Hände und Füße auf der Matte, die Hüften als höchster Punkt. Die Knie so gebeugt, wie du magst. Sink in eine Ferse, dann in die andere."
+            },
+            {
+              "name": "Vorbeuge",
+              "cue": "Lauf mit den Händen zu den Füßen und häng. Knie weich, der Kopf schwer."
+            },
+            {
+              "name": "Wieder sitzen",
+              "cue": "Setz dich wieder hin. Ein Atemzug, und nichts danach."
+            }
+          ]
+        },
+        "rec_yoga_7": {
+          "title": "Yoga am Morgen",
+          "description": "Sieben Minuten Yoga zum Anfangen: Hüften, Rücken und zwei lange Ausfallschritte.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Setz dich auf die Matte, Beine gekreuzt oder auf den Fersen. Lass den Atem seine eigene Länge finden."
+            },
+            {
+              "name": "Seitbeuge",
+              "cue": "Eine Hand neben dir auf der Matte, der andere Arm über den Kopf. Lehn dich von ihm weg. Dann die andere Seite."
+            },
+            {
+              "name": "Katze und Kuh",
+              "cue": "Im Vierfüßler. Einatmen, die Brust öffnet sich. Ausatmen, der Rücken rundet. Sechs langsame Runden."
+            },
+            {
+              "name": "Herabschauender Hund",
+              "cue": "Drück die Hüften nach oben und hinten. Die Fersen bleiben, wo sie landen. Drei lange Atemzüge."
+            },
+            {
+              "name": "Tiefer Ausfallschritt, rechts",
+              "cue": "Ein Fuß nach vorn zwischen die Hände, das hintere Knie ab. Sink, bis die Vorderseite der hinteren Hüfte lang wird."
+            },
+            {
+              "name": "Tiefer Ausfallschritt, links",
+              "cue": "Dasselbe auf der anderen Seite."
+            },
+            {
+              "name": "Kindhaltung",
+              "cue": "Hüften zurück Richtung Fersen, die Stirn ab. Bleib, bis der Atem langsam ist."
+            }
+          ]
+        },
+        "st_yoga_seated_8": {
+          "title": "Yoga auf dem Stuhl",
+          "description": "Acht Minuten Yoga, ohne auf den Boden zu gehen. Ein Stuhl ist die ganze Ausrüstung.",
+          "steps": [
+            {
+              "name": "Nach vorn setzen",
+              "cue": "Beide Füße flach, setz dich nach vorn auf den Stuhl. Hände auf den Oberschenkeln."
+            },
+            {
+              "name": "Weit atmen",
+              "cue": "Durch die Nase ein, durch den Mund aus. Lass die Rippen zur Seite weit werden."
+            },
+            {
+              "name": "Nacken, Seite zu Seite",
+              "cue": "Ohr Richtung Schulter, die andere Schulter bleibt tief. Warte drei Atemzüge, dann wechsle."
+            },
+            {
+              "name": "Schultern kreisen",
+              "cue": "Hoch, zurück und runter. Acht Kreise, dann anders herum."
+            },
+            {
+              "name": "Seitbeuge",
+              "cue": "Eine Hand hält die Sitzfläche, der andere Arm reicht über den Kopf. Lehn dich weg. Dann die andere Seite."
+            },
+            {
+              "name": "Drehung",
+              "cue": "Hände an der Lehne, dreh aus der Mitte statt aus dem Kopf. Beide Seiten."
+            },
+            {
+              "name": "Vorderseite öffnen",
+              "cue": "Hände hinter dir auf der Sitzfläche, heb die Brust. Schau nach vorn, nicht nach oben."
+            },
+            {
+              "name": "Nach vorn beugen",
+              "cue": "Lass den Oberkörper über die Oberschenkel hängen, die Arme locker. Komm langsam hoch."
+            }
+          ]
+        },
+        "rec_yoga_standing_9": {
+          "title": "Yoga im Stehen",
+          "description": "Neun Minuten Yoga auf den Füßen. Baum und Krieger, nichts zum Hinlegen.",
+          "steps": [
+            {
+              "name": "Stehen",
+              "cue": "Füße hüftbreit und parallel, das Gewicht gleich auf beiden. Lass die Schultern fallen."
+            },
+            {
+              "name": "Nach oben strecken",
+              "cue": "Einatmen, beide Arme neben den Ohren hoch. Ausatmen, lass sie sinken. Sechs Mal."
+            },
+            {
+              "name": "Seitlich strecken",
+              "cue": "Ein Arm über den Kopf, lehn dich von ihm weg. Atme in die offene Seite. Dann die andere."
+            },
+            {
+              "name": "Vorbeuge",
+              "cue": "Knie weich, beug dich über die Beine, lass den Kopf hängen. Roll Wirbel für Wirbel hoch."
+            },
+            {
+              "name": "Krieger, rechts",
+              "cue": "Ein Fuß einen langen Schritt zurück und nach außen gedreht, das vordere Knie über dem Knöchel, beide Arme lang zur Seite."
+            },
+            {
+              "name": "Krieger, links",
+              "cue": "Dasselbe auf der anderen Seite."
+            },
+            {
+              "name": "Baum",
+              "cue": "Das Gewicht auf einem Fuß, die andere Sohle an Knöchel oder Wade, dieses Knie nach außen gedreht. Halt dich an der Wand, wenn du magst. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Wieder stehen",
+              "cue": "Beide Füße auf dem Boden. Merk, was anders ist als in der ersten Minute."
+            }
+          ]
+        },
+        "rec_yoga_back_10": {
+          "title": "Yoga für den Rücken",
+          "description": "Zehn Minuten kleine Yoga-Formen für einen Rücken, der den ganzen Tag gesessen hat.",
+          "steps": [
+            {
+              "name": "Hinlegen",
+              "cue": "Auf den Rücken, Knie gebeugt, Füße flach. Lass den Boden das Gewicht nehmen."
+            },
+            {
+              "name": "Beckenkippen",
+              "cue": "Ausatmen, den unteren Rücken Richtung Matte drücken. Einatmen, zurück in die Mitte. Klein."
+            },
+            {
+              "name": "Knie umarmen",
+              "cue": "Zieh ein Knie zur Brust, halt einen Atemzug, wechsle. Der andere Fuß bleibt flach."
+            },
+            {
+              "name": "Knie pendeln",
+              "cue": "Füße zusammen, lass beide Knie zu einer Seite sinken, dann zur anderen. Die Schultern bleiben schwer."
+            },
+            {
+              "name": "Katze und Kuh",
+              "cue": "Im Vierfüßler. Einatmen, die Brust öffnet sich. Ausatmen, der Rücken rundet. Unterarme sind in Ordnung."
+            },
+            {
+              "name": "Kindhaltung",
+              "cue": "Hüften Richtung Fersen, die Arme lang oder neben dir. Drei weite Atemzüge in den Rücken."
+            },
+            {
+              "name": "Nadel einfädeln",
+              "cue": "Aus dem Vierfüßler einen Arm unter dem anderen durchführen, bis die Schulter auf der Matte liegt. Beide Seiten."
+            },
+            {
+              "name": "Brust heben",
+              "cue": "In Bauchlage, Unterarme ab, die Ellbogen unter den Schultern. Heb die Brust nur so weit, wie es leicht bleibt."
+            },
+            {
+              "name": "Drehung",
+              "cue": "Auf dem Rücken, die Knie zu einer Seite, die Arme weit. Dreh den Kopf zur anderen. Beide Seiten."
+            },
+            {
+              "name": "Flach liegen",
+              "cue": "Beine lang, die Arme weg vom Körper. Bleib einen Moment, bevor du aufstehst."
+            }
+          ]
+        },
+        "rec_yoga_hips_14": {
+          "title": "Yoga für die Hüften",
+          "description": "Vierzehn Minuten Yoga rund um die Hüften, von Ausfallschritten bis ins Liegen.",
+          "steps": [
+            {
+              "name": "Sitzen",
+              "cue": "Im Schneidersitz auf der Matte. Drei Atemzüge, die Hände, wo sie bequem liegen."
+            },
+            {
+              "name": "Katze und Kuh",
+              "cue": "Im Vierfüßler. Einatmen, die Brust öffnet sich. Ausatmen, der Rücken rundet."
+            },
+            {
+              "name": "Herabschauender Hund",
+              "cue": "Hüften nach oben und hinten, die Knie so gebeugt, wie sie es brauchen. Sink in eine Ferse, dann in die andere."
+            },
+            {
+              "name": "Tiefer Ausfallschritt, rechts",
+              "cue": "Ein Fuß nach vorn zwischen die Hände, das hintere Knie auf der Matte. Hände auf dem vorderen Oberschenkel, wenn das leichter ist."
+            },
+            {
+              "name": "Tiefer Ausfallschritt, links",
+              "cue": "Dasselbe auf der anderen Seite."
+            },
+            {
+              "name": "Kindhaltung",
+              "cue": "Hüften zurück zu den Fersen, die Knie so weit, wie sie mögen. Die Stirn ab."
+            },
+            {
+              "name": "Schmetterling",
+              "cue": "Fußsohlen zusammen, die Knie nach außen, die Hände um die Füße. Sitz lang, dann lass den Kopf hängen."
+            },
+            {
+              "name": "Vier",
+              "cue": "Auf dem Rücken, ein Knöchel über dem anderen Knie, die Hände hinter dem Oberschenkel. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Knie weit",
+              "cue": "Auf dem Rücken, halt beide Füße von außen, die Knie weit neben den Rippen. Schaukel ein wenig, wenn du magst."
+            },
+            {
+              "name": "Vorbeuge im Sitzen",
+              "cue": "Beine lang oder gebeugt, die Hände, wohin sie reichen. Der Rücken darf rund werden."
+            },
+            {
+              "name": "Drehung",
+              "cue": "Auf dem Rücken, die Knie zu einer Seite, die Arme weit. Beide Seiten, je drei Atemzüge."
+            },
+            {
+              "name": "Flach liegen",
+              "cue": "Beine lang, die Handflächen nach oben. Hier ist nichts mehr zu tun."
+            }
+          ]
+        },
+        "rec_yoga_flow_18": {
+          "title": "Langer Yoga-Flow",
+          "description": "Achtzehn Minuten Yoga vom Sitzen ins Stehen und zurück auf die Matte.",
+          "steps": [
+            {
+              "name": "Sitzen und atmen",
+              "cue": "Im Schneidersitz auf der Matte. Drei Atemzüge, die niemand für dich zählt."
+            },
+            {
+              "name": "Seitbeuge",
+              "cue": "Eine Hand auf der Matte, der andere Arm über den Kopf. Lehn dich weg. Beide Seiten."
+            },
+            {
+              "name": "Drehung im Sitzen",
+              "cue": "Eine Hand hinter dir, die andere am gegenüberliegenden Knie. Dreh aus der Mitte. Beide Seiten."
+            },
+            {
+              "name": "Katze und Kuh",
+              "cue": "Im Vierfüßler, sechs langsame Runden. Unterarme, wenn sich die Handgelenke melden."
+            },
+            {
+              "name": "Nadel einfädeln",
+              "cue": "Führ einen Arm unter dem anderen durch, die Schulter auf der Matte. Beide Seiten."
+            },
+            {
+              "name": "Herabschauender Hund",
+              "cue": "Die Hüften hoch, der Rücken lang, der Kopf zwischen den Armen. Drei lange Atemzüge."
+            },
+            {
+              "name": "Vorbeuge",
+              "cue": "Lauf mit den Füßen zu den Händen und häng. Knie weich."
+            },
+            {
+              "name": "Nach oben strecken",
+              "cue": "Roll hoch und nimm beide Arme über den Kopf. Einatmen hoch, ausatmen runter. Sechs Mal."
+            },
+            {
+              "name": "Krieger, rechts",
+              "cue": "Ein Fuß einen langen Schritt zurück und nach außen gedreht, das vordere Knie über dem Knöchel, die Arme lang zur Seite."
+            },
+            {
+              "name": "Krieger, links",
+              "cue": "Dasselbe auf der anderen Seite."
+            },
+            {
+              "name": "Tiefer Ausfallschritt",
+              "cue": "Runter auf die Matte, ein Fuß nach vorn, das hintere Knie ab. Beide Seiten, je drei Atemzüge."
+            },
+            {
+              "name": "Kindhaltung",
+              "cue": "Hüften zu den Fersen, die Stirn ab, die Arme lang oder neben dir."
+            },
+            {
+              "name": "Schmetterling",
+              "cue": "Fußsohlen zusammen, die Knie nach außen. Sitz zuerst lang, dann lass den Kopf hängen."
+            },
+            {
+              "name": "Drehung",
+              "cue": "Auf dem Rücken, die Knie zu einer Seite, die Arme weit. Beide Seiten."
+            },
+            {
+              "name": "Flach liegen",
+              "cue": "Beine lang, die Handflächen nach oben, die Augen zu, wenn das angenehm ist. Bleib, bis die Uhr etwas sagt."
+            }
+          ]
+        },
+        "rec_yoga_evening_25": {
+          "title": "Abend-Yoga",
+          "description": "Fünfundzwanzig langsame Yoga-Minuten für das Ende des Tages. Das Bett ist erlaubt.",
+          "steps": [
+            {
+              "name": "Erst hinlegen",
+              "cue": "Auf den Rücken, wo du gerade bist. Beine lang, die Arme weg vom Körper."
+            },
+            {
+              "name": "Aufsetzen und atmen",
+              "cue": "Im Schneidersitz, die Hände im Schoß. Durch die Nase ein, länger durch den Mund aus."
+            },
+            {
+              "name": "Nacken, Seite zu Seite",
+              "cue": "Ohr Richtung Schulter, die andere Schulter bleibt tief. Drei Atemzüge, dann wechsle."
+            },
+            {
+              "name": "Seitbeuge",
+              "cue": "Eine Hand auf der Matte, der andere Arm über den Kopf. Beide Seiten, ohne Eile."
+            },
+            {
+              "name": "Katze und Kuh",
+              "cue": "Im Vierfüßler, so langsam wie der Atem. Unterarme sind in Ordnung."
+            },
+            {
+              "name": "Kindhaltung",
+              "cue": "Hüften zu den Fersen, die Knie weit, die Stirn ab. Fünf Atemzüge in den Rücken."
+            },
+            {
+              "name": "Nadel einfädeln",
+              "cue": "Ein Arm unter dem anderen durch, bis die Schulter aufliegt. Beide Seiten."
+            },
+            {
+              "name": "Vorbeuge im Sitzen",
+              "cue": "Beine lang oder gebeugt, die Hände, wohin sie reichen. Der Rücken darf rund werden."
+            },
+            {
+              "name": "Schmetterling",
+              "cue": "Fußsohlen zusammen, die Knie nach außen, die Hände um die Füße. Lass den Kopf am Ende hängen."
+            },
+            {
+              "name": "Vier",
+              "cue": "Auf dem Rücken, ein Knöchel über dem anderen Knie, die Hände hinter dem Oberschenkel. Nach der Hälfte wechseln."
+            },
+            {
+              "name": "Rückseite der Beine",
+              "cue": "Ein Bein hoch, die Hände hinter dem Oberschenkel, das Knie so gebeugt, wie es mag. Beide Seiten."
+            },
+            {
+              "name": "Knie pendeln",
+              "cue": "Füße zusammen, beide Knie zu einer Seite, dann zur anderen. Lass es kleiner werden."
+            },
+            {
+              "name": "Drehung",
+              "cue": "Die Knie zu einer Seite, die Arme weit, der Kopf zur anderen. Beide Seiten."
+            },
+            {
+              "name": "Knie weit",
+              "cue": "Halt beide Füße von außen, die Knie neben den Rippen. Oder nur die Knie, wenn die Füße weit sind."
+            },
+            {
+              "name": "Beine an der Wand",
+              "cue": "Die Beine an eine Wand oder das Kopfteil, die Hüften eine Handbreit davon weg. Die Arme, wohin sie fallen."
+            },
+            {
+              "name": "Flach liegen",
+              "cue": "Die Beine ab, die Handflächen nach oben. Hier einzuschlafen ist erlaubt."
+            }
+          ]
+        },
+        "br_anchor_4": {
+          "title": "Ein Atemanker",
+          "description": "Vier Minuten atmen, im Stehen, da wo du sowieso schon bist.",
+          "steps": [
+            {
+              "name": "Wo du gerade bist",
+              "cue": "Im Sitzen, im Stehen, im Türrahmen. Es muss sich vorher nichts ändern."
+            },
+            {
+              "name": "Vier ein",
+              "cue": "Durch die Nase ein auf vier, durch den Mund aus auf sechs. Vier Runden."
+            },
+            {
+              "name": "Länger aus",
+              "cue": "Vier ein, acht aus. Wenn das Zählen anstrengend wird, lass das Zählen weg."
+            },
+            {
+              "name": "Zurück",
+              "cue": "Lass den Atem seinen eigenen Weg gehen. Noch einer, dann weiter mit dem, was dran war."
+            }
+          ]
+        },
+        "med_body_6": {
+          "title": "Kurze Körperreise",
+          "description": "Sechs Minuten durch den Körper, von den Füßen nach oben. Im Liegen oder Sitzen.",
+          "steps": [
+            {
+              "name": "Liegen oder sitzen",
+              "cue": "Wie du gerade bist. Augen zu, wenn das angenehm ist."
+            },
+            {
+              "name": "Der Atem",
+              "cue": "Drei langsame Atemzüge. Nichts zu richten."
+            },
+            {
+              "name": "Füße und Beine",
+              "cue": "Fang an den Sohlen an und geh hoch bis zu den Hüften. Warm, kühl, schwer, nichts - alles davon ist recht."
+            },
+            {
+              "name": "Mitte und Rücken",
+              "cue": "Da, wo der Körper den Boden oder den Stuhl berührt. Nimm einfach wahr."
+            },
+            {
+              "name": "Schultern, Arme, Hände",
+              "cue": "Bis in die Fingerspitzen. Lass die Schultern, wo sie sind."
+            },
+            {
+              "name": "Das Ganze",
+              "cue": "Der ganze Körper auf einmal, ein Atemzug um alles herum. Dann die Augen auf."
+            }
+          ]
+        },
+        "med_morning_7": {
+          "title": "Vor dem Tag",
+          "description": "Sieben Minuten sitzen, bevor der Tag anfängt, etwas von dir zu wollen.",
+          "steps": [
+            {
+              "name": "Sitzen vor dem Tag",
+              "cue": "Auf der Bettkante oder einem Stuhl. Beide Füße auf dem Boden."
+            },
+            {
+              "name": "Drei Atemzüge",
+              "cue": "Ein, und länger aus. Drei Mal, dann hör auf zu steuern."
+            },
+            {
+              "name": "Wo du bist",
+              "cue": "Der Raum, das Licht, die Geräusche draußen. Benenn drei davon für dich."
+            },
+            {
+              "name": "Wo der Körper ist",
+              "cue": "Füße auf dem Boden, der Rücken an der Lehne, die Hände im Schoß. Nur da, wo sie sich berühren."
+            },
+            {
+              "name": "Eine Sache heute",
+              "cue": "Denk an eine Sache, die der Tag bringt. Lass sie da sein, ohne sie zu planen."
+            },
+            {
+              "name": "Aufstehen",
+              "cue": "Augen auf. Beweg eine Hand. Jetzt der Tag."
+            }
+          ]
+        },
+        "med_sit_12": {
+          "title": "Ruhe im Sitzen",
+          "description": "Zwölf Minuten sitzen, mit dem Atem, den Geräuschen und was sonst auftaucht.",
+          "steps": [
+            {
+              "name": "Sitzen",
+              "cue": "Ein Stuhl, ein Kissen, das Sofa. Aufrecht genug, dass der Atem Platz hat."
+            },
+            {
+              "name": "Der Atem",
+              "cue": "Folg ihm ein und aus, ohne ihn zu ändern. Das ist die ganze Anweisung."
+            },
+            {
+              "name": "Der Körper",
+              "cue": "Wo du den Stuhl berührst, wo die Hände liegen, wo die Füße sind."
+            },
+            {
+              "name": "Die Geräusche",
+              "cue": "Lass sie kommen und gehen, ohne einem davon irgendwohin zu folgen."
+            },
+            {
+              "name": "Die Gedanken",
+              "cue": "Sie tauchen auf. Das ist ihre Arbeit. Du musst sie nicht zu Ende denken."
+            },
+            {
+              "name": "Zurück zum Atem",
+              "cue": "Wann immer du merkst, dass du weg warst, komm zurück. Das Merken ist die Übung."
+            },
+            {
+              "name": "Weit",
+              "cue": "Hör auf, an etwas Bestimmtem festzuhalten. Sitz einfach."
+            },
+            {
+              "name": "Zurückkommen",
+              "cue": "Beweg die Finger. Augen auf. Nimm dir einen Moment, bevor du aufstehst."
+            }
+          ]
+        },
+        "med_sleep_20": {
+          "title": "Beim Einschlafen",
+          "description": "Zwanzig Minuten im Bett, einmal durch den Körper. Einschlafen ist der Sinn.",
+          "steps": [
+            {
+              "name": "Im Bett",
+              "cue": "Leg dich hin, wie du schläfst. Die Decke, wo du sie willst. Nichts einzurichten."
+            },
+            {
+              "name": "Nichts zu tun",
+              "cue": "Für die nächsten zwanzig Minuten gibt es nichts richtig zu machen. Lass das gelten."
+            },
+            {
+              "name": "Der Atem",
+              "cue": "Ein, und länger aus. Ein paar Mal, dann hör auf zu zählen und lass ihn laufen."
+            },
+            {
+              "name": "Die Füße",
+              "cue": "Zehen, Sohlen, Fersen, Knöchel. Nimm sie wahr, dann lass sie in Ruhe."
+            },
+            {
+              "name": "Beine und Hüften",
+              "cue": "Waden, Knie, Oberschenkel, Hüften. Schwer, wo sie schwer sind."
+            },
+            {
+              "name": "Rücken und Mitte",
+              "cue": "Da, wo die Matratze dich trägt. Lass sie ein bisschen mehr tragen."
+            },
+            {
+              "name": "Arme und Hände",
+              "cue": "Schultern, Oberarme, Unterarme, Finger. Bis nach außen."
+            },
+            {
+              "name": "Kopf und Gesicht",
+              "cue": "Kiefer, Zunge, Augen, Stirn. Lass das Gesicht aufhören zu arbeiten."
+            },
+            {
+              "name": "Loslassen",
+              "cue": "Der ganze Körper auf einmal. Wenn du vor dem Ende wegdriftest, war das der Plan."
+            }
+          ]
+        },
+        "face_morning_4": {
+          "title": "Gesicht wecken",
+          "description": "Vier Minuten mit warmen Händen im Gesicht, bevor irgendetwas anderes kommt.",
+          "steps": [
+            {
+              "name": "Hände warm reiben",
+              "cue": "Reib die Handflächen aneinander, bis sie warm sind. Mehr Vorbereitung gibt es nicht."
+            },
+            {
+              "name": "Über die Augen",
+              "cue": "Die warmen Handflächen über die geschlossenen Augen, ohne Druck. Drei Atemzüge im Dunkeln."
+            },
+            {
+              "name": "Entlang der Brauen",
+              "cue": "Daumen oder Zeigefinger an der Brauenlinie, von der Mitte nach außen. Drei Durchgänge."
+            },
+            {
+              "name": "Wangen",
+              "cue": "Die Knöchel an den Wangen unter den Wangenknochen, langsame kleine Kreise."
+            },
+            {
+              "name": "Kopfhaut",
+              "cue": "Die Finger gespreizt im Haar, beweg die Haut statt der Haare. Von vorn nach hinten."
+            }
+          ]
+        },
+        "mas_scalp_6": {
+          "title": "Kopf und Schläfen",
+          "description": "Sechs Minuten am Kopf: Kopfhaut, Schläfen, Brauen, Ohren, Hinterkopf.",
+          "steps": [
+            {
+              "name": "Hinsetzen",
+              "cue": "Irgendwo, wo du beide Füße abstellen kannst. Haare hoch, wenn das leichter ist."
+            },
+            {
+              "name": "Kopfhaut, vorn nach hinten",
+              "cue": "Die Finger gespreizt, die Fingerspitzen auf der Haut. Beweg die Haut in kleinen Kreisen und arbeite nach hinten."
+            },
+            {
+              "name": "Schläfen",
+              "cue": "Zwei Finger an jeder Schläfe, langsame Kreise. Lass dabei den Kiefer locker."
+            },
+            {
+              "name": "Entlang der Brauen",
+              "cue": "Vom inneren Winkel nach außen am Brauenknochen entlang. Drei Durchgänge."
+            },
+            {
+              "name": "Ohren",
+              "cue": "Daumen und Zeigefinger am oberen Ohrrand, arbeite am Rand nach unten. Beide Ohren."
+            },
+            {
+              "name": "Hinterkopf",
+              "cue": "Die Fingerspitzen da, wo der Kopf auf den Hals trifft. Kleine Kreise, der Kopf schwer in den Händen."
+            },
+            {
+              "name": "Hände ab",
+              "cue": "Lass die Hände in den Schoß fallen. Sitz einen Moment ohne sie."
+            }
+          ]
+        },
+        "mas_hands_7": {
+          "title": "Hände und Unterarme",
+          "description": "Sieben Minuten für die Hände, die den ganzen Tag getippt haben, bis zum Ellbogen.",
+          "steps": [
+            {
+              "name": "Hinsetzen",
+              "cue": "Die Hände im Schoß, die Unterarme abgelegt. Ringe ab, wenn sie im Weg sind."
+            },
+            {
+              "name": "Handflächen wärmen",
+              "cue": "Der Daumen in die andere Handfläche, langsame Kreise von der Mitte nach außen. Hände wechseln."
+            },
+            {
+              "name": "Jeder Finger",
+              "cue": "Halt jeden Finger an der Wurzel und zieh sanft bis zur Spitze. Zehn Finger, ohne Eile."
+            },
+            {
+              "name": "Zwischen den Knochen",
+              "cue": "Der Daumen in den Rillen zwischen den Knochen auf dem Handrücken, von den Fingerwurzeln zum Handgelenk."
+            },
+            {
+              "name": "Handgelenke",
+              "cue": "Langsame Kreise in beide Richtungen. Klein genug, dass nichts zieht."
+            },
+            {
+              "name": "Unterarm, rechts",
+              "cue": "Eine Hand um den anderen Unterarm, streich vom Ellbogen zum Handgelenk. Drei Durchgänge."
+            },
+            {
+              "name": "Unterarm, links",
+              "cue": "Dasselbe auf der anderen Seite."
+            },
+            {
+              "name": "Hände im Schoß",
+              "cue": "Die Handflächen nach oben, die Finger locker. Ein Atemzug, dann zurück an die Arbeit."
+            }
+          ]
+        },
+        "face_glow_9": {
+          "title": "Gesichtsyoga",
+          "description": "Neun Minuten Gesichtsyoga im Sitzen: Kiefer, Wangen, Schläfen, Brauen, Augen.",
+          "steps": [
+            {
+              "name": "Lang sitzen",
+              "cue": "Beide Füße ab, die Schultern tief. Gesichtsyoga ist kleine Arbeit, also sitz so, dass du sie spürst."
+            },
+            {
+              "name": "Kiefer öffnen",
+              "cue": "Lass den Mund langsam aufgehen, bis du das Gelenk spürst, dann genauso langsam zu. Sechs Mal."
+            },
+            {
+              "name": "Kiefer kreisen",
+              "cue": "Die Fingerspitzen am Gelenk unter dem Ohr, kleine Kreise. Die Zähne bleiben auseinander."
+            },
+            {
+              "name": "Wangen",
+              "cue": "Die Knöchel unter den Wangenknochen, langsame Kreise nach außen zu den Ohren."
+            },
+            {
+              "name": "Schläfen",
+              "cue": "Zwei Finger an jeder Schläfe. Kreise in eine Richtung, dann in die andere."
+            },
+            {
+              "name": "Brauen",
+              "cue": "Am Brauenknochen von der Mitte nach außen. Lass die Stirn aufhören zu halten."
+            },
+            {
+              "name": "In die Ferne schauen",
+              "cue": "Such das Weiteste, was du sehen kannst, und bleib dabei. Blinzle, wann du willst."
+            },
+            {
+              "name": "Hals, nach oben",
+              "cue": "Flache Hände am Hals, streich vom Schlüsselbein nach oben zum Kiefer. Beide Seiten."
+            },
+            {
+              "name": "Gesicht in Ruhe",
+              "cue": "Die Hände im Schoß. Lass Stirn, Augen und Kiefer gar nichts tun."
+            }
+          ]
+        },
+        "face_mirror_12": {
+          "title": "Vor dem Spiegel",
+          "description": "Zwölf Minuten vor dem Spiegel: warme Hände, Augen, Brauen, Kiefer, Hals, Kopfhaut.",
+          "steps": [
+            {
+              "name": "Vor dem Spiegel",
+              "cue": "Steh oder sitz so, dass du dich sehen kannst. Haare zurück, beide Schultern tief."
+            },
+            {
+              "name": "Hände warm reiben",
+              "cue": "Reib die Handflächen aneinander, bis sie warm sind, dann halt sie einen Atemzug still."
+            },
+            {
+              "name": "Über die Augen",
+              "cue": "Die warmen Handflächen über die geschlossenen Augen, ohne zu drücken. Drei Atemzüge."
+            },
+            {
+              "name": "Brauen",
+              "cue": "Am Brauenknochen vom inneren Winkel nach außen. Drei Durchgänge, dann das äußere Ende drücken."
+            },
+            {
+              "name": "Schläfen",
+              "cue": "Zwei Finger an jeder Schläfe, Kreise in beide Richtungen."
+            },
+            {
+              "name": "Wangen",
+              "cue": "Die Knöchel unter den Wangenknochen, nach außen zu den Ohren. Langsam genug, um jeden Durchgang zu spüren."
+            },
+            {
+              "name": "Kiefer öffnen",
+              "cue": "Öffne den Mund langsam, bis sich das Gelenk zeigt, schließ ihn genauso langsam. Sechs Mal."
+            },
+            {
+              "name": "Entlang der Kieferlinie",
+              "cue": "Die gebeugten Zeigefinger am Kiefer, vom Kinn nach außen zum Ohr. Beide Seiten zugleich."
+            },
+            {
+              "name": "Hals",
+              "cue": "Flache Hände vom Schlüsselbein nach oben zum Kiefer. Eine Seite, dann die andere."
+            },
+            {
+              "name": "Kopfhaut",
+              "cue": "Die Finger im Haar, beweg die Haut in Kreisen. Vorn, an den Seiten, hinten."
+            },
+            {
+              "name": "Dich ansehen",
+              "cue": "Die Hände ab. Schau das Gesicht an, das gerade zwölf Minuten bekommen hat. Mehr ist dieser Schritt nicht."
+            }
+          ]
+        },
+        "mas_legs_12": {
+          "title": "Beine und Füße",
+          "description": "Zwölf Minuten von den Oberschenkeln abwärts: kneten, drücken, dann beide Sohlen.",
+          "steps": [
+            {
+              "name": "Hinsetzen",
+              "cue": "Ein Stuhl oder der Boden, Schuhe aus. Beide Beine so, dass du sie erreichst."
+            },
+            {
+              "name": "Oberschenkel, rechts",
+              "cue": "Locker geschlossene Fäuste auf der Vorderseite des Oberschenkels, die Knöchel ab, arbeite vom Knie zur Hüfte."
+            },
+            {
+              "name": "Oberschenkel, links",
+              "cue": "Dasselbe auf der anderen Seite."
+            },
+            {
+              "name": "Wade, rechts",
+              "cue": "Ein Knöchel über dem anderen Knie. Beide Hände um die Wade, drücken und loslassen, vom Knöchel zum Knie."
+            },
+            {
+              "name": "Wade, links",
+              "cue": "Dasselbe auf der anderen Seite."
+            },
+            {
+              "name": "Ein Fuß hoch",
+              "cue": "Der Knöchel über dem anderen Knie, die Sohle zu dir gedreht. Halt ihn erst mit beiden Händen."
+            },
+            {
+              "name": "Die Sohle",
+              "cue": "Die Daumen entlang der Sohle, von der Ferse zu den Zehen. Wo es empfindlich ist, warte dort statt stärker zu drücken."
+            },
+            {
+              "name": "Die Zehen",
+              "cue": "Spreiz die Zehen mit den Fingern, halt, lass los. Dann jeden Zeh einzeln."
+            },
+            {
+              "name": "Das Fußgewölbe",
+              "cue": "Die Knöchel ins Fußgewölbe, langsame Kreise. Dann die Ferse mit der flachen Hand drücken."
+            },
+            {
+              "name": "Anderer Fuß",
+              "cue": "Das alles noch einmal am anderen Fuß. Dann beide Sohlen auf den Boden und vergleichen."
+            }
+          ]
+        },
+        "mas_evening_18": {
+          "title": "Abendritual",
+          "description": "Achtzehn Minuten vom Stehen ins Sitzen: Beine, Arme, Füße, Nacken, Kopf.",
+          "steps": [
+            {
+              "name": "Stehen",
+              "cue": "Barfuß, irgendwo, wo es warm ist. Eine trockene Bürste, wenn du eine hast, sonst die eigene flache Hand."
+            },
+            {
+              "name": "Bein, rechts",
+              "cue": "Lange Striche an der Außenseite von Unterschenkel und Oberschenkel nach oben. Leicht genug, dass es angenehm bleibt."
+            },
+            {
+              "name": "Bein, links",
+              "cue": "Dasselbe auf der anderen Seite."
+            },
+            {
+              "name": "Arm, rechts",
+              "cue": "Vom Handgelenk nach oben zur Schulter, die flache Hand oder die Bürste. Drei Durchgänge."
+            },
+            {
+              "name": "Arm, links",
+              "cue": "Dasselbe auf der anderen Seite."
+            },
+            {
+              "name": "Handgelenke",
+              "cue": "Langsame Kreise in beide Richtungen, dann die Hände ausschütteln."
+            },
+            {
+              "name": "Handflächen",
+              "cue": "Der Daumen in die andere Handfläche, Kreise von der Mitte nach außen. Beide Hände."
+            },
+            {
+              "name": "Hinsetzen",
+              "cue": "Ein Stuhl oder der Boden. Von hier an muss nichts mehr im Stehen sein."
+            },
+            {
+              "name": "Oberschenkel",
+              "cue": "Locker geschlossene Fäuste auf der Vorderseite beider Oberschenkel, die Knöchel ab, vom Knie zur Hüfte."
+            },
+            {
+              "name": "Waden",
+              "cue": "Ein Knöchel über dem anderen Knie, beide Hände um die Wade. Drücken und loslassen. Seiten wechseln."
+            },
+            {
+              "name": "Die Sohlen",
+              "cue": "Die Daumen von der Ferse zu den Zehen an einer Sohle, dann an der anderen. Warte, wo es empfindlich ist."
+            },
+            {
+              "name": "Nacken",
+              "cue": "Eine Hand um den Nacken, drücken und loslassen, auf und ab. Dann die andere Hand."
+            },
+            {
+              "name": "Kopfhaut",
+              "cue": "Die Finger gespreizt im Haar, beweg die Haut in Kreisen. Vorn, an den Seiten, am Hinterkopf."
+            },
+            {
+              "name": "Warme Hände im Gesicht",
+              "cue": "Reib die Handflächen warm, leg sie über die Augen und bleib, bis die Uhr aufhört."
+            }
+          ]
+        },
+        "pil_core_9": {
+          "title": "Neun für die Mitte",
+          "description": "Neun Minuten auf der Matte für die tiefe Mitte. Der Kopf darf jederzeit unten bleiben.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Leg dich auf den Rücken, Knie gebeugt, Füße flach. Zwei langsame Atemzüge, bevor sich etwas bewegt."
+            },
+            {
+              "name": "Beckenkippen",
+              "cue": "Ausatmen, den unteren Rücken Richtung Matte drücken. Einatmen, zurück in die Mitte. Klein und langsam."
+            },
+            {
+              "name": "Brust heben",
+              "cue": "Die Hände hinter dem Kopf, ausatmen und Kopf und Schultern ein wenig heben. Der Kopf darf jederzeit ab."
+            },
+            {
+              "name": "Dead Bug",
+              "cue": "Gegenüberliegender Arm und Bein strecken weg, dann zurück. Nur so weit, wie der Rücken ruhig bleibt."
+            },
+            {
+              "name": "Fersen tippen",
+              "cue": "Die Knie über den Hüften, die Schienbeine waagerecht. Eine Ferse zur Matte tippen, dann die andere."
+            },
+            {
+              "name": "Brücke",
+              "cue": "Ausatmen, die Hüften Wirbel für Wirbel anheben. Oben einatmen, ausatmend abrollen."
+            },
+            {
+              "name": "Plank auf den Knien",
+              "cue": "Unterarme und Knie ab, eine lange Linie von Kopf bis Knie. Halten und atmen."
+            },
+            {
+              "name": "Knie umarmen",
+              "cue": "Beide Knie heran, die Arme darum. Schaukel ein wenig von Seite zu Seite. Das waren neun Minuten."
+            }
+          ]
+        },
+        "pil_chair_10": {
+          "title": "Pilates am Stuhl",
+          "description": "Zehn Minuten Pilates ohne Boden. Ein Stuhl ist die ganze Ausrüstung.",
+          "steps": [
+            {
+              "name": "Nach vorn setzen",
+              "cue": "Beide Füße flach, setz dich nach vorn auf den Stuhl. Hände auf den Oberschenkeln."
+            },
+            {
+              "name": "Die Länge finden",
+              "cue": "Werde lang durch den Scheitel, ohne das Kinn zu heben. Atme dort."
+            },
+            {
+              "name": "Schultern kreisen",
+              "cue": "Hoch, zurück und runter. Acht Kreise, dann anders herum."
+            },
+            {
+              "name": "Arme kreisen",
+              "cue": "Die Arme zur Seite, kleine langsame Kreise. Zehn vorwärts, zehn zurück."
+            },
+            {
+              "name": "Seitlich strecken",
+              "cue": "Eine Hand hält die Sitzfläche, der andere Arm über den Kopf. Lehn dich weg. Dann die andere Seite."
+            },
+            {
+              "name": "Drehung",
+              "cue": "Hände an der Lehne, dreh aus der Mitte. Die Knie bleiben, wo sie sind. Beide Seiten."
+            },
+            {
+              "name": "Vorderseite öffnen",
+              "cue": "Hände hinter dir auf der Sitzfläche, heb die Brust, mach die Schlüsselbeine weit. Schau nach vorn."
+            },
+            {
+              "name": "Aufstehen und setzen",
+              "cue": "Steh auf und setz dich wieder, ohne die Hände zu benutzen. Acht Mal, langsam."
+            },
+            {
+              "name": "Lang stehen",
+              "cue": "Bleib die letzte Minute stehen. Füße parallel, das Gewicht gleich, die Schultern tief."
+            }
+          ]
+        },
+        "walk_3": {
+          "title": "Drei Minuten draußen",
+          "description": "Drei Minuten Gehweg. Schuhe, Tür und der Block, den du längst kennst.",
+          "steps": [
+            {
+              "name": "Schuhe an",
+              "cue": "Schuhe an und die Tür auf. Das ist der Teil, der die Entscheidung kostet."
+            },
+            {
+              "name": "Einfach gehen",
+              "cue": "Geh so, wie du zum Briefkasten gehst. Es gibt kein Tempo zu halten."
+            },
+            {
+              "name": "Umdrehen",
+              "cue": "Dreh an der Ecke um und komm zurück. Drei Minuten sind das Ganze."
+            }
+          ]
+        },
+        "walk_stairs_6": {
+          "title": "Sechs Minuten Treppe",
+          "description": "Sechs Minuten auf der Treppe, die du sowieso hast. Hoch in deinem Tempo, runter langsam.",
+          "steps": [
+            {
+              "name": "Unten stehen",
+              "cue": "Beide Füße auf dem Boden, eine Hand in der Nähe des Geländers. Zwei Atemzüge vor der ersten Stufe."
+            },
+            {
+              "name": "Locker hoch",
+              "cue": "Geh in einem Tempo hoch, in dem du telefonieren könntest. Der ganze Fuß auf jede Stufe."
+            },
+            {
+              "name": "Langsam runter",
+              "cue": "Runter ist der langsame Teil. Lass das vordere Bein dich tragen, statt dich fallen zu lassen."
+            },
+            {
+              "name": "Noch mal, zügiger",
+              "cue": "Das zweite Mal hoch, etwas zügiger. Reden ginge noch, singen nicht mehr."
+            },
+            {
+              "name": "Stehen und atmen",
+              "cue": "Bleib unten stehen. Hände ans Geländer oder auf die Oberschenkel. Lass den Atem von selbst zurückkommen."
+            }
+          ]
+        },
+        "walk_errand_10": {
+          "title": "Unterwegs",
+          "description": "Zehn Minuten eines Wegs, den du sowieso gehst: zum Laden, zur Schule, zum Müll.",
+          "steps": [
+            {
+              "name": "Losgehen",
+              "cue": "Geh einfach los, wohin du ohnehin wolltest. Nichts daran kommt obendrauf."
+            },
+            {
+              "name": "Tempo finden",
+              "cue": "Zwei Minuten etwas zügiger als sonst. Die Arme schwingen, die Schultern bleiben tief."
+            },
+            {
+              "name": "Hochschauen",
+              "cue": "Blick weg vom Gehweg. Nenn drei Dinge, die weiter weg sind als die Straße."
+            },
+            {
+              "name": "Länger ausatmen",
+              "cue": "Vier Schritte ein, sechs Schritte aus, ein Dutzend Atemzüge lang. Dann hör auf zu zählen."
+            },
+            {
+              "name": "Locker ankommen",
+              "cue": "Die letzten zwei Minuten im Tempo vom Anfang. Komm an, ohne das Ende zu hetzen."
+            }
+          ]
+        },
+        "pil_legs_5": {
+          "title": "Fünf für die Beine",
+          "description": "Fünf Minuten auf einer Seite, dann auf der anderen. Beine und Hüften, nichts am Nacken.",
+          "steps": [
+            {
+              "name": "Auf die Seite legen",
+              "cue": "Leg dich auf die Seite, Knie gebeugt, den Kopf auf den unteren Arm. Die Hüften übereinander."
+            },
+            {
+              "name": "Muschel",
+              "cue": "Füße zusammen, öffne das obere Knie so weit, wie die Hüfte ruhig bleibt. Zwölf, langsam."
+            },
+            {
+              "name": "Bein seitlich heben",
+              "cue": "Das obere Bein lang, heb es auf Hüfthöhe und senk es, ohne es fallen zu lassen. Zwölf."
+            },
+            {
+              "name": "Andere Seite",
+              "cue": "Roll dich herüber und wiederhol beides: zwölf Muscheln, zwölf Hebungen."
+            },
+            {
+              "name": "Knie zur Brust",
+              "cue": "Auf den Rücken, beide Knie heran. Lass die Hüften los."
+            }
+          ]
+        },
+        "pil_legs_9": {
+          "title": "Neun für die Beine",
+          "description": "Neun Minuten für Hüften, Gesäß und Beine. Auf dem Rücken und auf der Seite, nie am Nacken.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Auf den Rücken, Knie gebeugt, Füße flach und hüftbreit. Drei langsame Atemzüge."
+            },
+            {
+              "name": "Brücke",
+              "cue": "Ausatmen, die Hüften Wirbel für Wirbel anheben. Oben einatmen, ausatmend abrollen. Acht."
+            },
+            {
+              "name": "Brücke einbeinig",
+              "cue": "Hüften oben, dann ein Knie heranziehen, ohne dass die Hüften kippen. Vier je Seite."
+            },
+            {
+              "name": "Muschel",
+              "cue": "Auf die Seite, Knie gebeugt, Füße zusammen. Öffne das obere Knie zwölf Mal, dann die andere Seite."
+            },
+            {
+              "name": "Bein seitlich heben",
+              "cue": "Das obere Bein lang, auf Hüfthöhe heben und kontrolliert senken. Zwölf je Seite."
+            },
+            {
+              "name": "Kickbacks",
+              "cue": "Im Vierfüßler eine Ferse Richtung Decke drücken. Zehn je Seite. Der Rücken bleibt lang."
+            },
+            {
+              "name": "Vierer",
+              "cue": "Auf dem Rücken einen Knöchel über das andere Knie. Zieh den Oberschenkel heran und atme. Beide Seiten."
+            }
+          ]
+        },
+        "pil_full_4": {
+          "title": "Von Kopf bis Fuß",
+          "description": "Vier Minuten, die den ganzen Körper einmal berühren: Wirbelsäule, Hüften, Schultern, Beine.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Auf den Rücken, Knie gebeugt, Füße flach. Lass den Boden das Gewicht nehmen."
+            },
+            {
+              "name": "Knie pendeln",
+              "cue": "Füße zusammen, beide Knie zu einer Seite sinken lassen, dann zur anderen. Die Schultern bleiben schwer."
+            },
+            {
+              "name": "Katze-Kuh",
+              "cue": "Hände unter den Schultern, Knie unter den Hüften. Einatmend die Brust heben, ausatmend den Rücken runden."
+            },
+            {
+              "name": "Kindhaltung und hoch",
+              "cue": "Die Hüften Richtung Fersen, die Arme lang. Dann die Hände heranlaufen lassen und aufstehen."
+            },
+            {
+              "name": "Lang stehen",
+              "cue": "Füße hüftbreit und parallel. Wachs durch den Scheitel, die Schultern tief. Ein langer Atemzug."
+            }
+          ]
+        },
+        "pil_full_12": {
+          "title": "Zwölf für den Körper",
+          "description": "Zwölf Minuten vom Rücken in den Vierfüßler und zurück. Jeder Teil kommt einmal dran.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Auf den Rücken, Knie gebeugt, Füße flach. Durch die Nase ein, durch den Mund aus."
+            },
+            {
+              "name": "Beckenkippen",
+              "cue": "Ausatmen, den unteren Rücken Richtung Matte drücken. Einatmen, zurück in die Mitte. Zehn, klein."
+            },
+            {
+              "name": "Dead Bug",
+              "cue": "Knie über den Hüften, Arme zur Decke. Senk einen Arm und das gegenüberliegende Bein, dann wechsle. Der Rücken bleibt ruhig."
+            },
+            {
+              "name": "Brücke",
+              "cue": "Ausatmen, die Hüften anheben. Oben einatmen, ausatmend abrollen. Acht."
+            },
+            {
+              "name": "Katze-Kuh",
+              "cue": "Hände unter den Schultern, Knie unter den Hüften. Einatmend die Brust heben, ausatmend den Rücken runden. Unterarme sind auch in Ordnung."
+            },
+            {
+              "name": "Bird Dog",
+              "cue": "Streck einen Arm nach vorn und das gegenüberliegende Bein nach hinten. Zwei Atemzüge halten. Fünf je Seite."
+            },
+            {
+              "name": "Plank auf den Knien",
+              "cue": "Knie ab, Schultern über den Handgelenken, eine lange Linie vom Kopf bis zu den Knien. Drei Mal zwanzig Sekunden halten."
+            },
+            {
+              "name": "Nadelöhr",
+              "cue": "Aus dem Vierfüßler einen Arm unter dem anderen durchschieben und die Schulter auf der Matte ablegen. Beide Seiten."
+            },
+            {
+              "name": "Kindhaltung",
+              "cue": "Die Hüften Richtung Fersen, die Arme lang, die Stirn ab. Bleib dort für die letzten Atemzüge."
+            }
+          ]
+        },
+        "st_desk_6": {
+          "title": "Sechs am Schreibtisch",
+          "description": "Sechs Minuten am Stuhl, in dem, was du anhast. Nacken, Schultern, Rücken, Hüften.",
+          "steps": [
+            {
+              "name": "Nach vorn setzen",
+              "cue": "Beide Füße flach, setz dich nach vorn auf die Sitzfläche. Die Hände auf den Oberschenkeln."
+            },
+            {
+              "name": "Nacken neigen",
+              "cue": "Der Scheitel hoch und zur Seite, das Ohr eine Handbreit über der Schulter. Zwei Atemzüge, dann die andere Seite."
+            },
+            {
+              "name": "Schultern kreisen",
+              "cue": "Hoch, zurück und runter. Acht Kreise, dann acht andersherum."
+            },
+            {
+              "name": "Seitlich strecken",
+              "cue": "Eine Hand hält die Sitzfläche, der andere Arm über den Kopf. Lehn dich weg. Dann die andere Seite."
+            },
+            {
+              "name": "Drehung",
+              "cue": "Hände an der Lehne, dreh aus der Mitte. Die Knie bleiben, wo sie sind. Beide Seiten."
+            },
+            {
+              "name": "Aufstehen und lang werden",
+              "cue": "Steh auf, die Füße hüftbreit. Streck beide Arme hoch, dann lass sie fallen. Bleib stehen."
+            }
+          ]
+        },
+        "st_wall_6": {
+          "title": "Sechs an der Wand",
+          "description": "Sechs Minuten und eine Wand: Brust, Waden, Oberschenkel, Rücken. Nichts auszurollen.",
+          "steps": [
+            {
+              "name": "Die Wand suchen",
+              "cue": "Stell dich eine Armlänge vor eine Wand, die Füße hüftbreit. Beide Handflächen flach darauf, auf Schulterhöhe."
+            },
+            {
+              "name": "Brust an der Wand",
+              "cue": "Ein Unterarm an der Wand, der Ellbogen auf Schulterhöhe. Dreh die Brust langsam von dieser Hand weg. Zwei Atemzüge, dann die andere Seite."
+            },
+            {
+              "name": "Wade an der Wand",
+              "cue": "Die Hände an der Wand, ein Fuß nach hinten, diese Ferse drückt nach unten, das hintere Bein gerade. Vierzig Sekunden, dann das andere Bein."
+            },
+            {
+              "name": "Ferse zum Gesäß",
+              "cue": "Eine Hand an der Wand. Beug das andere Knie und nimm den Fuß nach hinten, die Knie nebeneinander. Fünfunddreißig Sekunden pro Seite."
+            },
+            {
+              "name": "Aus der Hüfte kippen",
+              "cue": "Geh einen Schritt von der Wand weg. Die Knie weich, kipp aus der Hüfte nach vorn, der Rücken lang und flach, die Arme hängen. Komm wieder hoch. Sechs langsame Runden."
+            },
+            {
+              "name": "Stehen und atmen",
+              "cue": "Steh aufrecht, das Gewicht gleichmäßig auf beiden Füßen. Drei unhektische Atemzüge, bevor du zurückgehst."
+            }
+          ]
+        },
+        "rec_yoga_floor_11": {
+          "title": "Yoga am Boden",
+          "description": "Elf Minuten Yoga auf der Matte: Vierfüßler, die Vorderseite, dann die Hüften.",
+          "steps": [
+            {
+              "name": "Ankommen",
+              "cue": "Auf den Rücken, die Knie gebeugt, die Füße flach. Drei Atemzüge, die länger enden, als sie anfangen."
+            },
+            {
+              "name": "Katze und Kuh",
+              "cue": "Die Hände unter den Schultern, die Knie unter den Hüften. Einatmen, die Brust öffnen. Ausatmen, den Rücken runden. Unterarme oder Fäuste, wenn die Handgelenke meckern."
+            },
+            {
+              "name": "Welpe",
+              "cue": "Aus dem Vierfüßler die Hände nach vorn wandern lassen und die Brust Richtung Matte sinken lassen, die Hüften über den Knien. Unterarme ab, wenn das freundlicher ist."
+            },
+            {
+              "name": "Sphinx",
+              "cue": "Auf den Bauch, die Unterarme auf der Matte, die Ellbogen unter den Schultern. Die Brust gehoben, der Blick waagerecht. Die Hüften bleiben schwer."
+            },
+            {
+              "name": "Tiefer Ausfallschritt mit Drehung, rechts",
+              "cue": "Der rechte Fuß nach vorn, das linke Knie auf der Matte. Die rechte Hand innen neben dem Fuß, der linke Arm öffnet sich zur Decke."
+            },
+            {
+              "name": "Tiefer Ausfallschritt mit Drehung, links",
+              "cue": "Der linke Fuß nach vorn, das rechte Knie ab. Die linke Hand innen neben dem Fuß, der rechte Arm öffnet sich. Dasselbe auf dieser Seite."
+            },
+            {
+              "name": "Stellung des Kindes",
+              "cue": "Die Hüften zurück Richtung Fersen, die Knie weit oder zusammen, die Arme lang. Drei große Atemzüge in den Rücken."
+            },
+            {
+              "name": "Fußsohlen aneinander",
+              "cue": "Auf den Rücken, die Fußsohlen aneinander, die Knie fallen auf. Ein Kissen unter jedes Knie, wenn sie weit hängen."
+            },
+            {
+              "name": "Glückliches Baby",
+              "cue": "Die Knie Richtung Achseln, halt die Außenseiten der Füße oder die Oberschenkel von hinten. Schaukel ein bisschen, wenn du magst."
+            },
+            {
+              "name": "Ruhen",
+              "cue": "Die Beine lang, die Arme neben dir. Nichts mehr zu tun."
+            }
+          ]
+        },
+        "mas_sweep_7": {
+          "title": "Kiefer bis Schlüsselbein",
+          "description": "Sieben Minuten langsame Striche vom Kiefer bis zu den Schlüsselbeinen. Im Sitzen, nur mit den Händen.",
+          "steps": [
+            {
+              "name": "Sitzen und ankommen",
+              "cue": "Setz dich, wo du bist, beide Füße am Boden. Lass die Schultern fallen. Die Augen zu, wenn du magst."
+            },
+            {
+              "name": "Den Kiefer öffnen",
+              "cue": "Lass den Kiefer schwer hängen, die Zähne auseinander, die Zunge weich. Atme durch den offenen Mund aus."
+            },
+            {
+              "name": "Wangen",
+              "cue": "Flache Finger auf den Wangen, langsame Kreise nach außen Richtung Ohren. Zehn pro Seite."
+            },
+            {
+              "name": "Am Kiefer entlang",
+              "cue": "Die Daumen unter dem Kieferrand, gleite vom Kinn nach außen zum Ohr. Sechs Durchgänge."
+            },
+            {
+              "name": "Den Hals hinunter",
+              "cue": "Flache Finger direkt unter dem Ohr, streich langsam an der Halsseite hinunter Richtung Schlüsselbein. Leicht. Zehn Durchgänge pro Seite."
+            },
+            {
+              "name": "Unter den Schlüsselbeinen",
+              "cue": "Beide Hände flach knapp unter den Schlüsselbeinen, die Fingerspitzen zur Mitte. Kleine langsame Kreise."
+            },
+            {
+              "name": "Das Gesicht ruhen lassen",
+              "cue": "Die Hände im Schoß. Lass das Gesicht einen Moment still sein."
+            }
+          ]
+        },
+        "rec_yoga_upright_10": {
+          "title": "Yoga ohne Matte",
+          "description": "Zehn Minuten Yoga im Stehen, in dem, was du anhast. Keine Matte, kein Boden.",
+          "steps": [
+            {
+              "name": "Aufrecht stehen",
+              "cue": "Die Füße hüftbreit, das Gewicht gleichmäßig. Lass die Schultern von den Ohren wegfallen."
+            },
+            {
+              "name": "Nach oben strecken",
+              "cue": "Einatmen, beide Arme hoch an den Ohren vorbei. Ausatmen, lass sie hinuntergleiten. Sechs Runden im Tempo deines Atems."
+            },
+            {
+              "name": "Stuhl",
+              "cue": "Die Füße zusammen oder hüftbreit. Setz die Hüften zurück, die Knie gebeugt, die Arme nach vorn und hoch. Fünf Atemzüge, dann aufstehen."
+            },
+            {
+              "name": "Krieger, rechts",
+              "cue": "Der rechte Fuß nach vorn und ausgedreht, der linke Fuß hinten und flach. Beug das vordere Knie über den Knöchel, die Arme lang auf Schulterhöhe."
+            },
+            {
+              "name": "Krieger, links",
+              "cue": "Dreh es um: der linke Fuß nach vorn, der rechte nach hinten. Dasselbe auf dieser Seite."
+            },
+            {
+              "name": "Aus der Hüfte kippen",
+              "cue": "Die Füße hüftbreit, die Knie weich. Kipp aus der Hüfte nach vorn, der Rücken lang und flach, die Arme hängen. Komm hoch. Sechsmal."
+            },
+            {
+              "name": "Vorbeuge",
+              "cue": "Lass den Rücken runden und hängen. Die Knie so gebeugt, wie du magst. Halt die Ellbogen und pendle."
+            },
+            {
+              "name": "Baum",
+              "cue": "Das Gewicht in einen Fuß, die andere Sohle an den Knöchel oder die Wade, nie ans Knie. Die Hände vor der Brust. Fünfundvierzig Sekunden pro Seite."
+            },
+            {
+              "name": "Stehen und atmen",
+              "cue": "Beide Füße wieder am Boden. Drei langsame Atemzüge, dann geh."
+            }
+          ]
+        },
+        "st_desk_10": {
+          "title": "Zehn am Schreibtisch",
+          "description": "Zehn Minuten am Stuhl für einen Tag, der weitergeht: Nacken, Schultern, Handgelenke, Hüften.",
+          "steps": [
+            {
+              "name": "Nach vorn setzen",
+              "cue": "Beide Füße flach, setz dich nach vorn auf die Sitzfläche. Die Hände auf den Oberschenkeln, die Schultern weg von den Ohren."
+            },
+            {
+              "name": "Nacken halbkreisen",
+              "cue": "Das Kinn Richtung Brust, dann in einem langsamen Halbkreis zur einen Schulter und zurück. Vier pro Seite, nie nach hinten."
+            },
+            {
+              "name": "Arm quer",
+              "cue": "Ein Arm quer vor der Brust auf Schulterhöhe, der andere Unterarm sammelt ihn ein. Zwei Atemzüge, dann die andere Seite."
+            },
+            {
+              "name": "Adlerarme",
+              "cue": "Die Arme vorn kreuzen, Ellbogen übereinander, Handrücken aneinander. Heb die Ellbogen ein Stück. Zur Hälfte das Kreuz tauschen."
+            },
+            {
+              "name": "Katze und Kuh im Sitzen",
+              "cue": "Die Hände auf den Knien. Ausatmen und den Rücken runden, das Kinn zur Brust. Einatmen und die Brust öffnen. Sechs langsame Runden."
+            },
+            {
+              "name": "Knöchel aufs Knie",
+              "cue": "Ein Knöchel über das andere Knie, das Knie fällt nach außen. Setz dich lang hin, dann kipp aus der Hüfte nach vorn. Vierzig Sekunden, dann die andere Seite."
+            },
+            {
+              "name": "Ein Bein lang",
+              "cue": "Rutsch nach vorn auf die Sitzfläche, ein Bein gerade, die Ferse am Boden, die Zehen hoch. Langer Rücken, kipp aus der Hüfte nach vorn. Dann das andere Bein."
+            },
+            {
+              "name": "Handgelenke",
+              "cue": "Ein Arm gerade nach vorn, die Handfläche nach oben, die Finger zeigen nach unten. Die andere Hand zieht die Finger sanft zu dir. Beide Seiten."
+            },
+            {
+              "name": "Aufstehen und lang werden",
+              "cue": "Steh auf, die Füße hüftbreit. Beide Arme hoch an den Ohren vorbei, dann lass sie fallen. Bleib einen Moment stehen."
+            }
+          ]
+        },
+        "rec_soft_belly_10": {
+          "title": "Tief und langsam",
+          "description": "Zehn Minuten im Liegen, für die Tage, an denen du lieber liegen würdest.",
+          "steps": [
+            {
+              "name": "Hinlegen",
+              "cue": "Auf den Rücken, die Knie gebeugt, die Füße flach, ein Kissen unter dem Kopf, wenn du eines magst."
+            },
+            {
+              "name": "Hände auf den Bauch",
+              "cue": "Beide Handflächen flach und warm auf den Unterbauch. Langsame Kreise in die eine Richtung, dann in die andere. Atme in deine Hände."
+            },
+            {
+              "name": "Knie pendeln",
+              "cue": "Die Füße zusammen, lass beide Knie zur einen Seite fallen, dann zur anderen. Die Schultern bleiben schwer."
+            },
+            {
+              "name": "Knie zur Brust",
+              "cue": "Zieh beide Knie heran, die Hände an den Schienbeinen. Schaukle ein wenig hin und her."
+            },
+            {
+              "name": "Fußsohlen aneinander",
+              "cue": "Die Fußsohlen aneinander, die Knie fallen auf. Ein Kissen unter jedes Knie, wenn sie weit hängen."
+            },
+            {
+              "name": "Drehung",
+              "cue": "Die Knie zur einen Seite, die Arme weit, schau in die andere Richtung. Zur Hälfte die Seite wechseln."
+            },
+            {
+              "name": "Beine hoch",
+              "cue": "Die Beine an eine Wand oder auf eine Stuhlfläche, die Arme weit. Bleib."
+            },
+            {
+              "name": "Ruhen",
+              "cue": "Die Beine ab, alles lang. Jetzt nichts mehr zu tun."
+            }
+          ]
+        },
+        "rec_quiet_5": {
+          "title": "Fünf ohne alles",
+          "description": "Fünf Minuten ohne Matte, ohne Stuhl, ohne Platz am Boden. Schultern, Nacken, Arme.",
+          "steps": [
+            {
+              "name": "Stehen oder sitzen",
+              "cue": "Wo du gerade bist. Die Füße am Boden, das Gewicht gleichmäßig, die Schultern weg von den Ohren."
+            },
+            {
+              "name": "Schultern kreisen",
+              "cue": "Hoch, zurück und runter. Acht Kreise, dann acht andersherum."
+            },
+            {
+              "name": "Nacken halbkreisen",
+              "cue": "Das Kinn Richtung Brust, dann ein langsamer Halbkreis zur einen Schulter und zurück. Vier pro Seite, nie nach hinten."
+            },
+            {
+              "name": "Arm quer",
+              "cue": "Ein Arm quer vor der Brust auf Schulterhöhe, der andere Unterarm sammelt ihn ein. Zwei Atemzüge, dann die andere Seite."
+            },
+            {
+              "name": "Hochstrecken und loslassen",
+              "cue": "Beide Arme hoch an den Ohren vorbei, dann lass sie fallen. Dreimal, dann steh für den letzten Atemzug still."
+            }
+          ]
+        },
+        "rec_quiet_7": {
+          "title": "Sieben ohne Matte",
+          "description": "Sieben Minuten im Stehen, in dem, was du anhast. Brust, Seiten, Rücken und wieder runter.",
+          "steps": [
+            {
+              "name": "Aufrecht stehen",
+              "cue": "Die Füße hüftbreit, das Gewicht gleichmäßig auf beiden Füßen. Zwei langsame Atemzüge."
+            },
+            {
+              "name": "Schultern kreisen",
+              "cue": "Hoch, zurück und runter. Acht Kreise, dann acht andersherum."
+            },
+            {
+              "name": "Adlerarme",
+              "cue": "Die Arme vorn kreuzen, Ellbogen übereinander, Handrücken aneinander. Heb die Ellbogen ein Stück. Zur Hälfte das Kreuz tauschen."
+            },
+            {
+              "name": "Brust öffnen",
+              "cue": "Verschränk die Hände hinter dir oder halt die gegenüberliegenden Ellbogen. Heb die Brust und atme weit."
+            },
+            {
+              "name": "Seitlich strecken",
+              "cue": "Ein Arm über den Kopf, lehn dich sanft zur anderen Seite. Atme in die offenen Rippen. Zur Hälfte wechseln."
+            },
+            {
+              "name": "Aus der Hüfte kippen",
+              "cue": "Die Knie weich. Kipp aus der Hüfte nach vorn, der Rücken lang und flach, die Arme hängen. Komm wieder hoch. Sechs langsame Runden."
+            },
+            {
+              "name": "Vorbeuge und hängen",
+              "cue": "Lass den Rücken runden und hängen. Die Knie so gebeugt, wie du magst. Halt die Ellbogen und pendle."
+            },
+            {
+              "name": "Stehen und atmen",
+              "cue": "Roll dich langsam hoch. Drei unhektische Atemzüge, bevor du weitergehst."
             }
           ]
         }
